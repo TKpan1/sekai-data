@@ -1,0 +1,209 @@
+{
+  "iso3": "SVK",
+  "input_hash": "51d17a73b0e8601f",
+  "events": [
+    {
+      "year": 1867,
+      "label": "ハンガリー化政策",
+      "text": "19世紀にスロバキアの民族運動が発展したが、1867年以後はハンガリーの厳しい統制とハンガリー化政策に制約された。",
+      "sources": [
+        {
+          "title": "Wikipedia「スロバキアの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AD%E3%83%90%E3%82%AD%E3%82%A2%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1918,
+      "label": "チェコスロバキア独立",
+      "text": "1918年、マサリクがチェコスロバキアの独立を宣言し、北部ハンガリーの大部分が現在のスロバキアの基本的な領土となった。",
+      "sources": [
+        {
+          "title": "Wikipedia「スロバキア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AD%E3%83%90%E3%82%AD%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1938,
+      "label": "ウィーン裁定と自治",
+      "text": "1938年のミュンヘン会談と第一次ウィーン裁定で南部スロバキアをハンガリーに割譲し、11月にスロバキア自治政府が成立した。",
+      "sources": [
+        {
+          "title": "Wikipedia「スロバキア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AD%E3%83%90%E3%82%AD%E3%82%A2"
+        },
+        {
+          "title": "Wikipedia「スロバキアの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AD%E3%83%90%E3%82%AD%E3%82%A2%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1939,
+      "label": "スロバキア共和国",
+      "text": "1939年3月14日、ナチス・ドイツの支援でティソを元首とするスロバキア共和国が独立し、ドイツの保護国となった。",
+      "sources": [
+        {
+          "title": "Wikipedia「スロバキア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AD%E3%83%90%E3%82%AD%E3%82%A2"
+        },
+        {
+          "title": "Wikipedia「スロバキアの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AD%E3%83%90%E3%82%AD%E3%82%A2%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1944,
+      "label": "スロバキア民衆蜂起",
+      "text": "1944年8月29日、スロバキア民衆蜂起が起きた。翌年4月にはソ連赤軍がブラチスラヴァを占領した。",
+      "sources": [
+        {
+          "title": "Wikipedia「スロバキア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AD%E3%83%90%E3%82%AD%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1945,
+      "label": "チェコスロバキア再興",
+      "text": "1945年、亡命政府が帰国してチェコスロバキア共和国が再興された。",
+      "sources": [
+        {
+          "title": "Wikipedia「スロバキア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AD%E3%83%90%E3%82%AD%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1948,
+      "label": "共産党政権",
+      "text": "1948年の二月政変で共産党政権が成立した。",
+      "sources": [
+        {
+          "title": "Wikipedia「スロバキア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AD%E3%83%90%E3%82%AD%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1969,
+      "label": "連邦制の導入",
+      "text": "1969年、プラハの春への軍事介入後に連邦制が導入されスロバキア社会主義共和国が発足したが、権限は形骸化した。",
+      "sources": [
+        {
+          "title": "Wikipedia「スロバキア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AD%E3%83%90%E3%82%AD%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1989,
+      "label": "ビロード革命",
+      "text": "1989年11月のビロード革命で共産党政権が解体された。",
+      "sources": [
+        {
+          "title": "Wikipedia「スロバキア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AD%E3%83%90%E3%82%AD%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1993,
+      "label": "分離独立",
+      "text": "1993年1月1日、チェコとの連邦を解消し（ビロード離婚）、スロバキア共和国として独立した。",
+      "sources": [
+        {
+          "title": "Wikipedia「スロバキア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AD%E3%83%90%E3%82%AD%E3%82%A2"
+        },
+        {
+          "title": "Wikipedia「スロバキアの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AD%E3%83%90%E3%82%AD%E3%82%A2%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1998,
+      "label": "ズリンダ政権",
+      "text": "1998年の議会選挙でズリンダ率いる連合が政権につき、OECD加盟に向けた政治・経済改革を進めた。",
+      "sources": [
+        {
+          "title": "Wikipedia「スロバキアの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AD%E3%83%90%E3%82%AD%E3%82%A2%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 2000,
+      "label": "OECD加盟",
+      "text": "2000年12月、経済協力開発機構（OECD）に加盟した。",
+      "sources": [
+        {
+          "title": "Wikipedia「スロバキア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AD%E3%83%90%E3%82%AD%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 2004,
+      "label": "NATO・EU加盟",
+      "text": "2004年3月に北大西洋条約機構（NATO）に、5月1日に欧州連合（EU）に加盟した。",
+      "sources": [
+        {
+          "title": "Wikipedia「スロバキア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AD%E3%83%90%E3%82%AD%E3%82%A2"
+        },
+        {
+          "title": "Wikipedia「スロバキアの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AD%E3%83%90%E3%82%AD%E3%82%A2%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 2009,
+      "label": "ユーロ導入",
+      "text": "2009年1月1日、通貨をスロバキア・コルナからユーロに切り替えた。EUで16か国目であった。",
+      "sources": [
+        {
+          "title": "Wikipedia「スロバキア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AD%E3%83%90%E3%82%AD%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "label": "フィツォ政権",
+      "text": "2012年3月の繰り上げ総選挙でSMER-SDが単独過半数を獲得し、フィツォが首相となった。",
+      "sources": [
+        {
+          "title": "Wikipedia「スロバキア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AD%E3%83%90%E3%82%AD%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "label": "初の女性大統領",
+      "text": "2019年、ズザナ・チャプトヴァーが同国初の女性大統領になった。",
+      "sources": [
+        {
+          "title": "Wikipedia「スロバキア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AD%E3%83%90%E3%82%AD%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "label": "政権交代",
+      "text": "2018年の記者殺害事件で信頼を失った与党が2020年の選挙で大敗し、右派連立政権が誕生した。",
+      "sources": [
+        {
+          "title": "Wikipedia「スロバキア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AD%E3%83%90%E3%82%AD%E3%82%A2"
+        }
+      ]
+    }
+  ]
+}

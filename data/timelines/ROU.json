@@ -1,0 +1,204 @@
+{
+  "iso3": "ROU",
+  "input_hash": "d27189090cbfb558",
+  "events": [
+    {
+      "year": 1812,
+      "label": "ベッサラビア割譲",
+      "text": "モルダヴィアが東部のベッサラビアをロシア帝国に割譲した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ルーマニア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%83%9E%E3%83%8B%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1859,
+      "label": "両公国の統一",
+      "text": "ワラキアとモルダヴィアの公主が統一され、現代のルーマニア国家の始まりとなった。",
+      "sources": [
+        {
+          "title": "Wikipedia「ルーマニア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%83%9E%E3%83%8B%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1861,
+      "label": "連合公国の成立",
+      "text": "オスマン帝国宗主下の自治国として連合公国（ルーマニア公国）が成立した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ルーマニア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%83%9E%E3%83%8B%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1877,
+      "label": "独立宣言",
+      "text": "露土戦争に乗じて独立宣言を行い、オスマン帝国から独立した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ルーマニア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%83%9E%E3%83%8B%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1878,
+      "label": "ルーマニア王国",
+      "text": "ベルリン会議で独立が国際的に承認され、ルーマニア王国が成立した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ルーマニア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%83%9E%E3%83%8B%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1916,
+      "label": "連合国側で参戦",
+      "text": "1914年に中立を宣言した後、連合国とともに第一次世界大戦に参戦した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ルーマニア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%83%9E%E3%83%8B%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1918,
+      "label": "大ルーマニア",
+      "text": "ベッサラビアを回復し、トランシルヴァニアなども併合して領土を倍増させた。",
+      "sources": [
+        {
+          "title": "Wikipedia「ルーマニア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%83%9E%E3%83%8B%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1940,
+      "label": "領土の割譲",
+      "text": "ベッサラビアと北ブコヴィナをソ連へ、北トランシルヴァニアをハンガリーへ割譲し、三国同盟に調印した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ルーマニア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%83%9E%E3%83%8B%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1941,
+      "label": "枢軸国側で参戦",
+      "text": "6月、枢軸国側として第二次世界大戦に参戦した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ルーマニア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%83%9E%E3%83%8B%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1944,
+      "label": "連合国側へ転換",
+      "text": "8月の政変でアントネスク元帥ら親ドイツ派を逮捕し、連合国側についた。",
+      "sources": [
+        {
+          "title": "Wikipedia「ルーマニア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%83%9E%E3%83%8B%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1947,
+      "label": "人民共和国",
+      "text": "王制を廃止し、ルーマニア人民共和国が成立した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ルーマニア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%83%9E%E3%83%8B%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1965,
+      "label": "社会主義共和国",
+      "text": "ルーマニア社会主義共和国に改称した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ルーマニア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%83%9E%E3%83%8B%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1989,
+      "label": "ルーマニア革命",
+      "text": "チャウシェスクの独裁政権が打倒され、民主主義と市場経済への移行が始まった。",
+      "sources": [
+        {
+          "title": "Wikipedia「ルーマニア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%83%9E%E3%83%8B%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 2004,
+      "label": "NATO加盟",
+      "text": "北大西洋条約機構（NATO）に参加した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ルーマニア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%83%9E%E3%83%8B%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 2007,
+      "label": "EU加盟",
+      "text": "1月1日、欧州連合（EU）に加盟した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ルーマニア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%83%9E%E3%83%8B%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "label": "ウクライナ支援",
+      "text": "ロシアのウクライナ侵攻を受け、ウクライナ難民の滞在や就労を認め、軍事面でも便宜を図った。",
+      "sources": [
+        {
+          "title": "Wikipedia「ルーマニアの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%83%9E%E3%83%8B%E3%82%A2%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "label": "大統領選のやり直し",
+      "text": "ロシアの選挙介入などが発覚して選挙がやり直され、ニクショル・ダンが当選した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ルーマニアの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%83%9E%E3%83%8B%E3%82%A2%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "label": "ドナウ渇水で原発停止",
+      "text": "ドナウ川の記録的な水位低下でチェルナヴォダ原発が停止し、エネルギー非常事態が宣言された。",
+      "sources": [
+        {
+          "title": "Wikipedia「ルーマニアの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%83%9E%E3%83%8B%E3%82%A2%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "iso3": "NLD",
+  "input_hash": "930353b2df58e5ff",
+  "events": [
+    {
+      "year": 1813,
+      "label": "ネーデルラント公国",
+      "text": "ナポレオン帝国の崩壊で再び自由を得て、オラニエ公ウィレムを君主とするネーデルラント公国が宣言された。",
+      "sources": [
+        {
+          "title": "Wikipedia「オランダ王国」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E7%8E%8B%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 1815,
+      "label": "ネーデルラント王国",
+      "text": "3月に君主の称号がネーデルラント国王となり、現在に至る王国が成立した。",
+      "sources": [
+        {
+          "title": "Wikipedia「オランダ王国」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E7%8E%8B%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 1830,
+      "label": "ベルギー独立革命",
+      "text": "ベルギー独立革命でベルギーが王国から離脱し、オランダは1839年のロンドン条約で独立を承認した。",
+      "sources": [
+        {
+          "title": "Wikipedia「オランダ王国」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E7%8E%8B%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 1954,
+      "label": "オランダ王国憲章",
+      "text": "王国憲章が宣言され、植民地だったスリナムとオランダ領アンティルが王国の構成国となった。",
+      "sources": [
+        {
+          "title": "Wikipedia「オランダ王国」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E7%8E%8B%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 1962,
+      "label": "ニューギニア統治終了",
+      "text": "オランダ領ニューギニアは、この年まで王国の属領であった。",
+      "sources": [
+        {
+          "title": "Wikipedia「オランダ王国」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E7%8E%8B%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 1975,
+      "label": "スリナム独立",
+      "text": "デン・ウイル内閣とスリナムのアロン首相の合意により、11月25日にスリナムが独立した。",
+      "sources": [
+        {
+          "title": "Wikipedia「オランダ王国」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E7%8E%8B%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 1986,
+      "label": "アルバが構成国に",
+      "text": "アルバがオランダ領アンティルを離脱し、王国の構成国となった。",
+      "sources": [
+        {
+          "title": "Wikipedia「オランダ王国」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E7%8E%8B%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "label": "アンティルの解体",
+      "text": "10月10日にオランダ領アンティルが解体され、キュラソーとシント・マールテンが構成国、BES諸島が特別自治体となった。",
+      "sources": [
+        {
+          "title": "Wikipedia「オランダ王国」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E7%8E%8B%E5%9B%BD"
+        }
+      ]
+    }
+  ]
+}

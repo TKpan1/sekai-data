@@ -1,0 +1,19 @@
+{
+ "iso3": "POL",
+ "input_hash": "41330171b67337e3",
+ "text": "石炭が発電の50.4％（2025年）を占め、世界平均の33.0％を大きく上回る。国内に石炭が豊富で、生産量は世界第8位とされる（Wikipedia）。1985年には97.3％と、ほぼ石炭だけで電気をまかなっていた。\nそれが半分ほどまで下がったのは、風力（14.2％）と太陽光（11.3％）が伸びたためである。Emberは、20年前に91％だった石炭の割合が2025年に51％になり、2020〜2025年に20GW超の太陽光が加わったと伝える。電力需要もGDPも伸びる中での低下だった。\n背景にはEUの気候目標がある。世界原子力協会によれば、同国は目標を受けて電源の多様化を迫られ、国家計画EPP2040は2030年の石炭の割合を56％以下に抑えるとしている。Emberは、2030年に再エネ51％という目標も挙げる。\n原子力は0.0％だが、計画は進んでいる。ルビアトヴォ・コパリノにAP1000を3基（計375万kW）建て、初号機は2036年の運転開始が見込まれている（世界原子力協会）。",
+ "sources": [
+  {
+   "title": "Ember「Poland」",
+   "url": "https://ember-energy.org/countries-and-regions/poland/"
+  },
+  {
+   "title": "世界原子力協会「Nuclear Power in Poland」",
+   "url": "https://world-nuclear.org/information-library/country-profiles/countries-o-s/poland"
+  },
+  {
+   "title": "Wikipedia「ポーランド」",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "iso3": "ZAF",
+ "input_hash": "2e404529cac1746a",
+ "text": "南アフリカは石炭が81.4%（2025年）を占め、世界平均（33.0%）の2倍を超える。1985年は95.8%で、下がってはいるが石炭中心は変わらない。\n国内に石炭が豊富なためである。米国EIAによれば、2022年の確認埋蔵量は約110億ショートトン、生産量は世界7位で、同年の電力の約88%が石炭だった。ただし炭田は北東部のムプマランガ州にあり、需要は沿岸に偏る。WNAは、遠くへ運ぶ非効率さが、ケープタウン近郊のクーベルグ原発（1984年と1985年に系統接続）の理由だとする。原子力は4.2%（2025年）である。\n発電と送電の大半は国営のエスコムが握る。EIAは、設備の老朽化と保守不足で計画停電が頻発したと述べ、WNAによれば2023年2月に災害事態が宣言されたが、2025年5月以降は計画停電が止まっている。\n停電が続いた時期に、太陽光が広まった。2025年は太陽光8.0%、風力4.7%である。国の入札制度は2024年1月までに112の独立事業者から約6.4GWを調達した（EIA）。Emberによれば、南アは2025年6月までの1年間にアフリカ最大の太陽光パネル輸入国で、輸入が急増した2023年は電力危機の最悪期だった。",
+ "sources": [
+  {
+   "title": "米国エネルギー情報局（EIA）「South Africa」国別分析",
+   "url": "https://www.eia.gov/international/content/analysis/countries_long/South_Africa/"
+  },
+  {
+   "title": "World Nuclear Association「Nuclear Power in South Africa」",
+   "url": "https://world-nuclear.org/information-library/country-profiles/countries-o-s/south-africa"
+  },
+  {
+   "title": "Ember「The first evidence of a take-off in solar in Africa」",
+   "url": "https://ember-energy.org/latest-insights/the-first-evidence-of-a-take-off-in-solar-in-africa/"
+  }
+ ]
+}

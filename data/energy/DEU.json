@@ -1,0 +1,19 @@
+{
+ "iso3": "DEU",
+ "input_hash": "d1ae959e34481d13",
+ "text": "ドイツは風力が2025年に27.2%、太陽光が17.9%で、合わせて45%に達する。1985年は石炭61.8%、原子力27.4%で、風力と太陽光はゼロだった。\n転換の起点は2000年の再生可能エネルギー法（EEG）である。WNAは、固定価格買取制度によって風力が最大の再エネになったと述べ、Emberもこの法律を拡大の土台とする。風力と太陽光の合計は、2000年ごろの2%未満から2025年の45%近くまで伸びた。\n原子力は2025年に0.0%である。2000年に政府と産業界が段階的な廃止に合意し、2010年には運転延長に転じたが、2011年の福島第一原発事故を受けて再び廃止を決め、8基がすぐに停止された。最後の3基は、ロシアからのガス供給減を補うために2022年に延長されたのち、2023年4月に停止した。事故前、原子力は電力の約4分の1を占めていた。\n石炭は20.6%（2025年）まで下がったが、なお大きい。2022年の発電では褐炭だけで20.1%を占めた。政府は2019年に、石炭火力を2038年までに廃止する方針を発表している。",
+ "sources": [
+  {
+   "title": "Ember「Germany」",
+   "url": "https://ember-energy.org/countries-and-regions/germany/"
+  },
+  {
+   "title": "World Nuclear Association「Nuclear Power in Germany」",
+   "url": "https://world-nuclear.org/information-library/country-profiles/countries-g-n/germany"
+  },
+  {
+   "title": "Wikipedia「ドイツ」",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84"
+  }
+ ]
+}

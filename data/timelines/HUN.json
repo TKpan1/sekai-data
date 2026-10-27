@@ -1,0 +1,182 @@
+{
+  "iso3": "HUN",
+  "input_hash": "af9f51eb2e0a9aac",
+  "events": [
+    {
+      "year": 1848,
+      "label": "1848年革命",
+      "text": "1848年の3月革命でコッシュートが独立運動を指導したが、ロシア帝国軍の介入で失敗した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ハンガリー」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%AC%E3%83%AA%E3%83%BC"
+        }
+      ]
+    },
+    {
+      "year": 1867,
+      "label": "二重帝国の成立",
+      "text": "1867年の和協（アウスグライヒ）により、オーストリア＝ハンガリー帝国となった。",
+      "sources": [
+        {
+          "title": "Wikipedia「ハンガリー」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%AC%E3%83%AA%E3%83%BC"
+        }
+      ]
+    },
+    {
+      "year": 1918,
+      "label": "アスター革命",
+      "text": "第一次世界大戦に敗れ、1918年10月31日のアスター革命でハンガリー初の共和制国家が成立した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ハンガリー」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%AC%E3%83%AA%E3%83%BC"
+        }
+      ]
+    },
+    {
+      "year": 1919,
+      "label": "ソビエト共和国",
+      "text": "1919年3月にクン・ベーラのハンガリー・ソビエト共和国が一時成立したが、ルーマニアの介入で打倒された。",
+      "sources": [
+        {
+          "title": "Wikipedia「ハンガリー」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%AC%E3%83%AA%E3%83%BC"
+        }
+      ]
+    },
+    {
+      "year": 1920,
+      "label": "トリアノン条約",
+      "text": "1920年にホルティを摂政とする王国が成立した。同年のトリアノン条約で面積の72%、人口の64%を失った。",
+      "sources": [
+        {
+          "title": "Wikipedia「ハンガリー」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%AC%E3%83%AA%E3%83%BC"
+        }
+      ]
+    },
+    {
+      "year": 1944,
+      "label": "矢十字党政権",
+      "text": "1944年、枢軸国からの離脱を目指したホルティがドイツ軍と矢十字党のクーデターで失脚した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ハンガリー」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%AC%E3%83%AA%E3%83%BC"
+        }
+      ]
+    },
+    {
+      "year": 1946,
+      "label": "王制廃止",
+      "text": "1946年2月1日に王制が廃止され、ハンガリー共和国が成立した。史上最悪のハイパーインフレーションが起きた。",
+      "sources": [
+        {
+          "title": "Wikipedia「ハンガリー」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%AC%E3%83%AA%E3%83%BC"
+        }
+      ]
+    },
+    {
+      "year": 1949,
+      "label": "人民共和国",
+      "text": "1949年8月15日にハンガリー人民共和国が成立し、一党独裁のソ連の衛星国となった。",
+      "sources": [
+        {
+          "title": "Wikipedia「ハンガリー」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%AC%E3%83%AA%E3%83%BC"
+        }
+      ]
+    },
+    {
+      "year": 1956,
+      "label": "ハンガリー動乱",
+      "text": "1956年に共産主義体制への反発からハンガリー動乱が起きたが、ソ連軍に鎮圧された。",
+      "sources": [
+        {
+          "title": "Wikipedia「ハンガリー」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%AC%E3%83%AA%E3%83%BC"
+        }
+      ]
+    },
+    {
+      "year": 1989,
+      "label": "民主化・国境開放",
+      "text": "1989年5月にオーストリア国境の鉄条網を撤去して冷戦終結の引き金となり、10月に多党制の第三共和国が成立した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ハンガリー」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%AC%E3%83%AA%E3%83%BC"
+        }
+      ]
+    },
+    {
+      "year": 1999,
+      "label": "NATO加盟",
+      "text": "1999年3月に北大西洋条約機構（NATO）に加盟した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ハンガリー」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%AC%E3%83%AA%E3%83%BC"
+        }
+      ]
+    },
+    {
+      "year": 2004,
+      "label": "EU加盟",
+      "text": "2004年5月に欧州連合（EU）に加盟した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ハンガリー」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%AC%E3%83%AA%E3%83%BC"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "label": "オルバーン再登板",
+      "text": "2010年にオルバーンが首相に返り咲き、長期政権の下で次第に親露路線に転換した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ハンガリー」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%AC%E3%83%AA%E3%83%BC"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "label": "ハンガリー基本法",
+      "text": "2012年1月1日に新憲法「ハンガリー基本法」が施行され、国名が変更された。",
+      "sources": [
+        {
+          "title": "Wikipedia「ハンガリー」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%AC%E3%83%AA%E3%83%BC"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "label": "ウクライナ支援拒否",
+      "text": "2022年のロシアのウクライナ侵攻の際、国益に反するとしてウクライナへの軍事支援を拒否した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ハンガリー」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%AC%E3%83%AA%E3%83%BC"
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "label": "16年ぶり政権交代",
+      "text": "2026年4月の総選挙で新興野党ティサが大勝し、マジャル・ペーテルが首相に就任して16年ぶりに政権が交代した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ハンガリー」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%AC%E3%83%AA%E3%83%BC"
+        }
+      ]
+    }
+  ]
+}

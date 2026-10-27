@@ -1,0 +1,215 @@
+{
+  "iso3": "FRA",
+  "input_hash": "27acfe52b25023bd",
+  "events": [
+    {
+      "year": 1804,
+      "label": "ナポレオン皇帝即位",
+      "text": "ナポレオンが皇帝に即位して第一帝政を開いた。ナポレオン法典を発布し、革命の成果を継承する姿勢を示した。",
+      "sources": [
+        {
+          "title": "Wikipedia「フランス」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9"
+        }
+      ]
+    },
+    {
+      "year": 1815,
+      "label": "ワーテルローの戦い",
+      "text": "エルバ島を脱出して一時復帰したナポレオンがワーテルローの戦いに敗れ、ナポレオン時代は終わった。",
+      "sources": [
+        {
+          "title": "Wikipedia「フランス」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9"
+        }
+      ]
+    },
+    {
+      "year": 1830,
+      "label": "七月革命",
+      "text": "保守反動政治に反発した自由派の七月革命でシャルル10世が追放され、七月王政が始まった。同年アルジェリア侵略も始めた。",
+      "sources": [
+        {
+          "title": "Wikipedia「フランス」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9"
+        }
+      ]
+    },
+    {
+      "year": 1848,
+      "label": "二月革命",
+      "text": "二月革命で王政が崩壊し、男子普通選挙を導入した第二共和政が成立した。",
+      "sources": [
+        {
+          "title": "Wikipedia「フランス」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9"
+        }
+      ]
+    },
+    {
+      "year": 1852,
+      "label": "第二帝政",
+      "text": "ルイ・ナポレオンがナポレオン3世として即位し第二帝政を開いた。産業革命を急速に進め経済を大きく成長させた。",
+      "sources": [
+        {
+          "title": "Wikipedia「フランス」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9"
+        }
+      ]
+    },
+    {
+      "year": 1870,
+      "label": "普仏戦争",
+      "text": "普仏戦争に敗れてナポレオン3世は退位した。",
+      "sources": [
+        {
+          "title": "Wikipedia「フランス」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9"
+        }
+      ]
+    },
+    {
+      "year": 1871,
+      "label": "第三共和政",
+      "text": "アルザス・ロレーヌを割譲して和議が成立し、パリ・コミューンも鎮圧されて第三共和政が打ち立てられた。",
+      "sources": [
+        {
+          "title": "Wikipedia「フランス」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9"
+        }
+      ]
+    },
+    {
+      "year": 1894,
+      "label": "ドレフュス事件",
+      "text": "安定期に入った第三共和政のもとでも、1889年のブーランジェ将軍事件に続きドレフュス事件が起きた。",
+      "sources": [
+        {
+          "title": "Wikipedia「フランス」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9"
+        }
+      ]
+    },
+    {
+      "year": 1940,
+      "label": "ヴィシー政権",
+      "text": "ナチス・ドイツのフランス侵攻に敗れて第三共和政が崩壊し、ペタンを元首とするヴィシー政権が成立した。",
+      "sources": [
+        {
+          "title": "Wikipedia「フランス」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9"
+        }
+      ]
+    },
+    {
+      "year": 1944,
+      "label": "全土の解放",
+      "text": "ノルマンディー上陸作戦の成功により、フランス共和国臨時政府が帰還して全土を奪還した。",
+      "sources": [
+        {
+          "title": "Wikipedia「フランス」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9"
+        }
+      ]
+    },
+    {
+      "year": 1946,
+      "label": "第四共和政",
+      "text": "戦後、第四共和政が成立し、冷戦下で西側に属してNATOの原加盟国となった。",
+      "sources": [
+        {
+          "title": "Wikipedia「フランス」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9"
+        }
+      ]
+    },
+    {
+      "year": 1951,
+      "label": "欧州石炭鉄鋼共同体",
+      "text": "西ドイツやイタリア、ベネルクス三国と欧州石炭鉄鋼共同体を結成し、1957年には欧州経済共同体が発足した。",
+      "sources": [
+        {
+          "title": "Wikipedia「フランス」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9"
+        }
+      ]
+    },
+    {
+      "year": 1954,
+      "label": "インドシナ撤退",
+      "text": "ディエンビエンフーの戦いでベトミンに大敗し、7月のジュネーヴ協定でインドシナからの撤退を余儀なくされた。",
+      "sources": [
+        {
+          "title": "Wikipedia「フランス」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9"
+        }
+      ]
+    },
+    {
+      "year": 1958,
+      "label": "第五共和政へ",
+      "text": "アルジェリア戦争で国論が割れる中、ド・ゴールが首相に就任し、10月に新憲法が制定されて半大統領制となった。",
+      "sources": [
+        {
+          "title": "Wikipedia「フランス」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9"
+        }
+      ]
+    },
+    {
+      "year": 1960,
+      "label": "アフリカの年",
+      "text": "ほぼ全てのアフリカ植民地が独立した。同年、サハラ砂漠で核実験を強行した。",
+      "sources": [
+        {
+          "title": "Wikipedia「フランス」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9"
+        }
+      ]
+    },
+    {
+      "year": 1962,
+      "label": "アルジェリア独立",
+      "text": "アルジェリア戦争の和平交渉が妥結し、アルジェリアは独立した。",
+      "sources": [
+        {
+          "title": "Wikipedia「フランス」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9"
+        }
+      ]
+    },
+    {
+      "year": 1966,
+      "label": "NATO脱退",
+      "text": "米国と距離を置くド・ゴールの独自路線のもと、NATOを正式脱退した。2009年に再加盟した。",
+      "sources": [
+        {
+          "title": "Wikipedia「フランス」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9"
+        }
+      ]
+    },
+    {
+      "year": 1999,
+      "label": "ユーロ導入",
+      "text": "ドイツとともに中心的役割を果たし、1月に通貨ユーロが導入された。",
+      "sources": [
+        {
+          "title": "Wikipedia「フランス」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "label": "パリ同時多発テロ",
+      "text": "1月にシャルリー・エブド本社などが襲撃され、11月の大規模な同時多発テロで全土に非常事態宣言が出された。",
+      "sources": [
+        {
+          "title": "Wikipedia「フランス」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9"
+        }
+      ]
+    }
+  ]
+}

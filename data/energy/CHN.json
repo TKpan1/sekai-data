@@ -1,0 +1,15 @@
+{
+ "iso3": "CHN",
+ "input_hash": "b45fab01ca7627c4",
+ "text": "中国の電源は石炭が2025年に54.3%を占め、世界平均（33.0%）を大きく上回る。1985年の63.5%よりは下がったが、いまも過半を保っている。\nWNAによれば、炭田は北部と北西部に偏り、需要地から遠いため、国内の鉄道輸送力の半分近くが石炭の運搬に使われる。石炭火力は大気汚染の大きな原因でもあり、世界銀行はその経済損失をGDPの約6%としている。水が乏しい炭田地域が多いことも制約になるという。\n転換を進めているのは風力と太陽光で、2025年は風力10.7%、太陽光11.1%、合わせて22%と世界平均（17%）を上回った。Emberによれば太陽光の発電量は前年比40%増の336TWhで、石炭火力は71TWh減り、2015年以来初めて減少に転じた。\n水力は13.2%で最大の非化石電源である。原子力は4.6%と小さいが、WNAは石炭産地から遠い沿海部を優先して整備していると述べ、2026年に承認された第15次五カ年計画では、2030年までに110GWを目標に掲げている。",
+ "sources": [
+  {
+   "title": "Ember「China」",
+   "url": "https://ember-energy.org/countries-and-regions/china/"
+  },
+  {
+   "title": "World Nuclear Association「Nuclear Power in China」",
+   "url": "https://world-nuclear.org/information-library/country-profiles/countries-a-f/china-nuclear-power"
+  }
+ ]
+}

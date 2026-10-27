@@ -1,0 +1,226 @@
+{
+  "iso3": "KOR",
+  "input_hash": "915ceadf2c921ed0",
+  "events": [
+    {
+      "year": 1945,
+      "label": "解放と南北分割占領",
+      "text": "8月15日の日本のポツダム宣言受諾で朝鮮の解放が決定的となり、北緯38度以北をソ連軍、以南を米軍が占領した。",
+      "sources": [
+        {
+          "title": "Wikipedia「大韓民国」",
+          "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 1948,
+      "label": "大韓民国の樹立",
+      "text": "5月10日の南部単独総選挙、7月の憲法制定を経て、8月15日に李承晩が大韓民国政府樹立を宣言した。",
+      "sources": [
+        {
+          "title": "Wikipedia「大韓民国」",
+          "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 1950,
+      "label": "朝鮮戦争",
+      "text": "6月25日、北朝鮮軍が北緯38度線を越えて南下し、朝鮮戦争が勃発した。",
+      "sources": [
+        {
+          "title": "Wikipedia「大韓民国」",
+          "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 1953,
+      "label": "休戦協定",
+      "text": "7月27日の休戦協定締結で大規模な戦闘は止まったが、韓国政府は署名しておらず、協定上は停戦状態のままである。",
+      "sources": [
+        {
+          "title": "Wikipedia「大韓民国」",
+          "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 1960,
+      "label": "四月革命",
+      "text": "4月19日の学生デモを契機に李承晩政権が崩壊し、李承晩はハワイへ亡命した。",
+      "sources": [
+        {
+          "title": "Wikipedia「大韓民国」",
+          "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 1961,
+      "label": "5・16軍事クーデター",
+      "text": "5月16日、朴正煕少将ら軍の一部がクーデターを起こし、国家再建最高会議が権力を握った。",
+      "sources": [
+        {
+          "title": "Wikipedia「大韓民国」",
+          "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 1965,
+      "label": "日韓基本条約",
+      "text": "6月22日、日本との間で日韓基本条約が締結された。",
+      "sources": [
+        {
+          "title": "Wikipedia「大韓民国」",
+          "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 1972,
+      "label": "十月維新",
+      "text": "10月17日に非常戒厳令を発し、大統領の直接選挙を廃止する憲法改正で朴正煕の長期政権化を図った。",
+      "sources": [
+        {
+          "title": "Wikipedia「大韓民国」",
+          "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 1979,
+      "label": "朴正煕暗殺",
+      "text": "10月26日、朴正煕が側近の中央情報部長に暗殺された。12月には全斗煥らの粛軍クーデターが起きた。",
+      "sources": [
+        {
+          "title": "Wikipedia「大韓民国」",
+          "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 1980,
+      "label": "光州事件",
+      "text": "5月18日、光州で戒厳軍と学生デモ隊が衝突して市民が武装蜂起したが、27日に武力鎮圧された。",
+      "sources": [
+        {
+          "title": "Wikipedia「大韓民国」",
+          "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 1987,
+      "label": "民主化宣言",
+      "text": "大統領直接選挙を求める6月民主抗争を受け、6月29日に民主化宣言が出された。",
+      "sources": [
+        {
+          "title": "Wikipedia「大韓民国」",
+          "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 1988,
+      "label": "ソウル五輪",
+      "text": "ソウルオリンピックが開催された。",
+      "sources": [
+        {
+          "title": "Wikipedia「大韓民国」",
+          "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 1991,
+      "label": "国連に南北同時加盟",
+      "text": "北朝鮮とともに国際連合に加盟した。",
+      "sources": [
+        {
+          "title": "Wikipedia「大韓民国」",
+          "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 1996,
+      "label": "OECD加盟",
+      "text": "12月25日、経済協力開発機構（OECD）に加盟した。",
+      "sources": [
+        {
+          "title": "Wikipedia「大韓民国」",
+          "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 1997,
+      "label": "アジア通貨危機",
+      "text": "12月3日にアジア通貨危機に見舞われた。同月の大統領選挙では金大中が当選した。",
+      "sources": [
+        {
+          "title": "Wikipedia「大韓民国」",
+          "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 2000,
+      "label": "南北首脳会談",
+      "text": "6月、金大中の「太陽政策」のもとで初の南北首脳会談が実現した。",
+      "sources": [
+        {
+          "title": "Wikipedia「大韓民国」",
+          "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "label": "朴槿恵弾劾",
+      "text": "3月に民主化以降初めての大統領弾劾が成立し、5月の大統領選挙で文在寅が当選した。",
+      "sources": [
+        {
+          "title": "Wikipedia「大韓民国」",
+          "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "label": "人口が初めて減少",
+      "text": "総人口が初めて減少した。",
+      "sources": [
+        {
+          "title": "Wikipedia「大韓民国」",
+          "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "label": "12・3非常戒厳",
+      "text": "12月3日、尹錫悦政権が非常戒厳を布告した。約2時間半で無効化され、12月14日に弾劾議案が可決された。",
+      "sources": [
+        {
+          "title": "Wikipedia「大韓民国」",
+          "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "label": "尹錫悦大統領罷免",
+      "text": "1月に現職大統領として史上初めて拘束され、4月4日に憲法裁判所が全員一致で罷免を決定した。",
+      "sources": [
+        {
+          "title": "Wikipedia「大韓民国」",
+          "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9B%BD"
+        }
+      ]
+    }
+  ]
+}

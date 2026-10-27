@@ -1,0 +1,23 @@
+{
+ "iso3": "PAK",
+ "input_hash": "a38f1868e2884a9d",
+ "text": "2025年のパキスタンは太陽光が電力の18.8%を占め、世界平均（8.7%）の2倍を超える。2000年にはほぼ無く、石油40.5%、ガス32.8%、水力25.9%が中心だった。\n急増の背景は、系統電力の割高さと不安定さである。Emberによれば、2022年の欧州のエネルギー危機で電気料金が上がり、停電も続くなか、屋根置き太陽光は系統電力のおよそ半額で発電できた。net metering の優遇と低い輸入課税も追い風となり、分散型太陽光は2023会計年度の15TWhから2025会計年度の51TWhへ増えた（推計）。その間、系統からの発電量は3%減っている。\n太陽光以外の脱化石は水力と原子力が担う。水力は2023年に26.8%で、アユーブ政権期に多くの発電所が建てられた。原子力はチャシュマ4基（2000〜2017年）とカラチ2・3号機（2021年、2022年）の計6基が動き、すべて中国の供給である。パキスタンはNPTに入っておらず、原子力の取引は制限されるが、中国は協力を続けている。\n火力では、国内のガス田の枯渇が進み、2016年にカタールと15年のLNG輸入契約を結んだ。石炭は、タール炭田の国産炭を近くの発電所が使う。",
+ "sources": [
+  {
+   "title": "米国商務省 ITA「Pakistan - Energy」",
+   "url": "https://www.trade.gov/country-commercial-guides/pakistan-energy"
+  },
+  {
+   "title": "World Nuclear Association「Nuclear Power in Pakistan」",
+   "url": "https://world-nuclear.org/information-library/country-profiles/countries-o-s/pakistan"
+  },
+  {
+   "title": "Ember「The solarisation of Pakistan's energy economy」",
+   "url": "https://ember-energy.org/latest-insights/the-solarisation-of-pakistans-energy-economy/"
+  },
+  {
+   "title": "Wikipedia「パキスタン」",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3"
+  }
+ ]
+}

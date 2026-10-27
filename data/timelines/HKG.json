@@ -1,0 +1,239 @@
+{
+  "iso3": "HKG",
+  "input_hash": "8d05de044fbd512c",
+  "events": [
+    {
+      "year": 1839,
+      "label": "アヘン戦争",
+      "text": "アヘン輸入を規制する清朝とイギリスの紛争から、アヘン戦争が起きた。",
+      "sources": [
+        {
+          "title": "Wikipedia「香港」",
+          "url": "https://ja.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF"
+        },
+        {
+          "title": "Wikipedia「香港の歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1841,
+      "label": "英軍が香港島占領",
+      "text": "1月20日、エリオット大佐率いるイギリス軍が香港島を占領した。",
+      "sources": [
+        {
+          "title": "Wikipedia「香港の歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1842,
+      "label": "南京条約",
+      "text": "南京条約により、香港島が清朝からイギリスに永久割譲された。",
+      "sources": [
+        {
+          "title": "Wikipedia「香港」",
+          "url": "https://ja.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF"
+        },
+        {
+          "title": "Wikipedia「香港の歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1843,
+      "label": "初代香港総督",
+      "text": "ポッティンジャーが初代香港総督に就任し、イギリスによる植民統治が始まった。当時は人口6千人ほどの漁村だった。",
+      "sources": [
+        {
+          "title": "Wikipedia「香港の歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1860,
+      "label": "九龍半島割譲",
+      "text": "アロー戦争の結果結ばれた北京条約で、九龍半島もイギリスに割譲された。",
+      "sources": [
+        {
+          "title": "Wikipedia「香港」",
+          "url": "https://ja.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF"
+        },
+        {
+          "title": "Wikipedia「香港の歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1898,
+      "label": "新界の租借",
+      "text": "イギリスが九龍以北・深圳河以南の新界を99年間の期限で租借した。",
+      "sources": [
+        {
+          "title": "Wikipedia「香港」",
+          "url": "https://ja.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF"
+        },
+        {
+          "title": "Wikipedia「香港の歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1925,
+      "label": "対英ストライキ",
+      "text": "7月10日、対英ストライキが始まり、翌年10月に終結した。",
+      "sources": [
+        {
+          "title": "Wikipedia「香港」",
+          "url": "https://ja.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF"
+        }
+      ]
+    },
+    {
+      "year": 1941,
+      "label": "日本軍の占領",
+      "text": "日本軍が侵攻し、12月25日に総督が降伏した。この日は「暗黒のクリスマス」と呼ばれる。",
+      "sources": [
+        {
+          "title": "Wikipedia「香港」",
+          "url": "https://ja.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF"
+        },
+        {
+          "title": "Wikipedia「香港の歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1945,
+      "label": "英植民地に復帰",
+      "text": "日本の敗戦によりイギリスの植民地に復帰した。日本占領期に人口は60万人程度まで減っていた。",
+      "sources": [
+        {
+          "title": "Wikipedia「香港」",
+          "url": "https://ja.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF"
+        },
+        {
+          "title": "Wikipedia「香港の歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1967,
+      "label": "共産党系住民の暴動",
+      "text": "文化大革命の影響を受けた中国共産党系住民による暴動が起きた。",
+      "sources": [
+        {
+          "title": "Wikipedia「香港」",
+          "url": "https://ja.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF"
+        }
+      ]
+    },
+    {
+      "year": 1974,
+      "label": "中文が公用語に",
+      "text": "法定語文条例により、中文が英語と並ぶ公用語の地位を得た。",
+      "sources": [
+        {
+          "title": "Wikipedia「香港」",
+          "url": "https://ja.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF"
+        }
+      ]
+    },
+    {
+      "year": 1983,
+      "label": "米ドルペッグ制",
+      "text": "アメリカ合衆国ドルとのペッグ制（1米ドル≒7.8香港ドル）を始めた。",
+      "sources": [
+        {
+          "title": "Wikipedia「香港」",
+          "url": "https://ja.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF"
+        }
+      ]
+    },
+    {
+      "year": 1984,
+      "label": "英中共同声明",
+      "text": "サッチャー首相と趙紫陽総理が香港返還を定めた英中共同声明に署名した。",
+      "sources": [
+        {
+          "title": "Wikipedia「香港」",
+          "url": "https://ja.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF"
+        }
+      ]
+    },
+    {
+      "year": 1997,
+      "label": "中国への返還",
+      "text": "7月1日、イギリスから中華人民共和国に返還され、一国二制度の下で最初の特別行政区となった。",
+      "sources": [
+        {
+          "title": "Wikipedia「香港」",
+          "url": "https://ja.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF"
+        }
+      ]
+    },
+    {
+      "year": 1998,
+      "label": "香港国際空港開港",
+      "text": "香港国際空港が開港し、啓徳空港が閉鎖された。",
+      "sources": [
+        {
+          "title": "Wikipedia「香港」",
+          "url": "https://ja.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "label": "反政府デモ",
+      "text": "2014年香港反政府デモが起きた。",
+      "sources": [
+        {
+          "title": "Wikipedia「香港」",
+          "url": "https://ja.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "label": "逃亡犯条例デモ",
+      "text": "犯罪者引き渡しを可能にする条例改正案の撤回を求めるデモが起き、撤廃後も民主化を求めて続いた。",
+      "sources": [
+        {
+          "title": "Wikipedia「香港」",
+          "url": "https://ja.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "label": "国家安全維持法",
+      "text": "7月1日、香港国家安全維持法が施行され、各国は一国二制度が有名無実化したと見なしている。",
+      "sources": [
+        {
+          "title": "Wikipedia「香港」",
+          "url": "https://ja.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF"
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "label": "宏福苑火災",
+      "text": "11月26日、大埔の高層住宅群「宏福苑」で大規模火災が起き、168人が死亡した。",
+      "sources": [
+        {
+          "title": "Wikipedia「香港」",
+          "url": "https://ja.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF"
+        }
+      ]
+    }
+  ]
+}

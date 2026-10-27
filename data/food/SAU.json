@@ -1,0 +1,23 @@
+{
+  "iso3": "SAU",
+  "input_hash": "035d197831fa00bd",
+  "text": "世界と比べて目立つのは、酒類と豚肉の無さである。FAOの供給量（2023年）では酒類は0.0%（世界2.1%）、豚肉はゼロで、イスラム教は豚肉と酒を禁じ、この戒律は国内全体に適用される。肉は食べるなら戒律に沿って屠殺したものでなければならない。肉は年58.1kgで、鶏が42.9kgと7割強を占め、牛6.6kg、羊・山羊6.4kgが続く。\n穀類は43.2%（世界42.4%）、果物・野菜は11.5%（同7.6%）を占める。伝統的な食材は小麦、大麦、キビ、米、デーツ、羊肉、鶏肉、乳製品で、米と肉を香辛料と炊くカブサが各地で食べられる。客にはコーヒーとデーツを出すのが歓迎の習慣である。\n食料の多くは輸入に頼る。USDAによれば、国内の需要の約70%を輸入で賄い、年に約300億ドルの食料・農産物を輸入する。人口は3,310万人、1人当たりの所得は2万7,680ドル（2023年）で、約1,300万人の外国人居住者や巡礼者、観光客も食料の需要を支える。OECDとFAOによれば、2024年の食肉輸出の回復は、近東の輸入需要にも支えられた。\n1961年は2,855kcalで穀類が70.4%を占めた。2023年は穀類43.2%に下がり、油脂は5.3%から17.0%、砂糖は3.8%から9.5%、肉は3.6%から7.1%に増えた。USDAは、肥満と糖尿病の多さが健康志向の食品の需要を押し上げているとし、若い世代ではファストフードや持ち帰りも広がっている。",
+  "sources": [
+    {
+      "title": "USDA海外農業局「Exporter Guide Annual: Saudi Arabia」（SA2024-0007）",
+      "url": "https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Exporter+Guide+Annual_Riyadh_Saudi+Arabia_SA2024-0007"
+    },
+    {
+      "title": "OECD・FAO「Agricultural Outlook 2025-2034」",
+      "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/07/oecd-fao-agricultural-outlook-2025-2034_3eb15914/601276cd-en.pdf"
+    },
+    {
+      "title": "Wikipedia「サウジアラビア料理」",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A6%E3%82%B8%E3%82%A2%E3%83%A9%E3%83%93%E3%82%A2%E6%96%99%E7%90%86"
+    },
+    {
+      "title": "Wikipedia「サウジアラビア」",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A6%E3%82%B8%E3%82%A2%E3%83%A9%E3%83%93%E3%82%A2"
+    }
+  ]
+}

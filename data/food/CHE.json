@@ -1,0 +1,27 @@
+{
+  "iso3": "CHE",
+  "input_hash": "7fcf688a0750a30d",
+  "text": "世界と比べて目立つのは乳・卵である。FAOの供給量（2023年）では1人1日3,402kcalのうち15.5%を占め、世界の6.9%の2倍を超える。穀類は25.1%（世界42.4%）と少なく、油脂は24.4%（同15.9%）、酒類は4.5%（同2.1%）と多い。\nチーズは国を代表する食品である。スイス連邦外務省によれば、1人当たり年約23kgのチーズを食べ、種類は700を超える。チョコレートも1人当たり年11kg超で世界最高とされる。スイスは歴史的な農業国で、伝統的な料理はジャガイモとチーズのような素朴な食材で作られる。連邦農業研究機関（Agroscope）は、草地を使った反すう動物の生産が国の食料安全保障に貢献するとしている。\n肉は年64.0kgで、豚25.3kg、牛19.0kg、鶏17.5kgである。OECDとFAOは、豚肉の消費は、スイスのようにすでに高い国で、健康や環境への懸念が食を左右するため増えにくいとみる。連邦食品安全・獣医局は、肉は週2〜3回までにとどめ、乳製品は1日2〜3食分を勧める。パンは200種類を超える。\n1961年は3,549kcalで、2023年は3,402kcalと、供給量は減った。肉は10.3%から9.8%、酒類は5.8%から4.5%に下がり、乳・卵は13.6%から15.5%、油脂は16.7%から24.4%に増えた。",
+  "sources": [
+    {
+      "title": "スイス連邦外務省「About Switzerland: Swiss cuisine」",
+      "url": "https://www.aboutswitzerland.eda.admin.ch/en/swiss-cuisine"
+    },
+    {
+      "title": "スイス連邦食品安全・獣医局（FSVO）「Swiss dietary recommendations」",
+      "url": "https://www.blv.admin.ch/en/swiss-dietary-recommendations"
+    },
+    {
+      "title": "Agroscope「Sustainable, grassland-based ruminant production for high-quality products」",
+      "url": "https://www.agroscope.admin.ch/en/15-sustainable-grassland-based-ruminant-production-for-high-quality-products"
+    },
+    {
+      "title": "OECD・FAO「Agricultural Outlook 2025-2034」",
+      "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/07/oecd-fao-agricultural-outlook-2025-2034_3eb15914/601276cd-en.pdf"
+    },
+    {
+      "title": "Wikipedia「スイス」",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A4%E3%82%B9"
+    }
+  ]
+}

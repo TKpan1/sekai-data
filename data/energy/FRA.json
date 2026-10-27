@@ -1,0 +1,19 @@
+{
+ "iso3": "FRA",
+ "input_hash": "39bf86c5dca0a865",
+ "text": "フランスは原子力が2025年に68.8%を占め、世界平均（8.8%）の8倍近い。1985年も66.4%で、この構成は40年変わっていない。\nWNAによれば、フランスは工学の力が強い一方、国内のエネルギー資源が乏しい。1974年の第一次石油危機の直後に政府が原子力の急拡大を決め、燃料費が発電費用に占める割合が小さい原子力によって、化石燃料の輸入を減らした。Wikipediaも、石炭・石油・ガスとも国内で産出するが需要の数%にとどまり、石油の自給率は1.6%だと記す。\n水力10.4%を合わせると約8割が原子力か水力で、Emberによれば2025年の化石燃料は5.2%、1人当たりの排出量は0.4トン（EU平均1.3トン）である。2024年の純輸出は89.9TWhで、世界最大の電力純輸出国でもある（WNA）。\n方針は揺れてきた。2015年の法律は原子力の割合を2025年までに50%とする目標を定めたが、のちに先送りされた。2022年にマクロン大統領が新規6基を発表し、2023年に議会が建設を承認した。風力と太陽光は合わせて13.8%（2025年）で、EU平均（30%）を下回る。",
+ "sources": [
+  {
+   "title": "Ember「France」",
+   "url": "https://ember-energy.org/countries-and-regions/france/"
+  },
+  {
+   "title": "World Nuclear Association「Nuclear Power in France」",
+   "url": "https://world-nuclear.org/information-library/country-profiles/countries-a-f/france"
+  },
+  {
+   "title": "Wikipedia「フランス」",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9"
+  }
+ ]
+}

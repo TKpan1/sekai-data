@@ -1,0 +1,15 @@
+{
+ "iso3": "PHL",
+ "input_hash": "fc7e99a1b0822237",
+ "text": "フィリピンは石炭が58.7%（2025年）を占め、世界平均（33.0%）を大きく上回る。2000年の36.8%から増え、同年に20.3%あった石油は0.8%まで落ちた。\nエネルギー省（DOE）によれば、2024年の発電量は126.9TWhと前年より7.6%増え、石炭火力が62.5%（79.4TWh）を担った。国産炭は1,590万トンで、輸入炭の99.5%はインドネシア産である。需要の伸びを、近くの産地から買える石炭が受け止めている。\nガスは国内唯一のマランパヤ・ガス田が枯渇に向かい、2024年の国内産は前年比12.8%減った。同年のLNG輸入は2倍以上になり、受入基地が2カ所動いている。\n再エネでは、地熱の設備容量が1,951.7MW（2024年末）で、米国、インドネシアに次ぐ世界3位である。水力は2000年の17.2%から2025年の10.3%へ下がった。\n原子力は、1984年に完成したバターン原発が一度も運転されていない。WNAによれば、財政問題と地震への懸念があり、1986年のチェルノブイリ事故後に封印された。2025年1月に韓国水力原子力が再生の調査を始め、政府は2032年の初の原発稼働を目標にしている。",
+ "sources": [
+  {
+   "title": "フィリピン エネルギー省「2024 Philippine Energy Situationer」",
+   "url": "https://prod-cms.doe.gov.ph/documents/d/guest/2024-philippine-energy-situationer-and-key-energy-statistics-pdf"
+  },
+  {
+   "title": "World Nuclear Association「Nuclear Power in the Philippines」",
+   "url": "https://world-nuclear.org/information-library/country-profiles/countries-o-s/philippines"
+  }
+ ]
+}

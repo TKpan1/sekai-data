@@ -1,0 +1,19 @@
+{
+ "iso3": "CAN",
+ "input_hash": "b8c37db8dca66c3f",
+ "text": "カナダは水力が2025年に52.8%を占め、世界平均（14.0%）の約4倍に当たる。1985年の66.4%からは下がったが、いまも過半である。WNAによれば、2025年の発電量646TWhのうち水力は349TWhで、ケベック州では電力の大半が州北部の水力でまかなわれる。\n原子力は13.1%である。17基のうち16基はオンタリオ州にあり、同州の2025年の発電の約48%を占める。ウランの産出はカナダが世界1位だった（2003年に世界シェア29.2%、Wikipedia）。オンタリオ州は2003年に石炭火力の全廃を約束し、北米最大の石炭火力だったナンティコーク発電所が2014年に閉鎖された（WNA）。石炭は1985年の17.4%から2025年の4.1%まで下がった。\nただし、州による差は大きい。サスカチュワン州は設備容量の約3分の2が化石燃料である（WNA）。全国のガスは17.8%、風力と太陽光は合わせて9.5%（2025年）にとどまる。Emberによれば、低炭素電源は77%で、世界平均（43%）を大きく上回る。",
+ "sources": [
+  {
+   "title": "Ember「Canada」",
+   "url": "https://ember-energy.org/countries-and-regions/canada/"
+  },
+  {
+   "title": "World Nuclear Association「Nuclear Power in Canada」",
+   "url": "https://world-nuclear.org/information-library/country-profiles/countries-a-f/canada-nuclear-power"
+  },
+  {
+   "title": "Wikipedia「カナダ」",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%83%80"
+  }
+ ]
+}

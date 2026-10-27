@@ -1,0 +1,23 @@
+{
+  "iso3": "GRC",
+  "input_hash": "1c0cea3af75cb612",
+  "text": "ギリシャで世界と比べて際立つのは油脂である。2023年の供給量では熱量の25.3％を油脂が占め、世界（15.9％）の1.6倍に当たる。乳製品・卵も14.4％（世界6.9％）と多く、反対に穀物は25.2％と世界（42.4％）より低い。\n背景にはオリーブがある。ギリシャのオリーブ生産は2021年度に約300万トンで、EU加盟国で2位である（Wikipedia）。1人当たりのオリーブ油消費量はEUで最も多く、年12kg前後とされる（欧州委員会）。国の食事指針も、オリーブ油を主な添加脂肪として毎日食べる段に置き、伝統的な地中海式の食事に沿っている（FAO掲載）。\n肉は2023年に熱量の10.3％で、1961年の4.4％から増えた。年82.0kgの供給量のうち鶏30.3kg、豚27.8kg、牛15.0kgである。ギリシャ正教会の戒律で肉食を禁じる期間が非常に長く、1950年代までは週2回以上肉を食べるのは多くの人にまれだったという（Wikipedia）。現在の食事指針は赤身肉を月単位の頻度に置くが（FAO掲載）、供給量は実際に食べた量より多い。\n魚介の供給量は年19.6kgで、タコやイカ、巻貝、魚卵の消費が多いという。料理は東ローマ帝国やオスマン帝国の歴史から、トルコやレバノンなど東地中海の料理と共通点が多く、2010年にユネスコ無形文化遺産『地中海の食事』に登録された（Wikipedia）。供給量の総熱量は1961年の2804kcalから2023年の3382kcalに増えた。",
+  "sources": [
+    {
+      "title": "FAO「Food-based dietary guidelines - Greece」",
+      "url": "https://www.fao.org/nutrition/education/food-dietary-guidelines/regions/countries/Greece/en"
+    },
+    {
+      "title": "欧州委員会「Olive oil」（農業・農村開発総局）",
+      "url": "https://agriculture.ec.europa.eu/farming/crop-productions-and-plant-based-products/olive-oil_en"
+    },
+    {
+      "title": "Wikipedia「ギリシャ」",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%AA%E3%82%B7%E3%83%A3"
+    },
+    {
+      "title": "Wikipedia「ギリシャ料理」",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%AA%E3%82%B7%E3%83%A3%E6%96%99%E7%90%86"
+    }
+  ]
+}

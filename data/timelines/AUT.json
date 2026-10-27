@@ -1,0 +1,182 @@
+{
+  "iso3": "AUT",
+  "input_hash": "82b8eb0e63f3a46e",
+  "events": [
+    {
+      "year": 1804,
+      "label": "オーストリア帝国",
+      "text": "オーストリア帝国が宣言された。",
+      "sources": [
+        {
+          "title": "Wikipedia「オーストリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1806,
+      "label": "神聖ローマ帝国消滅",
+      "text": "ナポレオンに敗れ続ける中、形骸化していた神聖ローマ帝国が消滅した。",
+      "sources": [
+        {
+          "title": "Wikipedia「オーストリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1815,
+      "label": "ウィーン会議",
+      "text": "ウィーン会議で欧州大陸の4列強の一つと認められ、オーストリアを盟主とするドイツ連邦が作られた。",
+      "sources": [
+        {
+          "title": "Wikipedia「オーストリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1866,
+      "label": "普墺戦争",
+      "text": "プロイセンとの戦争に敗れてドイツ連邦を脱退し、以後ドイツ本土の政治に関与しなくなった。",
+      "sources": [
+        {
+          "title": "Wikipedia「オーストリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1867,
+      "label": "二重帝国の成立",
+      "text": "ハンガリーとの妥協により、フランツ・ヨーゼフ1世を君主とするオーストリア＝ハンガリー二重帝国が成立した。",
+      "sources": [
+        {
+          "title": "Wikipedia「オーストリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1914,
+      "label": "サライェヴォ事件",
+      "text": "フランツ・フェルディナント大公が暗殺され、セルビアへの宣戦布告から第一次世界大戦に発展した。",
+      "sources": [
+        {
+          "title": "Wikipedia「オーストリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1918,
+      "label": "共和制へ移行",
+      "text": "敗戦直後の革命で皇帝が国事不関与を宣言し、600年以上のハプスブルク家の統治が終わった。",
+      "sources": [
+        {
+          "title": "Wikipedia「オーストリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1919,
+      "label": "サンジェルマン条約",
+      "text": "領土は帝国時代の4分の1程度となり、ドイツとの合邦も禁じられた。",
+      "sources": [
+        {
+          "title": "Wikipedia「オーストリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1931,
+      "label": "銀行の倒産",
+      "text": "世界恐慌の中、クレディタンシュタルトが倒産した。",
+      "sources": [
+        {
+          "title": "Wikipedia「オーストリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1933,
+      "label": "ドルフース独裁",
+      "text": "ドルフースによるイタリア・ファシズムに似た独裁体制が確立した。",
+      "sources": [
+        {
+          "title": "Wikipedia「オーストリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1934,
+      "label": "ドルフース暗殺",
+      "text": "7月、オーストリア・ナチスのクーデターでドルフースが暗殺された。",
+      "sources": [
+        {
+          "title": "Wikipedia「オーストリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1938,
+      "label": "アンシュルス",
+      "text": "ドイツ軍が全土を占領し、3月13日に合邦が宣言されて独立を失った。",
+      "sources": [
+        {
+          "title": "Wikipedia「オーストリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1945,
+      "label": "独立宣言と分割占領",
+      "text": "レンナーが臨時政府を樹立して独立を宣言したが、米英仏ソに分割占領された。",
+      "sources": [
+        {
+          "title": "Wikipedia「オーストリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1955,
+      "label": "独立回復と永世中立",
+      "text": "占領4か国との国家条約で完全な独立を取り戻し、10月26日に永世中立を宣言した。",
+      "sources": [
+        {
+          "title": "Wikipedia「オーストリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1986,
+      "label": "ヴァルトハイム大統領",
+      "text": "国連事務総長を務めたクルト・ヴァルトハイムが大統領となった。",
+      "sources": [
+        {
+          "title": "Wikipedia「オーストリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1995,
+      "label": "EU加盟",
+      "text": "欧州連合に加盟し、欧州自由貿易連合を脱退した。",
+      "sources": [
+        {
+          "title": "Wikipedia「オーストリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AA%E3%82%A2"
+        }
+      ]
+    }
+  ]
+}

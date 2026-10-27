@@ -1,0 +1,15 @@
+{
+ "iso3": "RUS",
+ "input_hash": "024ada79fa37762e",
+ "text": "ロシアの食事は、1992年以降の変化の大きさが特徴である。FAOの供給量では穀物の割合が1992年の41.3%から2023年に32.8%、ジャガイモなどの根菜が7.4%から4.2%に下がり、乳製品・卵は7.1%から12.3%、油脂は11.7%から16.7%に上がった。2023年の1人1日3528kcalは、1992年（2922kcal）より多く、実際に食べた量より多い。肉は84.8kgで、鶏肉34.7kg、豚肉31.8kg、牛肉12.9kgの順である。\nこの背景として、USDAは、ソ連が1970年代初めから畜産を拡大し、1990年には家畜と肉の生産が1970年より約5割増えたと述べる。動物性食品を好む食習慣が根づく一方で、野菜や果物は軽んじられがちだった。ソ連崩壊後の1990〜2000年に肉の消費は約45%、乳製品も約44%減ったが、パンは横ばいで、ジャガイモは増えた。肉の消費の落ち込みは生産の落ち込みより小さく、不足は米国産の鶏肉などの輸入で補われた。\n自給の面では、FAOによれば、ロシアは穀物・肉・魚・砂糖・油で完全に自給でき、乳製品・野菜・果物も国内生産が消費の大きな部分をまかなう。穀物・油脂・水産物の輸出国でもある。USDAは、ロシア人の多くが農地や家庭菜園をもち、都市住民の71%も菜園（多くはダーチャ）で、ジャガイモや野菜、果物を育てていると指摘する。これが家計の食料を支えてきた。",
+ "sources": [
+  {
+   "title": "USDA ERS「Food Security Assessment」GFA-15（2004）「Food Security in Russia」",
+   "url": "https://ers.usda.gov/media/13417/food-security-in-russia-economic-growth-and-rising-incomes-are-reducing-insecurity.pdf?v=66280"
+  },
+  {
+   "title": "FAO「The Russian Federation at a glance」",
+   "url": "https://www.fao.org/russian-federation/fao-and-russia/the-russian-federation-at-a-glance/en"
+  }
+ ]
+}

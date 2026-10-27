@@ -1,0 +1,204 @@
+{
+  "iso3": "ZAF",
+  "input_hash": "af8c696b129dae5f",
+  "events": [
+    {
+      "year": 1834,
+      "label": "奴隷労働の廃止",
+      "text": "ケープ植民地で奴隷労働が廃止され、反発したアフリカーナーが北東部の奥地への大移動を始めた。",
+      "sources": [
+        {
+          "title": "Wikipedia「南アフリカ共和国」",
+          "url": "https://ja.wikipedia.org/wiki/%E5%8D%97%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E5%85%B1%E5%92%8C%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 1852,
+      "label": "トランスヴァール共和国",
+      "text": "内陸へ移ったアフリカーナーが、トランスヴァール共和国などのボーア諸共和国を建てた。",
+      "sources": [
+        {
+          "title": "Wikipedia「南アフリカ共和国」",
+          "url": "https://ja.wikipedia.org/wiki/%E5%8D%97%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E5%85%B1%E5%92%8C%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 1879,
+      "label": "ズールー戦争",
+      "text": "イギリスに抵抗したズールー人などの先住民族は敗れ、南アフリカはほぼ完全にイギリスに支配された。",
+      "sources": [
+        {
+          "title": "Wikipedia「南アフリカ共和国」",
+          "url": "https://ja.wikipedia.org/wiki/%E5%8D%97%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E5%85%B1%E5%92%8C%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 1899,
+      "label": "第二次ボーア戦争",
+      "text": "1902年までの戦争でボーア諸共和国は敗北し、すべてイギリスの手に落ちた。",
+      "sources": [
+        {
+          "title": "Wikipedia「南アフリカ共和国」",
+          "url": "https://ja.wikipedia.org/wiki/%E5%8D%97%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E5%85%B1%E5%92%8C%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 1910,
+      "label": "南アフリカ連邦",
+      "text": "4州からなる南アフリカ連邦が成立し、イギリス帝国内の自治領となった。",
+      "sources": [
+        {
+          "title": "Wikipedia「南アフリカ共和国」",
+          "url": "https://ja.wikipedia.org/wiki/%E5%8D%97%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E5%85%B1%E5%92%8C%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 1911,
+      "label": "鉱山・労働法",
+      "text": "白人労働者保護のための最初の人種主義法「鉱山・労働法」が制定された。",
+      "sources": [
+        {
+          "title": "Wikipedia「南アフリカ共和国」",
+          "url": "https://ja.wikipedia.org/wiki/%E5%8D%97%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E5%85%B1%E5%92%8C%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 1931,
+      "label": "ウェストミンスター憲章",
+      "text": "ウェストミンスター憲章により、外交権をはじめイギリスと同格の主権を得た。",
+      "sources": [
+        {
+          "title": "Wikipedia「南アフリカ共和国」",
+          "url": "https://ja.wikipedia.org/wiki/%E5%8D%97%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E5%85%B1%E5%92%8C%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 1948,
+      "label": "アパルトヘイト",
+      "text": "国民党が政権を握り、マラン首相の下でアパルトヘイト政策を本格的に推し進めた。",
+      "sources": [
+        {
+          "title": "Wikipedia「南アフリカ共和国」",
+          "url": "https://ja.wikipedia.org/wiki/%E5%8D%97%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E5%85%B1%E5%92%8C%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 1960,
+      "label": "シャープビル虐殺",
+      "text": "シャープビル虐殺事件が起き、これをきっかけにイギリスから人種主義政策を非難された。",
+      "sources": [
+        {
+          "title": "Wikipedia「南アフリカ共和国」",
+          "url": "https://ja.wikipedia.org/wiki/%E5%8D%97%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E5%85%B1%E5%92%8C%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 1961,
+      "label": "共和国へ",
+      "text": "イギリス連邦から脱退して共和制を採用し、国名を南アフリカ共和国とした。",
+      "sources": [
+        {
+          "title": "Wikipedia「南アフリカ共和国」",
+          "url": "https://ja.wikipedia.org/wiki/%E5%8D%97%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E5%85%B1%E5%92%8C%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 1966,
+      "label": "フルウールト暗殺",
+      "text": "フルウールト首相が暗殺された。同年、ナミビア独立戦争が始まった。",
+      "sources": [
+        {
+          "title": "Wikipedia「南アフリカ共和国」",
+          "url": "https://ja.wikipedia.org/wiki/%E5%8D%97%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E5%85%B1%E5%92%8C%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 1976,
+      "label": "ソウェト蜂起",
+      "text": "黒人蜂起ソウェト蜂起が起き、フォルスター首相の対応は国際的な批判を浴びた。",
+      "sources": [
+        {
+          "title": "Wikipedia「南アフリカ共和国」",
+          "url": "https://ja.wikipedia.org/wiki/%E5%8D%97%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E5%85%B1%E5%92%8C%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 1988,
+      "label": "クイト・クアナヴァレ",
+      "text": "アンゴラ＝キューバ連合軍に敗れ、これをきっかけにナミビアの独立を認めた。",
+      "sources": [
+        {
+          "title": "Wikipedia「南アフリカ共和国」",
+          "url": "https://ja.wikipedia.org/wiki/%E5%8D%97%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E5%85%B1%E5%92%8C%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 1994,
+      "label": "マンデラ大統領",
+      "text": "史上初の全人種参加の総選挙でANCが勝ち、ネルソン・マンデラが大統領に就任した。",
+      "sources": [
+        {
+          "title": "Wikipedia「南アフリカ共和国」",
+          "url": "https://ja.wikipedia.org/wiki/%E5%8D%97%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E5%85%B1%E5%92%8C%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 1996,
+      "label": "新憲法の採択",
+      "text": "新憲法が採択されたが、国民党は政権から離脱した。",
+      "sources": [
+        {
+          "title": "Wikipedia「南アフリカ共和国」",
+          "url": "https://ja.wikipedia.org/wiki/%E5%8D%97%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E5%85%B1%E5%92%8C%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "label": "BRICS加盟",
+      "text": "BRICSの一員となり、表記が「BRICs」から「BRICS」に変わった。",
+      "sources": [
+        {
+          "title": "Wikipedia「南アフリカ共和国」",
+          "url": "https://ja.wikipedia.org/wiki/%E5%8D%97%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E5%85%B1%E5%92%8C%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "label": "ラマポーザ大統領",
+      "text": "国民議会がANCのシリル・ラマポーザを大統領に選出した。",
+      "sources": [
+        {
+          "title": "Wikipedia「南アフリカ共和国」",
+          "url": "https://ja.wikipedia.org/wiki/%E5%8D%97%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E5%85%B1%E5%92%8C%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "label": "ANC過半数割れ",
+      "text": "総選挙でANCの得票率が40.18%と半数を切り、民主同盟などと連立を組んだ。",
+      "sources": [
+        {
+          "title": "Wikipedia「南アフリカ共和国」",
+          "url": "https://ja.wikipedia.org/wiki/%E5%8D%97%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E5%85%B1%E5%92%8C%E5%9B%BD"
+        }
+      ]
+    }
+  ]
+}

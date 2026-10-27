@@ -1,0 +1,193 @@
+{
+  "iso3": "JPN",
+  "input_hash": "db8001df7a89f34a",
+  "events": [
+    {
+      "year": 1853,
+      "label": "ペリー来航",
+      "text": "アメリカのペリーによって開国が実現した。のちの日米修好通商条約が尊王攘夷・討幕運動の引き金となった。",
+      "sources": [
+        {
+          "title": "Wikipedia「日本」",
+          "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC"
+        }
+      ]
+    },
+    {
+      "year": 1868,
+      "label": "明治維新",
+      "text": "王政復古により明治天皇を中心とする新政府が開かれ、廃藩置県や富国強兵・殖産興業などの近代化改革が進められた。",
+      "sources": [
+        {
+          "title": "Wikipedia「日本」",
+          "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC"
+        }
+      ]
+    },
+    {
+      "year": 1889,
+      "label": "大日本帝国憲法",
+      "text": "自由民権運動をうけて大日本帝国憲法が制定され、翌1890年に帝国議会が設立された。",
+      "sources": [
+        {
+          "title": "Wikipedia「日本」",
+          "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC"
+        }
+      ]
+    },
+    {
+      "year": 1910,
+      "label": "韓国併合",
+      "text": "日清・日露戦争に勝利して朝鮮への影響力を強め、韓国併合をおこなった。",
+      "sources": [
+        {
+          "title": "Wikipedia「日本」",
+          "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC"
+        }
+      ]
+    },
+    {
+      "year": 1911,
+      "label": "関税自主権の回復",
+      "text": "1894年の治外法権撤廃に続いて関税自主権を回復し、不平等条約を解消した。",
+      "sources": [
+        {
+          "title": "Wikipedia「日本」",
+          "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC"
+        }
+      ]
+    },
+    {
+      "year": 1923,
+      "label": "関東大震災",
+      "text": "関東大震災が起き、14万人が死亡した。",
+      "sources": [
+        {
+          "title": "Wikipedia「日本」",
+          "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC"
+        }
+      ]
+    },
+    {
+      "year": 1945,
+      "label": "敗戦",
+      "text": "第二次世界大戦で枢軸国として参戦し、太平洋戦争で連合国軍と対決したのち、8月に降伏した。",
+      "sources": [
+        {
+          "title": "Wikipedia「日本」",
+          "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC"
+        }
+      ]
+    },
+    {
+      "year": 1946,
+      "label": "日本国憲法の成立",
+      "text": "占領下の帝国議会で憲法が改正され、国民主権・基本的人権の尊重・平和主義を三原則とする日本国憲法が成立した。",
+      "sources": [
+        {
+          "title": "Wikipedia「日本」",
+          "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC"
+        }
+      ]
+    },
+    {
+      "year": 1951,
+      "label": "講和条約・日米安保",
+      "text": "サンフランシスコ講和条約で主権を回復し、同時に日米安保条約を結んで西側諸国の一員となった。",
+      "sources": [
+        {
+          "title": "Wikipedia「日本」",
+          "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC"
+        }
+      ]
+    },
+    {
+      "year": 1954,
+      "label": "自衛隊の成立",
+      "text": "1950年の朝鮮戦争勃発以降に再軍備が始まり、自衛隊が成立した。",
+      "sources": [
+        {
+          "title": "Wikipedia「日本」",
+          "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC"
+        }
+      ]
+    },
+    {
+      "year": 1955,
+      "label": "55年体制",
+      "text": "自由民主党が1993年まで長期政権を握る55年体制が始まった。",
+      "sources": [
+        {
+          "title": "Wikipedia「日本」",
+          "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC"
+        }
+      ]
+    },
+    {
+      "year": 1956,
+      "label": "国連加盟",
+      "text": "国際連合に加盟した。",
+      "sources": [
+        {
+          "title": "Wikipedia「日本」",
+          "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC"
+        }
+      ]
+    },
+    {
+      "year": 1972,
+      "label": "沖縄返還",
+      "text": "沖縄返還協定により、アメリカ施政下にあった沖縄県が日本に復帰した。",
+      "sources": [
+        {
+          "title": "Wikipedia「日本」",
+          "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC"
+        }
+      ]
+    },
+    {
+      "year": 1973,
+      "label": "オイルショック",
+      "text": "オイルショックを契機に産業公害は減少したが、都市・生活型の大気汚染が増えた。",
+      "sources": [
+        {
+          "title": "Wikipedia「日本」",
+          "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC"
+        }
+      ]
+    },
+    {
+      "year": 1989,
+      "label": "平成の始まり",
+      "text": "平成時代が始まり、この時代に日本経済は停滞を始めた。",
+      "sources": [
+        {
+          "title": "Wikipedia「日本」",
+          "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC"
+        }
+      ]
+    },
+    {
+      "year": 1995,
+      "label": "阪神・淡路大震災",
+      "text": "阪神・淡路大震災が起きた。",
+      "sources": [
+        {
+          "title": "Wikipedia「日本」",
+          "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "label": "東日本大震災",
+      "text": "東日本大震災が起きた。",
+      "sources": [
+        {
+          "title": "Wikipedia「日本」",
+          "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC"
+        }
+      ]
+    }
+  ]
+}

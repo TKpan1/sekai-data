@@ -1,0 +1,171 @@
+{
+  "iso3": "USA",
+  "input_hash": "bf86d4e3e012e312",
+  "events": [
+    {
+      "year": 1854,
+      "label": "共和党の結党",
+      "text": "新州に奴隷制を認めるかで南北が対立する中、北部を中心に奴隷制反対を訴える共和党が結党された。",
+      "sources": [
+        {
+          "title": "Wikipedia「アメリカ合衆国の歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1861,
+      "label": "南北戦争",
+      "text": "奴隷解放を掲げるリンカーンの大統領就任に反発した南部の奴隷州がアメリカ連合国を結成し、南北戦争が始まった。",
+      "sources": [
+        {
+          "title": "Wikipedia「アメリカ合衆国の歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1863,
+      "label": "奴隷解放宣言",
+      "text": "リンカーンが奴隷解放宣言を発表して支持を広げ、ゲティスバーグの戦いで北軍が勝利すると南軍の勢力は弱まった。",
+      "sources": [
+        {
+          "title": "Wikipedia「アメリカ合衆国の歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1865,
+      "label": "南部連合の降伏",
+      "text": "南部連合が降伏してアメリカは再び統一された。憲法改正で奴隷制廃止が明文化され、黒人に市民権が与えられた。",
+      "sources": [
+        {
+          "title": "Wikipedia「アメリカ合衆国の歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1869,
+      "label": "大陸横断鉄道開通",
+      "text": "最初の大陸横断鉄道が開通した。西部との物流・交流が活発になり、西部開拓時代が到来した。",
+      "sources": [
+        {
+          "title": "Wikipedia「アメリカ合衆国の歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1890,
+      "label": "フロンティア消滅",
+      "text": "ウーンデッド・ニーの虐殺を機に、合衆国は「フロンティアの消滅」を宣言した。",
+      "sources": [
+        {
+          "title": "Wikipedia「アメリカ合衆国の歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1898,
+      "label": "ハワイ併合",
+      "text": "ハワイ王国をなし崩し的に併合し、領土を太平洋上まで広げた。",
+      "sources": [
+        {
+          "title": "Wikipedia「アメリカ合衆国の歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1898,
+      "label": "米西戦争",
+      "text": "メイン号爆発事件を契機にスペインと戦った。勝利後、キューバを保護国とし、プエルトリコやフィリピン、グアムを植民地化した。",
+      "sources": [
+        {
+          "title": "Wikipedia「アメリカ合衆国の歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1914,
+      "label": "第一次世界大戦",
+      "text": "大戦が始まると欧州各国に武器や車両を輸出して経済が潤った。のちに世論が派兵賛成へ転じ参戦した。",
+      "sources": [
+        {
+          "title": "Wikipedia「アメリカ合衆国の歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1929,
+      "label": "暗黒の木曜日",
+      "text": "10月24日に株価が一斉に大暴落し、その影響は欧州や日本に波及して1930年代の世界恐慌となった。",
+      "sources": [
+        {
+          "title": "Wikipedia「アメリカ合衆国の歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1941,
+      "label": "真珠湾攻撃と参戦",
+      "text": "12月に日本がハワイ真珠湾を攻撃すると、ルーズベルトは即座に参戦を表明し枢軸国に宣戦布告した。",
+      "sources": [
+        {
+          "title": "Wikipedia「アメリカ合衆国の歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1945,
+      "label": "原爆投下と終戦",
+      "text": "4月にルーズベルトが急死し、後を継いだトルーマンは広島と長崎に原子爆弾を使用した。日本は降伏した。",
+      "sources": [
+        {
+          "title": "Wikipedia「アメリカ合衆国の歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1950,
+      "label": "朝鮮戦争",
+      "text": "戦後ソ連と対立して冷戦となり、朝鮮戦争（1950〜1953年）で「熱い戦争」となった。",
+      "sources": [
+        {
+          "title": "Wikipedia「アメリカ合衆国の歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "label": "ベネズエラ攻撃",
+      "text": "1月3日、ベネズエラの首都カラカスを攻撃し、マドゥロ大統領夫妻を拘束してニューヨークへ連行した。",
+      "sources": [
+        {
+          "title": "Wikipedia「アメリカ合衆国」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "label": "イラン攻撃",
+      "text": "2月28日、イスラエルとともにイランへの大規模な先制攻撃を始めた。国連安保理や連邦議会の承認を経ずに強行された。",
+      "sources": [
+        {
+          "title": "Wikipedia「アメリカ合衆国」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        }
+      ]
+    }
+  ]
+}

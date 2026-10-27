@@ -1,0 +1,138 @@
+{
+  "iso3": "AUS",
+  "input_hash": "0a1e35b3404e74c8",
+  "events": [
+    {
+      "year": 1828,
+      "label": "全土が英植民地に",
+      "text": "全土がイギリスの植民地となり開拓が進んだ。その過程で先住民アボリジニから土地を奪い、放逐・殺害した。",
+      "sources": [
+        {
+          "title": "Wikipedia「オーストラリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1851,
+      "label": "ゴールドラッシュ",
+      "text": "ビクトリア内陸部で金が発見され、イギリス以外の移民が増えた。中国系移民への排斥運動が後の白豪主義につながったとされる。",
+      "sources": [
+        {
+          "title": "Wikipedia「オーストラリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1901,
+      "label": "連邦の形成",
+      "text": "1月1日、6つの植民地が連合してイギリス自治領として連邦を形成し、事実上独立した。",
+      "sources": [
+        {
+          "title": "Wikipedia「オーストラリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1927,
+      "label": "首都キャンベラ",
+      "text": "シドニーとメルボルンの首都争奪戦の妥協案として、両都市の中間に新都市キャンベラを建設し首都とした。",
+      "sources": [
+        {
+          "title": "Wikipedia「オーストラリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1942,
+      "label": "シンガポール陥落",
+      "text": "シンガポール陥落でイギリスが太平洋地域から撤退し、以後アメリカとの安全保障体制を築くようになった。",
+      "sources": [
+        {
+          "title": "Wikipedia「オーストラリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1951,
+      "label": "ANZUS創設",
+      "text": "ニュージーランド、アメリカとの軍事同盟ANZUSが創設された。",
+      "sources": [
+        {
+          "title": "Wikipedia「オーストラリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1975,
+      "label": "人種差別禁止法",
+      "text": "人種差別禁止法が制定され、白色人種以外の移民を基本的に禁じてきた「白豪主義」政策が終わった。",
+      "sources": [
+        {
+          "title": "Wikipedia「オーストラリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1975,
+      "label": "総督が首相を罷免",
+      "text": "予算案が議会を通らず、カー総督がホイットラム首相を罷免した。イギリス支配の影響が残ることを知らしめた。",
+      "sources": [
+        {
+          "title": "Wikipedia「オーストラリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1986,
+      "label": "オーストラリア法",
+      "text": "立法と司法からイギリスの影響を完全に排除する法を制定し、名実ともに独立を果たした。",
+      "sources": [
+        {
+          "title": "Wikipedia「オーストラリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1999,
+      "label": "共和制の国民投票",
+      "text": "ハワード政権のもとで共和制への移行を問う国民投票が行われたが、否決された。",
+      "sources": [
+        {
+          "title": "Wikipedia「オーストラリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 2007,
+      "label": "日豪安保共同宣言",
+      "text": "3月、日本との外交・防衛協力の緊密化を謳う「安全保障協力に関する日豪共同宣言」に調印した。",
+      "sources": [
+        {
+          "title": "Wikipedia「オーストラリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "label": "自動車生産の終了",
+      "text": "豪ドル高などを理由にトヨタとGMが撤退し、乗用車の生産国の看板を下ろした。",
+      "sources": [
+        {
+          "title": "Wikipedia「オーストラリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "iso3": "ARG",
+  "input_hash": "f51853461d95629a",
+  "events": [
+    {
+      "year": 1806,
+      "label": "イギリス軍を撃退",
+      "text": "ブエノスアイレスに侵攻したイギリス軍をクリオーリョ民兵隊が独自の軍事力で打ち破り、自治拡大の意識が芽生えた。",
+      "sources": [
+        {
+          "title": "Wikipedia「アルゼンチンの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%BC%E3%83%B3%E3%83%81%E3%83%B3%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1810,
+      "label": "五月革命",
+      "text": "5月25日、副王の退位と自治委員会の設立が決議され、クリオーリョが植民地行政権を奪った。",
+      "sources": [
+        {
+          "title": "Wikipedia「アルゼンチンの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%BC%E3%83%B3%E3%83%81%E3%83%B3%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1816,
+      "label": "独立宣言",
+      "text": "7月9日、トゥクマン議会で南アメリカ連合州の独立宣言が公布された。",
+      "sources": [
+        {
+          "title": "Wikipedia「アルゼンチンの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%BC%E3%83%B3%E3%83%81%E3%83%B3%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1829,
+      "label": "ロサス時代",
+      "text": "連邦派のロサスが政権に就き、1852年まで続くロサス時代が始まった。",
+      "sources": [
+        {
+          "title": "Wikipedia「アルゼンチンの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%BC%E3%83%B3%E3%83%81%E3%83%B3%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1833,
+      "label": "マルビナス諸島占領",
+      "text": "アルゼンチン領だったマルビナス諸島がイギリスに占領された。",
+      "sources": [
+        {
+          "title": "Wikipedia「アルゼンチンの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%BC%E3%83%B3%E3%83%81%E3%83%B3%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1852,
+      "label": "カセーロスの戦い",
+      "text": "ウルキーサらの同盟軍がロサスを破り、ロサス時代が終わった。",
+      "sources": [
+        {
+          "title": "Wikipedia「アルゼンチンの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%BC%E3%83%B3%E3%83%81%E3%83%B3%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1853,
+      "label": "1853年憲法",
+      "text": "アルベルディが事実上起草した憲法が制定され、ヨーロッパ移民の誘致を定めた。",
+      "sources": [
+        {
+          "title": "Wikipedia「アルゼンチンの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%BC%E3%83%B3%E3%83%81%E3%83%B3%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1862,
+      "label": "国家統一",
+      "text": "ブエノスアイレスがアルゼンチン連合に加わってアルゼンチン共和国が成立し、初の制度的な国家統一が実現した。",
+      "sources": [
+        {
+          "title": "Wikipedia「アルゼンチンの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%BC%E3%83%B3%E3%83%81%E3%83%B3%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1870,
+      "label": "三国同盟戦争終結",
+      "text": "パラグアイとの戦争が同盟側の勝利で終わり、フォルモサ州とミシオネス州を併合した。",
+      "sources": [
+        {
+          "title": "Wikipedia「アルゼンチンの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%BC%E3%83%B3%E3%83%81%E3%83%B3%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1877,
+      "label": "砂漠の征服作戦",
+      "text": "ロカ将軍がパンパとパタゴニアの先住民に対する征服作戦を始め、先住民人口は20万人から2万人に減った。",
+      "sources": [
+        {
+          "title": "Wikipedia「アルゼンチンの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%BC%E3%83%B3%E3%83%81%E3%83%B3%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1880,
+      "label": "首都令",
+      "text": "首都令によりブエノスアイレスが正式に連邦の首都に定められた。",
+      "sources": [
+        {
+          "title": "Wikipedia「アルゼンチンの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%BC%E3%83%B3%E3%83%81%E3%83%B3%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 2001,
+      "label": "債務不履行",
+      "text": "ドルペッグ制の破綻をきっかけに債務不履行に陥った。通算7回目で、政治・社会は大混乱した。",
+      "sources": [
+        {
+          "title": "Wikipedia「アルゼンチン」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%BC%E3%83%B3%E3%83%81%E3%83%B3"
+        }
+      ]
+    },
+    {
+      "year": 2003,
+      "label": "キルチネル政権",
+      "text": "ネストル・キルチネルの下で政治は安定を取り戻し、新自由主義と決別して経済の再建が進んだ。",
+      "sources": [
+        {
+          "title": "Wikipedia「アルゼンチン」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%BC%E3%83%B3%E3%83%81%E3%83%B3"
+        }
+      ]
+    },
+    {
+      "year": 2007,
+      "label": "初の選挙女性大統領",
+      "text": "クリスティーナ・フェルナンデス・デ・キルチネルが、選挙による初の女性大統領に就任した。",
+      "sources": [
+        {
+          "title": "Wikipedia「アルゼンチン」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%BC%E3%83%B3%E3%83%81%E3%83%B3"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "label": "計画的債務不履行",
+      "text": "アメリカのヘッジファンドとの訴訟で和解できず、防衛的措置として「計画的債務不履行」を行った。",
+      "sources": [
+        {
+          "title": "Wikipedia「アルゼンチン」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%BC%E3%83%B3%E3%83%81%E3%83%B3"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "label": "9回目のデフォルト",
+      "text": "新型コロナの感染拡大を理由に債務返済を停止し、通算9回目の債務不履行に陥った。",
+      "sources": [
+        {
+          "title": "Wikipedia「アルゼンチン」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%BC%E3%83%B3%E3%83%81%E3%83%B3"
+        }
+      ]
+    }
+  ]
+}

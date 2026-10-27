@@ -1,0 +1,201 @@
+{
+  "iso3": "ITA",
+  "input_hash": "33d24569867287ee",
+  "events": [
+    {
+      "year": 1848,
+      "label": "1848年革命",
+      "text": "イタリア各地で革命が起き、革命派の軍がサルデーニャ王のもとに集結したが、オーストリア軍に敗れた。",
+      "sources": [
+        {
+          "title": "Wikipedia「イタリアの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1859,
+      "label": "第二次独立戦争",
+      "text": "サルデーニャ首相カヴールがナポレオン3世と同盟してオーストリアを攻撃し、ロンバルディアなどを併合した。",
+      "sources": [
+        {
+          "title": "Wikipedia「イタリアの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1860,
+      "label": "千人隊の遠征",
+      "text": "ガリバルディが千人隊を率いてシチリアや南部を征服し、その領土をサルデーニャ王に献上した。",
+      "sources": [
+        {
+          "title": "Wikipedia「イタリアの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1861,
+      "label": "イタリア王国成立",
+      "text": "3月17日、サルデーニャ王ヴィットーリオ・エマヌエーレ2世のもとでイタリア王国が樹立され、首都はトリノに置かれた。",
+      "sources": [
+        {
+          "title": "Wikipedia「イタリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2"
+        },
+        {
+          "title": "Wikipedia「イタリアの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1922,
+      "label": "ローマ進軍",
+      "text": "ローマ進軍によりファシスト党のムッソリーニが首相となり、ファシズムによる独裁体制を確立させた。",
+      "sources": [
+        {
+          "title": "Wikipedia「イタリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1929,
+      "label": "ラテラノ条約",
+      "text": "ローマ教皇庁との間にラテラノ条約を結び、関係を修復した。",
+      "sources": [
+        {
+          "title": "Wikipedia「イタリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1935,
+      "label": "エチオピア侵攻",
+      "text": "第二次エチオピア戦争でエチオピアへ侵攻するなど、拡張政策をとった。",
+      "sources": [
+        {
+          "title": "Wikipedia「イタリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1940,
+      "label": "第二次大戦に参戦",
+      "text": "6月に第二次世界大戦に参戦し、9月には日独伊三国同盟を結んだ。",
+      "sources": [
+        {
+          "title": "Wikipedia「イタリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1943,
+      "label": "ムッソリーニ失脚",
+      "text": "7月、敗色が濃い中でムッソリーニが失脚し、イタリアは連合国側に鞍替えして参戦した。",
+      "sources": [
+        {
+          "title": "Wikipedia「イタリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1946,
+      "label": "共和制に移行",
+      "text": "6月2日の国民投票で賛成54%の僅差で王政廃止が決まり、現在のイタリア共和国が成立した。",
+      "sources": [
+        {
+          "title": "Wikipedia「イタリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1959,
+      "label": "奇跡の経済",
+      "text": "1958年から1963年にかけてGDP年率6.3%の成長を遂げ、英紙が「奇跡の経済」と名付けた。",
+      "sources": [
+        {
+          "title": "Wikipedia「イタリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1987,
+      "label": "原発全面停止を決定",
+      "text": "1986年のチェルノブイリ原発事故などをきっかけに、国民投票で原発の全面停止を決めた。",
+      "sources": [
+        {
+          "title": "Wikipedia「イタリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1992,
+      "label": "タンジェントポリ",
+      "text": "反マフィア判事が相次いで殺害され、政財界の大規模汚職の発覚でキリスト教民主主義は支持を失った。",
+      "sources": [
+        {
+          "title": "Wikipedia「イタリアの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1994,
+      "label": "ベルルスコーニ首相",
+      "text": "ベルルスコーニが新党フォルツァ・イタリアを旗揚げして首相となり、政界再編が進んだ。",
+      "sources": [
+        {
+          "title": "Wikipedia「イタリアの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 2002,
+      "label": "ユーロ流通開始",
+      "text": "1月1日からユーロの紙幣や硬貨が流通し、リラは2月末で法的効力を失った。",
+      "sources": [
+        {
+          "title": "Wikipedia「イタリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2"
+        },
+        {
+          "title": "Wikipedia「イタリアの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "label": "モンティ内閣",
+      "text": "ユーロ危機の中でベルルスコーニが退陣し、専門家を多く登用したモンティのテクノクラート内閣が発足した。",
+      "sources": [
+        {
+          "title": "Wikipedia「イタリアの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "label": "一帯一路から離脱",
+      "text": "中華人民共和国が進める一帯一路から離脱した。",
+      "sources": [
+        {
+          "title": "Wikipedia「イタリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2"
+        }
+      ]
+    }
+  ]
+}

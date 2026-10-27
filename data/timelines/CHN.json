@@ -1,0 +1,250 @@
+{
+  "iso3": "CHN",
+  "input_hash": "7775c25e3ac8a920",
+  "events": [
+    {
+      "year": 1911,
+      "label": "辛亥革命",
+      "text": "1911年の辛亥革命により、翌1912年に中華民国が成立したが、軍閥割拠の時代が続いた。",
+      "sources": [
+        {
+          "title": "Wikipedia「中華人民共和国」",
+          "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 1921,
+      "label": "中国共産党結成",
+      "text": "中国共産党が結成され、以後中国国民党と協力と対立を繰り返した。",
+      "sources": [
+        {
+          "title": "Wikipedia「中華人民共和国」",
+          "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 1937,
+      "label": "日中戦争",
+      "text": "日中戦争が始まり、第二次国共合作のもとで日本と戦った。日本の敗戦後に国共内戦が再開された。",
+      "sources": [
+        {
+          "title": "Wikipedia「中華人民共和国」",
+          "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 1949,
+      "label": "中華人民共和国成立",
+      "text": "10月1日、毛沢東が天安門で建国を宣言した。蔣介石の中華民国政府は同年末に台湾へ移った。",
+      "sources": [
+        {
+          "title": "Wikipedia「中華人民共和国」",
+          "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD"
+        },
+        {
+          "title": "Wikipedia「中華人民共和国の歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1950,
+      "label": "朝鮮戦争に参戦",
+      "text": "中ソ友好同盟相互援助条約を結び、朝鮮戦争で北朝鮮を支援して参戦した。",
+      "sources": [
+        {
+          "title": "Wikipedia「中華人民共和国の歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1953,
+      "label": "第1次五カ年計画",
+      "text": "ソ連型の五カ年計画による重工業化と農業の集団化が始まった。",
+      "sources": [
+        {
+          "title": "Wikipedia「中華人民共和国」",
+          "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 1958,
+      "label": "大躍進政策",
+      "text": "非現実的な生産目標と人民公社化の強行で大飢饉を招いた。超過死亡の推計は1500万人から4500万人以上と幅がある。",
+      "sources": [
+        {
+          "title": "Wikipedia「中華人民共和国」",
+          "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 1966,
+      "label": "文化大革命",
+      "text": "毛沢東が文化大革命を発動した。紅衛兵運動や幹部の粛清で社会は10年にわたり混乱した。",
+      "sources": [
+        {
+          "title": "Wikipedia「中華人民共和国」",
+          "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD"
+        },
+        {
+          "title": "Wikipedia「中華人民共和国の歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1971,
+      "label": "国連代表権を獲得",
+      "text": "アルバニア決議により、国連における中国代表権を中華民国から引き継いだ。",
+      "sources": [
+        {
+          "title": "Wikipedia「中華人民共和国」",
+          "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 1972,
+      "label": "日中国交正常化",
+      "text": "ニクソン米大統領が訪中し、日本との国交正常化も実現した。",
+      "sources": [
+        {
+          "title": "Wikipedia「中華人民共和国」",
+          "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 1976,
+      "label": "毛沢東の死去",
+      "text": "9月9日に毛沢東が死去し、四人組が逮捕された。文化大革命は終結した。",
+      "sources": [
+        {
+          "title": "Wikipedia「中華人民共和国」",
+          "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD"
+        },
+        {
+          "title": "Wikipedia「中華人民共和国の歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1978,
+      "label": "改革開放",
+      "text": "12月の第11期3中全会で経済建設重視の方針が示され、鄧小平のもとで改革開放が本格的に始まった。",
+      "sources": [
+        {
+          "title": "Wikipedia「中華人民共和国」",
+          "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD"
+        },
+        {
+          "title": "Wikipedia「中華人民共和国の歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1989,
+      "label": "六四天安門事件",
+      "text": "胡耀邦の死去を契機に広がった抗議運動を、6月3日夜から4日にかけて人民解放軍が武力で鎮圧した。",
+      "sources": [
+        {
+          "title": "Wikipedia「中華人民共和国」",
+          "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD"
+        },
+        {
+          "title": "Wikipedia「中華人民共和国の歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1992,
+      "label": "南巡講話",
+      "text": "鄧小平の南巡講話を契機に経済改革が再加速し、社会主義市場経済体制の確立が目標に掲げられた。",
+      "sources": [
+        {
+          "title": "Wikipedia「中華人民共和国」",
+          "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 1997,
+      "label": "香港返還",
+      "text": "香港がイギリスから返還され一国二制度が適用された。1999年にはマカオもポルトガルから返還された。",
+      "sources": [
+        {
+          "title": "Wikipedia「中華人民共和国」",
+          "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD"
+        },
+        {
+          "title": "Wikipedia「中華人民共和国の歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 2001,
+      "label": "WTO加盟",
+      "text": "世界貿易機関（WTO）に加盟し、国際経済との結びつきを一層強めた。",
+      "sources": [
+        {
+          "title": "Wikipedia「中華人民共和国」",
+          "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "label": "GDP世界2位に",
+      "text": "名目GDPで日本を上回り、世界第2位の経済規模となった。",
+      "sources": [
+        {
+          "title": "Wikipedia「中華人民共和国」",
+          "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "label": "習近平政権発足",
+      "text": "習近平が党総書記に就任し、翌年国家主席を兼ねた。大規模な反腐敗運動と一帯一路構想を進めた。",
+      "sources": [
+        {
+          "title": "Wikipedia「中華人民共和国」",
+          "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "label": "主席任期制限撤廃",
+      "text": "憲法改正で国家主席の任期制限が撤廃され、習近平は2023年に異例の3期目に入った。",
+      "sources": [
+        {
+          "title": "Wikipedia「中華人民共和国」",
+          "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "label": "香港国安法施行",
+      "text": "2019年から続いた香港の大規模な抗議運動の後、香港国家安全維持法が施行された。",
+      "sources": [
+        {
+          "title": "Wikipedia「中華人民共和国」",
+          "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD"
+        }
+      ]
+    }
+  ]
+}

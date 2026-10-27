@@ -1,0 +1,23 @@
+{
+ "iso3": "USA",
+ "input_hash": "6d365dbc68b90ea7",
+ "text": "アメリカの食事は、世界の水準と比べて油脂・肉・砂糖の割合が高い。FAOの供給量では2023年に1人1日3947kcalで、世界（3006kcal）を大きく上回る。油脂が26.0%（世界15.9%）、肉が13.2%（同8.3%）、砂糖が14.4%（同7.9%）を占める一方、穀物は21.5%で世界（42.4%）の約半分である。供給量は店頭に出回った量で、実際に食べた量より多い。USDAは、2010年に供給された食料の約31%が小売や家庭などで失われたと推計している。\n肉は1人122.1kg（2023年）で、鶏肉54.5kg、牛肉37.0kg、豚肉29.1kgの順である。USDAによれば、鶏肉の供給量は2010年に牛肉を上回り、1980年から2021年にかけて2倍以上に増えた。砂糖類は1999年のピークから減っており、甘味料の供給量は1999年の1人153.6ポンドから2023年の123.5ポンドに下がった。乳製品では、牛乳が1981〜2021年に減り、チーズは約2倍になった。\n食文化の面では、アメリカは先住民と各国からの移民でできた国で、トウモロコシ、カボチャ、インゲンマメは先住民が昔から栽培していた作物である。20世紀の初めから缶詰やレトルト食品が発達し、既製の食品に一手間かける家庭料理が一般的になったと、アメリカ料理の解説は述べる。USDAの2018年の評価では、肉・卵・ナッツ・穀物は推奨量を超え、野菜と果物は足りていない。",
+ "sources": [
+  {
+   "title": "USDA ERS「Food Availability and Consumption」（Ag and Food Statistics: Charting the Essentials）",
+   "url": "https://www.ers.usda.gov/data-products/ag-and-food-statistics-charting-the-essentials/food-availability-and-consumption"
+  },
+  {
+   "title": "USDA ERS「Loss-Adjusted Food Availability Documentation」",
+   "url": "https://www.ers.usda.gov/data-products/food-availability-per-capita-data-system/loss-adjusted-food-availability-documentation"
+  },
+  {
+   "title": "Wikipedia「アメリカ合衆国」",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+  },
+  {
+   "title": "Wikipedia「アメリカ合衆国料理」",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E6%96%99%E7%90%86"
+  }
+ ]
+}

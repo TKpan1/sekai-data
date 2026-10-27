@@ -1,0 +1,267 @@
+{
+  "iso3": "DZA",
+  "input_hash": "60f353a4a9dc1503",
+  "events": [
+    {
+      "year": 1830,
+      "label": "フランスがアルジェ占領",
+      "text": "1830年からフランスがアルジェリア侵略を始め、アルジェを征服した。",
+      "sources": [
+        {
+          "title": "Wikipedia「アルジェリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2"
+        },
+        {
+          "title": "Wikipedia「アルジェリアの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1847,
+      "label": "アブデルカーデル降伏",
+      "text": "フランスへのジハードを率いたアブデルカーデルが1847年に降伏し、フランスは全アルジェリアを支配した。",
+      "sources": [
+        {
+          "title": "Wikipedia「アルジェリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2"
+        },
+        {
+          "title": "Wikipedia「アルジェリアの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1871,
+      "label": "ムクラーニーの反乱",
+      "text": "1871年にカビール地方でムスリムの大反乱が起きたが鎮圧され、以降植民地の主導権はコロンが握った。",
+      "sources": [
+        {
+          "title": "Wikipedia「アルジェリアの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1945,
+      "label": "セティフ暴動",
+      "text": "1945年5月8日、セティフの集会が対仏暴動に発展して鎮圧された。この事件は独立運動を高揚させた。",
+      "sources": [
+        {
+          "title": "Wikipedia「アルジェリアの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1954,
+      "label": "アルジェリア戦争",
+      "text": "1954年に民族解放戦線（FLN）が結成され、アルジェリア戦争が勃発した。死者は100万人に及んだとされる。",
+      "sources": [
+        {
+          "title": "Wikipedia「アルジェリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2"
+        },
+        {
+          "title": "Wikipedia「アルジェリアの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1961,
+      "label": "エヴィアン協定",
+      "text": "1961年にエヴィアン協定が結ばれ、7年に渡るアルジェリア戦争は終結した。",
+      "sources": [
+        {
+          "title": "Wikipedia「アルジェリアの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1962,
+      "label": "独立",
+      "text": "1962年7月5日にアルジェリア民主人民共和国として独立を達成し、100万人のヨーロッパ系住民がフランスへ逃れた。",
+      "sources": [
+        {
+          "title": "Wikipedia「アルジェリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2"
+        },
+        {
+          "title": "Wikipedia「アルジェリアの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1963,
+      "label": "憲法制定・砂戦争",
+      "text": "1963年に憲法が制定されてベン・ベラが大統領に就任した。同年10月にはモロッコと砂戦争で交戦した。",
+      "sources": [
+        {
+          "title": "Wikipedia「アルジェリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2"
+        },
+        {
+          "title": "Wikipedia「アルジェリアの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1965,
+      "label": "ブーメディエン政権",
+      "text": "1965年、ブーメディエンが軍事クーデターでベン・ベラ政権を打倒し、社会主義政策で経済成長を達成した。",
+      "sources": [
+        {
+          "title": "Wikipedia「アルジェリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2"
+        },
+        {
+          "title": "Wikipedia「アルジェリアの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1971,
+      "label": "石油・ガスの国有化",
+      "text": "1971年、資源ナショナリズムを唱えるブーメディエンがフランス資本の石油と天然ガスを国有化した。",
+      "sources": [
+        {
+          "title": "Wikipedia「アルジェリアの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1976,
+      "label": "1976年憲法",
+      "text": "1976年11月に憲法が制定され、社会主義国であることが確認された。同年、西サハラ戦争にも参戦した。",
+      "sources": [
+        {
+          "title": "Wikipedia「アルジェリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2"
+        },
+        {
+          "title": "Wikipedia「アルジェリアの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1988,
+      "label": "10月暴動",
+      "text": "1986年からインフレが進んで社会不安が広がり、1988年10月に食糧不足から10月暴動が勃発した。",
+      "sources": [
+        {
+          "title": "Wikipedia「アルジェリアの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1989,
+      "label": "複数政党制へ",
+      "text": "1989年に憲法が改正され、複数政党制が認められた。",
+      "sources": [
+        {
+          "title": "Wikipedia「アルジェリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2"
+        },
+        {
+          "title": "Wikipedia「アルジェリアの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1992,
+      "label": "クーデターと内戦",
+      "text": "1991年の総選挙でイスラム救国戦線が圧勝したが、1992年1月に軍がクーデターで政権を握り、内戦が始まった。",
+      "sources": [
+        {
+          "title": "Wikipedia「アルジェリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2"
+        },
+        {
+          "title": "Wikipedia「アルジェリアの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1999,
+      "label": "ブーテフリカ当選",
+      "text": "1999年4月の大統領選挙でブーテフリカが当選し、同年9月に国民和解法を制定して内戦の終結を図った。",
+      "sources": [
+        {
+          "title": "Wikipedia「アルジェリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2"
+        },
+        {
+          "title": "Wikipedia「アルジェリアの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "label": "非常事態宣言の解除",
+      "text": "アラブの春の騒乱を受け、2011年2月24日に19年続いた国家非常事態宣言が解除された。",
+      "sources": [
+        {
+          "title": "Wikipedia「アルジェリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2"
+        },
+        {
+          "title": "Wikipedia「アルジェリアの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "label": "人質事件",
+      "text": "2013年1月、イナメナスの天然ガス関連施設でアルジェリア人質事件が起き、多数の犠牲者が出た。",
+      "sources": [
+        {
+          "title": "Wikipedia「アルジェリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2"
+        },
+        {
+          "title": "Wikipedia「アルジェリアの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "label": "ブーテフリカ退陣",
+      "text": "2019年、5選を目指すブーテフリカへの大規模抗議運動が起きて辞任し、テブンが大統領に当選した。",
+      "sources": [
+        {
+          "title": "Wikipedia「アルジェリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2"
+        },
+        {
+          "title": "Wikipedia「アルジェリアの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "label": "モロッコと断交",
+      "text": "2021年8月24日、西サハラ問題などを背景に、モロッコとの国交断絶を宣言した。",
+      "sources": [
+        {
+          "title": "Wikipedia「アルジェリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2"
+        }
+      ]
+    }
+  ]
+}

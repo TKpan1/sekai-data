@@ -1,0 +1,238 @@
+{
+  "iso3": "BRA",
+  "input_hash": "3d34308a2f44679f",
+  "events": [
+    {
+      "year": 1808,
+      "label": "リオデジャネイロ遷都",
+      "text": "ナポレオン軍のポルトガル侵攻でポルトガル宮廷がリオに遷都した。国内市場がイギリス資本に開かれ、経済的従属が始まった。",
+      "sources": [
+        {
+          "title": "Wikipedia「ブラジル」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB"
+        },
+        {
+          "title": "Wikipedia「ブラジルの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1822,
+      "label": "ブラジル帝国の独立",
+      "text": "9月7日に「イピランガの叫び」と呼ばれる独立宣言が行われ、ペドロ1世が即位してポルトガルから独立した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ブラジル」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB"
+        }
+      ]
+    },
+    {
+      "year": 1831,
+      "label": "ペドロ1世退位",
+      "text": "ペドロ1世が退位し、1840年まで摂政が統治した。この間、地方の混乱はさらに増した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ブラジル」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB"
+        },
+        {
+          "title": "Wikipedia「ブラジルの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1840,
+      "label": "ペドロ2世即位",
+      "text": "ペドロ2世が即位して事態は落ち着き、1848年のプライエイラ革命鎮圧後、史上初の安定期が訪れた。",
+      "sources": [
+        {
+          "title": "Wikipedia「ブラジル」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB"
+        },
+        {
+          "title": "Wikipedia「ブラジルの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1864,
+      "label": "パラグアイ戦争",
+      "text": "パラグアイの宣戦布告で戦争が始まり、ブラジル帝国が主体の三国同盟軍がパラグアイを破壊した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ブラジル」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB"
+        }
+      ]
+    },
+    {
+      "year": 1888,
+      "label": "奴隷制廃止",
+      "text": "5月13日に黄金法が公布され、西半球で最後まで維持されていた奴隷制が廃止された。",
+      "sources": [
+        {
+          "title": "Wikipedia「ブラジル」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB"
+        }
+      ]
+    },
+    {
+      "year": 1889,
+      "label": "共和制へ移行",
+      "text": "奴隷制廃止で大農園主の支持を失ったペドロ2世が、デオドロ元帥のクーデターで倒され帝政が崩壊した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ブラジル」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB"
+        }
+      ]
+    },
+    {
+      "year": 1908,
+      "label": "日本人移民の開始",
+      "text": "奴隷制廃止後に移民の流入が速まり、笠戸丸で日本人移民が導入された。",
+      "sources": [
+        {
+          "title": "Wikipedia「ブラジル」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB"
+        }
+      ]
+    },
+    {
+      "year": 1930,
+      "label": "1930年革命",
+      "text": "カフェ・コン・レイテ体制への反乱が各地で起こり、ヴァルガスが1930年革命を起こした。",
+      "sources": [
+        {
+          "title": "Wikipedia「ブラジル」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB"
+        }
+      ]
+    },
+    {
+      "year": 1937,
+      "label": "エスタード・ノーヴォ",
+      "text": "ヴァルガスがクーデターでイタリア・ファシズムの影響を受けた体制を確立し、国家主導の工業化を進めた。",
+      "sources": [
+        {
+          "title": "Wikipedia「ブラジル」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB"
+        }
+      ]
+    },
+    {
+      "year": 1942,
+      "label": "第二次大戦に参戦",
+      "text": "8月22日、連合国の一員として参戦した。ヴァルガスは戦後の1945年に軍事クーデターで失脚した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ブラジル」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB"
+        }
+      ]
+    },
+    {
+      "year": 1950,
+      "label": "初の民主的選挙",
+      "text": "史上初の民主的選挙でヴァルガスが大統領に就任したが、軍の抵抗にあい1954年に自殺した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ブラジル」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB"
+        }
+      ]
+    },
+    {
+      "year": 1960,
+      "label": "ブラジリア遷都",
+      "text": "クビシェッキ大統領が内陸部に新首都ブラジリアを建設し、リオから遷都した。開発で生じた債務がインフレを加速させた。",
+      "sources": [
+        {
+          "title": "Wikipedia「ブラジル」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB"
+        }
+      ]
+    },
+    {
+      "year": 1964,
+      "label": "軍事クーデター",
+      "text": "米国の支援するカステロ・ブランコ将軍がクーデターで軍事独裁体制を確立し、1985年まで続いた。",
+      "sources": [
+        {
+          "title": "Wikipedia「ブラジル」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB"
+        }
+      ]
+    },
+    {
+      "year": 1985,
+      "label": "民政移管",
+      "text": "民政移管が実現して文民政権が復活した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ブラジル」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB"
+        }
+      ]
+    },
+    {
+      "year": 1988,
+      "label": "現行憲法の制定",
+      "text": "民主的な連邦共和国と定める現行憲法が制定された。",
+      "sources": [
+        {
+          "title": "Wikipedia「ブラジル」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB"
+        }
+      ]
+    },
+    {
+      "year": 1995,
+      "label": "メルコスール発足",
+      "text": "1月、アルゼンチン、ウルグアイ、パラグアイとともに南米南部共同市場（メルコスール）が発足した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ブラジル」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB"
+        }
+      ]
+    },
+    {
+      "year": 2003,
+      "label": "ルーラ政権",
+      "text": "労働者党のルーラが大統領に就任し、富の再分配と貧困撲滅政策を進めた。史上屈指の好景気となった。",
+      "sources": [
+        {
+          "title": "Wikipedia「ブラジル」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "label": "ルセフ大統領職務停止",
+      "text": "5月12日、上院がルセフ大統領に対する弾劾法廷の設置を決め、大統領の職務を停止させた。",
+      "sources": [
+        {
+          "title": "Wikipedia「ブラジル」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "label": "連邦議会襲撃",
+      "text": "1月8日、前年の大統領選での敗北を正式に認めないボルソナーロの支持者多数が連邦議会を襲撃した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ブラジル」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB"
+        }
+      ]
+    }
+  ]
+}

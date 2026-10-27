@@ -1,0 +1,23 @@
+{
+  "iso3": "POL",
+  "input_hash": "9ccbbd773421c1c4",
+  "text": "ポーランドの食事は、世界と比べて油脂・砂糖・肉・乳製品が厚く、穀物が薄い。2023年の供給量は1人1日3730kcalで、油脂類が19.5%（世界は15.9%）、砂糖が14.9%（同7.9%）、肉が11.7%（同8.3%）を占める一方、穀物は27.0%（同42.4%）にとどまる。1961年には穀物42.4%、いも類12.5%だったので、60年余りで主食の比重が下がり、肉・油脂・砂糖が増えた。数字は出回った量で、実際に食べた量より多い。\n肉の中心は豚である。2023年の1人当たり供給量は豚肉52.0kg、鶏肉31.0kg。米国農務省の駐ワルシャワ事務所は、豚肉と関連製品が肉消費の51%を占める（2019年）と記し、牛肉は価格の高さと豚肉を好む文化のため消費が非常に少なく、安くて健康的とみなされる鶏肉で置き換えられることが多いと述べる。\n伝統の食卓は家庭料理が中心で、寒冷地らしく脂身やラード、バターを多く使い、塩気が強い。主食はジャガイモで、寒さに適したライ麦のパンもよく食べられる。共産主義時代は食糧が配給制で外食文化がほとんど育たず、EU加盟後に外食産業が少しずつ発達した現在も家庭料理が中心である。\n食生活の偏りは健康にも表れる。OECDと欧州委員会の報告では、毎日5皿分の果物・野菜をとる成人は2019年に9%でEU平均の12%を下回り、食事のリスクによる死亡割合は20%（EU 17%）だった。成人1人当たりの純アルコール消費は2021年に約11リットルである。国の食事指針（2020年）は赤肉・加工肉・塩・砂糖を減らし、全粒穀物・野菜・豆・魚を増やすよう勧めている。",
+  "sources": [
+    {
+      "title": "米国農務省海外農業局（ワルシャワ）「Poland 2019 Livestock and Products」",
+      "url": "https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Poland+2019+Livestock+and+Products_Warsaw_Poland_01-13-2020"
+    },
+    {
+      "title": "OECD・欧州保健政策観測所「Poland: Country Health Profile 2023」",
+      "url": "https://health.ec.europa.eu/system/files/2023-12/2023_chp_pl_english.pdf"
+    },
+    {
+      "title": "FAO「Food-based dietary guidelines: Poland」",
+      "url": "https://www.fao.org/nutrition/education/food-dietary-guidelines/regions/countries/poland/en/"
+    },
+    {
+      "title": "Wikipedia「ポーランド料理」",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E6%96%99%E7%90%86"
+    }
+  ]
+}

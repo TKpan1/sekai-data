@@ -1,0 +1,115 @@
+{
+  "input_hash": "7b59a5eff545e9a0",
+  "chapters": {
+    "population": {
+      "text": "紀元前1万年の世界人口は約450万人と推計され、その後の増加はきわめて緩やかだった。14世紀には黒死病がアフロ・ユーラシアに広がり、世界人口を減らした可能性がある。増加のペースが速まったのは18世紀の産業革命以降で、1800年には約9.8億人に達した。\n工業化によって他地域の食料を貿易で得られるようになり、医療の発達で子どもの死亡率が下がり、化学肥料や農機が穀物の産出力を高めた。衛生と医療の改善で死亡率が先に下がる一方、出生率は高いまま残ったため、人口は爆発的に増えた。2023年の世界人口は約80.9億人である。",
+      "sources": [
+        {
+          "title": "Wikipedia「世界人口」",
+          "url": "https://ja.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E4%BA%BA%E5%8F%A3"
+        },
+        {
+          "title": "Wikipedia「黒死病」",
+          "url": "https://ja.wikipedia.org/wiki/%E9%BB%92%E6%AD%BB%E7%97%85"
+        },
+        {
+          "title": "Wikipedia「人口爆発」",
+          "url": "https://ja.wikipedia.org/wiki/%E4%BA%BA%E5%8F%A3%E7%88%86%E7%99%BA"
+        },
+        {
+          "title": "Wikipedia「人口転換」",
+          "url": "https://ja.wikipedia.org/wiki/%E4%BA%BA%E5%8F%A3%E8%BB%A2%E6%8F%9B"
+        }
+      ]
+    },
+    "regions": {
+      "text": "西暦1000年には南アジアが世界人口の37.8%を占め、1800年には東アジア・太平洋が41.6%に達した。人類の多くは長くこの二つのアジアの地域に暮らしてきた。\nヨーロッパ・中央アジアは14世紀の黒死病で人口を大きく失い、1500年まで1300年の水準に戻らなかった。18〜19世紀には食料生産の増加による人口増加が西ヨーロッパ全域で起こり、1900年にかけて割合を伸ばしたが、その後は下がり続けている。現在は多産少死の段階にあるインドなどで人口爆発が続き、2023年にはサハラ以南アフリカが15.6%を占めるまでになった。",
+      "sources": [
+        {
+          "title": "Wikipedia「黒死病」",
+          "url": "https://ja.wikipedia.org/wiki/%E9%BB%92%E6%AD%BB%E7%97%85"
+        },
+        {
+          "title": "Wikipedia「産業革命」",
+          "url": "https://ja.wikipedia.org/wiki/%E7%94%A3%E6%A5%AD%E9%9D%A9%E5%91%BD"
+        },
+        {
+          "title": "Wikipedia「人口転換」",
+          "url": "https://ja.wikipedia.org/wiki/%E4%BA%BA%E5%8F%A3%E8%BB%A2%E6%8F%9B"
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "year": 1346,
+      "label": "黒死病の流行",
+      "sources": [
+        {
+          "title": "Wikipedia「黒死病」",
+          "url": "https://ja.wikipedia.org/wiki/%E9%BB%92%E6%AD%BB%E7%97%85"
+        }
+      ]
+    },
+    {
+      "year": 1760,
+      "label": "英国で産業革命",
+      "sources": [
+        {
+          "title": "Wikipedia「産業革命」",
+          "url": "https://ja.wikipedia.org/wiki/%E7%94%A3%E6%A5%AD%E9%9D%A9%E5%91%BD"
+        }
+      ]
+    },
+    {
+      "year": 1800,
+      "label": "世界人口10億人",
+      "sources": [
+        {
+          "title": "Wikipedia「世界人口」",
+          "url": "https://ja.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E4%BA%BA%E5%8F%A3"
+        }
+      ]
+    },
+    {
+      "year": 1950,
+      "label": "世界人口25億人",
+      "sources": [
+        {
+          "title": "Wikipedia「世界人口」",
+          "url": "https://ja.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E4%BA%BA%E5%8F%A3"
+        }
+      ]
+    },
+    {
+      "year": 1987,
+      "label": "世界人口50億人",
+      "sources": [
+        {
+          "title": "Wikipedia「世界人口」",
+          "url": "https://ja.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E4%BA%BA%E5%8F%A3"
+        }
+      ]
+    },
+    {
+      "year": 1998,
+      "label": "世界人口60億人",
+      "sources": [
+        {
+          "title": "Wikipedia「世界人口」",
+          "url": "https://ja.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E4%BA%BA%E5%8F%A3"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "label": "世界人口80億人",
+      "sources": [
+        {
+          "title": "Wikipedia「世界人口」",
+          "url": "https://ja.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E4%BA%BA%E5%8F%A3"
+        }
+      ]
+    }
+  ]
+}

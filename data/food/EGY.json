@@ -1,0 +1,23 @@
+{
+ "iso3": "EGY",
+ "input_hash": "b6ecbcd10ba193c9",
+ "text": "エジプトの食事は穀物に大きく偏り、熱量の63.4%を穀物が占める（2023年、FAOの供給量。世界は42.4%）。一方、乳・卵は3.6%、肉は4.8%で、世界（6.9%、8.3%）より少なく、動物性食品の割合は8.4%にとどまる。1人1日の供給熱量は1961年の2,165kcalから3,094kcalへ増えたが、穀物の割合は68.4%から63.4%への低下にとどまった。\n主役はパンである。USDA（米国農務省）の報告によると、補助金付きの国民向けパン（エイシュ・バラディ）は受給者1人につき月150個（1日5個）まで買え、2023年時点で1個0.05エジプトポンド、実際の費用は平均約0.9ポンドで、差額は政府が製パン所に支払う。対象は国民の約66.7%で、政府は縮小を試みてきたが、物価上昇でパンの消費が増えて難しくなったという。2024年6月には36年ぶりに価格が引き上げられた（1個5ピアストルから20ピアストルへ）。\n原料の小麦は国内でも作られるが足りず、エジプトは世界最大の小麦輸入国で、2023/24年度の輸入は約1,200万トンと推計されている（消費は約2,060万トン）。ロシアが最大の輸入元である。\n肉は鶏が19.0kg、牛・水牛が7.1kgで、豚はほとんどない（2023年）。エジプトは国土の大半が砂漠だが、ナイル川の水で流域とデルタに農地が開け、ナイル川や地中海の魚も食べられる。国民の約9割はイスラム教徒で、豚肉は禁忌とされる。",
+ "sources": [
+  {
+   "title": "USDA FAS「Egypt: Grain and Feed Update」（EG2023-0025）",
+   "url": "https://apps.fas.usda.gov/newgainapi/api/report/downloadreportbyfilename?filename=Grain%20and%20Feed%20Update_Cairo_Egypt_EG2023-0025.pdf"
+  },
+  {
+   "title": "USDA FAS「Egypt Increases Price for Subsidized Bread for First Time in 36 Years」（EG2024-0013）",
+   "url": "https://apps.fas.usda.gov/newgainapi/api/report/downloadreportbyfilename?filename=Egypt%20Increases%20Price%20for%20Subsidized%20Bread%20for%20First%20Time%20in%2036%20Years_Cairo_Egypt_EG2024-0013.pdf"
+  },
+  {
+   "title": "Wikipedia「エジプト料理」",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B8%E3%83%97%E3%83%88%E6%96%99%E7%90%86"
+  },
+  {
+   "title": "Wikipedia「エジプト」",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B8%E3%83%97%E3%83%88"
+  }
+ ]
+}

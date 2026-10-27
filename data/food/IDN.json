@@ -1,0 +1,19 @@
+{
+  "iso3": "IDN",
+  "input_hash": "e185998384b0f751",
+  "text": "世界と比べて目立つのは、動物性食品の少なさである。FAOの供給量（2023年）では1人1日2,900kcalのうち動物性食品は8.9%で、肉は5.7%（世界8.3%）、乳・卵は3.2%（同6.9%）にとどまる。肉は年19.9kgで、その約8割が鶏（15.95kg）、牛は3.0kg、豚は0.56kgである。魚介は40.4kgと、肉の2倍ほどある。一方で穀類は46.4%（世界42.4%）、いも類は7.6%（同5.4%）を占める。\n米は主食だが、近年は麺が伸びている。USDAによれば、米の価格が高く購買力が弱いなかで、特に低所得の家庭でインスタント麺が増えた。2023年の消費は145.4億食で、中国に次ぐ世界2位である。1袋は3,790ルピア（約0.23ドル）で、米飯とおかずを用意するより安く手軽だという。政府は米の自給を掲げ、米の輸入枠を絞っている。\nOECDとFAOは、鶏肉は最も手頃な肉だとし、過去10年の世界の鶏肉消費の伸びをインドネシアを含むアジアが主導したとする。USDAによれば、国内の飼料生産の約9割は家禽向けである。人口2.8億人は、世界最大のイスラム教徒の人口を抱える。\n1961年は1,824kcalで、いも類が20.2%、穀類が56.5%を占めた。2023年はいも類7.6%、穀類46.4%に下がり、肉は2.2%から5.7%、乳・卵は0.4%から3.2%、油脂は10.0%から20.6%に増えた。",
+  "sources": [
+    {
+      "title": "USDA海外農業局「Grain and Feed Annual: Indonesia」（ID2025-0016）",
+      "url": "https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Grain+and+Feed+Annual_Jakarta_Indonesia_ID2025-0016.pdf"
+    },
+    {
+      "title": "USDA海外農業局「Exporter Guide Annual: Indonesia」（ID2025-0027）",
+      "url": "https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Exporter+Guide+Annual_Jakarta_Indonesia_ID2025-0027.pdf"
+    },
+    {
+      "title": "OECD・FAO「Agricultural Outlook 2025-2034」",
+      "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/07/oecd-fao-agricultural-outlook-2025-2034_3eb15914/601276cd-en.pdf"
+    }
+  ]
+}

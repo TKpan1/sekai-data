@@ -1,0 +1,215 @@
+{
+  "iso3": "RUS",
+  "input_hash": "9ef27546328f171b",
+  "events": [
+    {
+      "year": 1812,
+      "label": "ナポレオン撃退",
+      "text": "ナポレオン率いるフランス軍に侵攻されたが、大損害を負いながら撃退した。戦後はウィーン体制を支える大国となった。",
+      "sources": [
+        {
+          "title": "Wikipedia「ロシア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B7%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1853,
+      "label": "クリミア戦争",
+      "text": "クリミア戦争でイギリス・フランス連合軍に敗れ、工業や政治、軍事全般の後進性が明確になった。",
+      "sources": [
+        {
+          "title": "Wikipedia「ロシア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B7%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1861,
+      "label": "農奴解放令",
+      "text": "アレクサンドル2世が農奴解放令を発布し、近代的改革への道を開いた。",
+      "sources": [
+        {
+          "title": "Wikipedia「ロシア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B7%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1904,
+      "label": "日露戦争",
+      "text": "満州や朝鮮に手を伸ばそうとして日本と衝突し、日露戦争となった。",
+      "sources": [
+        {
+          "title": "Wikipedia「ロシア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B7%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1905,
+      "label": "血の日曜日事件",
+      "text": "血の日曜日事件など一連の革命騒動が起き、ポーツマス条約を結んで日露戦争に敗れた。",
+      "sources": [
+        {
+          "title": "Wikipedia「ロシア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B7%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1914,
+      "label": "第一次世界大戦",
+      "text": "サラエボ事件後にセルビアを支援してオーストリアやドイツと対立し、連合国の一員として開戦したが敗北を重ねた。",
+      "sources": [
+        {
+          "title": "Wikipedia「ロシア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B7%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1917,
+      "label": "ロシア革命",
+      "text": "2月の革命でロマノフ王朝が倒れ、11月7日の十月革命でレーニンを指導者とするソビエト政権が樹立された。",
+      "sources": [
+        {
+          "title": "Wikipedia「ロシア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B7%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1922,
+      "label": "ソビエト連邦の成立",
+      "text": "内戦に勝利した共産党が年の瀬に一党独裁国家ソビエト社会主義共和国連邦を建国し、首都をモスクワに戻した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ロシア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B7%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1941,
+      "label": "独ソ戦",
+      "text": "6月、独ソ不可侵条約を破ったナチス・ドイツに攻め込まれたが、のちに反攻に転じて大戦に勝利した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ロシア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B7%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1945,
+      "label": "対日参戦",
+      "text": "8月に日本へ参戦し、満州国やサハリン南部、千島列島、朝鮮北部に侵攻して占領した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ロシア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B7%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1955,
+      "label": "ワルシャワ条約機構",
+      "text": "NATOに対抗してワルシャワ条約機構を結成し、東側諸国の盟主として西側と冷戦を繰り広げた。",
+      "sources": [
+        {
+          "title": "Wikipedia「ロシア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B7%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1956,
+      "label": "スターリン批判",
+      "text": "フルシチョフがスターリン批判を行った。ハンガリー動乱や中ソ対立を招き、ソ連の指導性は揺らいだ。",
+      "sources": [
+        {
+          "title": "Wikipedia「ロシア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B7%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1979,
+      "label": "アフガニスタン侵攻",
+      "text": "1979年から1989年にかけてアフガニスタンに侵攻した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ロシア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B7%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1985,
+      "label": "ゴルバチョフ登場",
+      "text": "ゴルバチョフが指導者となり、冷戦を終結させる一方でペレストロイカとグラスノスチを掲げて改革に取り組んだ。",
+      "sources": [
+        {
+          "title": "Wikipedia「ロシア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B7%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1991,
+      "label": "ソ連崩壊",
+      "text": "8月のクーデター後に各共和国が連邦を脱退し、12月26日にソ連が崩壊した。ロシア連邦が成立しエリツィンが初代大統領となった。",
+      "sources": [
+        {
+          "title": "Wikipedia「ロシア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B7%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1993,
+      "label": "ロシア連邦憲法",
+      "text": "10月政変を経て、12月12日の国民投票でロシア連邦憲法が制定された。",
+      "sources": [
+        {
+          "title": "Wikipedia「ロシア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B7%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 2000,
+      "label": "プーチン大統領",
+      "text": "前年末のエリツィン辞任を受け、プーチンが3月の大統領選挙に圧勝して大統領に就任した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ロシア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B7%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "label": "クリミア併合",
+      "text": "3月にクリミア併合を強行し、G8の参加資格を停止され、欧米から経済制裁を受けた。",
+      "sources": [
+        {
+          "title": "Wikipedia「ロシア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B7%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "label": "ウクライナ侵攻",
+      "text": "ウクライナを侵略し、SWIFTからの排除など、さらなる経済制裁を受けた。",
+      "sources": [
+        {
+          "title": "Wikipedia「ロシア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B7%E3%82%A2"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "iso3": "ZAF",
+  "input_hash": "a1da1f467afc1fd7",
+  "text": "南アフリカの特徴は、鶏肉中心の肉と油の多さ、そして果物と野菜の少なさである。2023年の供給は1人1日2,694kcalで、世界（3,006kcal）より少なく、1961年の2,822kcalからも減った。穀類が45.2%（世界42.4%）、油が18.8%（世界15.9%、1961年は7.6%）、アルコールが4.7%（世界2.1%）を占め、果物と野菜は2.5%（世界7.6%）しかない。肉は年58.3kgのうち鶏が34.0kg、牛が15.6kg、豚は5.5kgだった。これらは実際に食べた量より多い供給量である。\n鶏が多い理由として、米国農務省（USDA）の在プレトリア事務所は、鶏肉がもっとも手頃なたんぱく源で、肉の消費の60%を占めると報告している（2025年）。2025年8月1日の価格は、冷凍鶏肉が1kgあたり35.38ランド、安い部位の牛肉が57.50ランド、子羊が74.75ランドだった。景気の圧力で、内臓肉や機械で骨を外した肉（MDM）のような安い品を選ぶ消費者も増えているという。\n鶏肉は大半が国産で、2024年の供給のうち輸入は34.7万トン（約18%）だった。国内の業界は高い関税と反ダンピング関税で輸入との競争を抑えており、2025年前半の輸入ではMDMが53%を占めた。\n主食の穀物はトウモロコシで、FAO（2026年）はトウモロコシを主要な穀物、小麦を第2の穀物とし、小麦は純輸入国だと記す。国の食事指針も、でんぷん質の食品を食事のたびに取り入れるよう勧める。所得の格差は大きく、ジニ係数は2022年に0.541で世界で5番目に大きい（世界銀行）。",
+  "sources": [
+    {
+      "title": "米国農務省海外農業局（USDA FAS）「Poultry and Products Annual」南アフリカ（2025年）",
+      "url": "https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Poultry+and+Products+Annual_Pretoria_South+Africa+-+Republic+of_SF2025-0026"
+    },
+    {
+      "title": "FAO GIEWS「Country Brief: South Africa」",
+      "url": "https://www.fao.org/giews/countrybrief/country.jsp?code=ZAF"
+    },
+    {
+      "title": "FAO「Food-based dietary guidelines - South Africa」",
+      "url": "https://www.fao.org/nutrition/education/food-dietary-guidelines/regions/countries/south-africa/en/"
+    },
+    {
+      "title": "Wikipedia「南アフリカ共和国」",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8D%97%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E5%85%B1%E5%92%8C%E5%9B%BD"
+    }
+  ]
+}

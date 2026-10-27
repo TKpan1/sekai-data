@@ -1,0 +1,19 @@
+{
+  "iso3": "NZL",
+  "input_hash": "c6bc8ea92678ea62",
+  "text": "ニュージーランドの食事で世界と比べて目立つのは、砂糖と肉である。2023年の供給量で砂糖は熱量の16.0％と世界（7.9％）のほぼ2倍で、1961年の16.3％からほとんど変わっていない。肉も11.6％（世界8.3％）で、年79.6kg、内訳は鶏26.0kg、豚22.5kg、牛17.7kg、羊・ヤギ11.5kgである。魚介は年24.6kgに上る。反対に穀物は30.7％と世界（42.4％）より低い。\n国は牧畜が盛んである。乳製品と食肉で輸出の3割余りを占め（2007年6月）、家畜の数は人口の10倍以上とされる（Wikipedia）。\n乳は国内で食べる量が少ない。米国農務省（USDA）によれば、乳の約95％は液状のまま、または乳製品に加工されて輸出され、国内向けの飲用乳は総生産量の約2％である。人口は約530万人で、乳製品の国内消費は横ばいだという。酪農は主に牧草に頼る方式で、2024年の乳製品輸出額は238億NZドルと商品輸出の34％を占めた。熱量に占める乳製品・卵の割合は4.5％で、世界（6.9％）や1961年（10.9％）より低い。\n1970年代に英国が欧州共同体（EC）に加盟して伝統的な農産物の市場を失い、石油危機も重なって経済が悪化した。1984年からの改革で農業補助金が撤廃されたが（Wikipedia）、牧畜は輸出の柱であり続けている。保健省の食事指針は、砂糖と飽和脂肪を控えるよう勧めている（FAO掲載）。",
+  "sources": [
+    {
+      "title": "USDA FAS「Dairy and Products Semi-annual（New Zealand, NZ2025-0005）」",
+      "url": "https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Dairy+and+Products+Semi-annual_Wellington_New+Zealand_NZ2025-0005.pdf"
+    },
+    {
+      "title": "FAO「Food-based dietary guidelines - New Zealand」",
+      "url": "https://www.fao.org/nutrition/education/food-dietary-guidelines/regions/countries/new-zealand/en/"
+    },
+    {
+      "title": "Wikipedia「ニュージーランド」",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89"
+    }
+  ]
+}

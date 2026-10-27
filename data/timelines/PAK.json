@@ -1,0 +1,204 @@
+{
+  "iso3": "PAK",
+  "input_hash": "40061336cb0940b2",
+  "events": [
+    {
+      "year": 1858,
+      "label": "英領インド帝国",
+      "text": "1858年から1947年まで、現在のパキスタンの地域は英領インド帝国の領域であった。",
+      "sources": [
+        {
+          "title": "Wikipedia「パキスタン」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3"
+        }
+      ]
+    },
+    {
+      "year": 1947,
+      "label": "分離独立",
+      "text": "1947年8月14日に英領インド帝国から独立し、自治領となった。同年10月にはカシミールの帰属をめぐり第一次印パ戦争が起きた。",
+      "sources": [
+        {
+          "title": "Wikipedia「パキスタン」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3"
+        }
+      ]
+    },
+    {
+      "year": 1956,
+      "label": "憲法制定・共和制",
+      "text": "1956年に憲法を制定してイスラム共和国を宣言し、ミールザーが初代大統領に就任した。",
+      "sources": [
+        {
+          "title": "Wikipedia「パキスタン」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3"
+        }
+      ]
+    },
+    {
+      "year": 1958,
+      "label": "軍事クーデター",
+      "text": "1958年のクーデターでアイユーブ・ハーンの軍事独裁政権が誕生し、以後軍政と民政を交互に繰り返すことになる。",
+      "sources": [
+        {
+          "title": "Wikipedia「パキスタン」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3"
+        }
+      ]
+    },
+    {
+      "year": 1965,
+      "label": "第二次印パ戦争",
+      "text": "1965年にインドとの間で第二次印パ戦争が起きた。",
+      "sources": [
+        {
+          "title": "Wikipedia「パキスタン」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3"
+        }
+      ]
+    },
+    {
+      "year": 1971,
+      "label": "バングラデシュ独立",
+      "text": "1971年の第三次印パ戦争を経て、東パキスタンがバングラデシュとして分離独立した。",
+      "sources": [
+        {
+          "title": "Wikipedia「パキスタン」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3"
+        }
+      ]
+    },
+    {
+      "year": 1977,
+      "label": "ズィヤーのクーデター",
+      "text": "1977年7月、ズィヤー・ウル・ハクのクーデターでブットーが職を追われ、後に処刑された。",
+      "sources": [
+        {
+          "title": "Wikipedia「パキスタン」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3"
+        }
+      ]
+    },
+    {
+      "year": 1979,
+      "label": "ソ連のアフガン侵攻",
+      "text": "1979年のソ連のアフガニスタン侵攻後、パキスタンはムジャーヒディーンを支援し、CIAもパキスタン経由で支援した。",
+      "sources": [
+        {
+          "title": "Wikipedia「パキスタン」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3"
+        }
+      ]
+    },
+    {
+      "year": 1988,
+      "label": "初の女性首相",
+      "text": "1988年にズィヤー大統領が墜落事故で急死し、ベーナズィール・ブットーがイスラム諸国初の女性首相に選出された。",
+      "sources": [
+        {
+          "title": "Wikipedia「パキスタン」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3"
+        }
+      ]
+    },
+    {
+      "year": 1998,
+      "label": "初の核実験",
+      "text": "1998年5月、インドの核実験に対抗してパキスタン初の核実験を行い、日米が経済制裁を課した。",
+      "sources": [
+        {
+          "title": "Wikipedia「パキスタン」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3"
+        }
+      ]
+    },
+    {
+      "year": 1999,
+      "label": "ムシャラフ政権",
+      "text": "1999年10月の無血クーデターでムシャラフがシャリーフ首相から実権を奪取した。",
+      "sources": [
+        {
+          "title": "Wikipedia「パキスタン」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3"
+        }
+      ]
+    },
+    {
+      "year": 2005,
+      "label": "パキスタン地震",
+      "text": "2005年10月8日、カシミール地方を震源とする大地震が起き、死者9万人以上の大災害となった。",
+      "sources": [
+        {
+          "title": "Wikipedia「パキスタン」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3"
+        }
+      ]
+    },
+    {
+      "year": 2007,
+      "label": "ブットー暗殺",
+      "text": "2007年にムシャラフが非常事態宣言を発令し、帰国したベーナズィール・ブットーが12月に暗殺された。",
+      "sources": [
+        {
+          "title": "Wikipedia「パキスタン」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3"
+        }
+      ]
+    },
+    {
+      "year": 2008,
+      "label": "民政移管",
+      "text": "2008年の総選挙を経てムシャラフが辞意を表明し、ザルダーリーが大統領に選出された。",
+      "sources": [
+        {
+          "title": "Wikipedia「パキスタン」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "label": "大洪水",
+      "text": "2010年7月末に大規模な洪水が起き、被災者1400万人、死者1200人以上の大災害となった。",
+      "sources": [
+        {
+          "title": "Wikipedia「パキスタン」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "label": "ビン・ラーディン殺害",
+      "text": "2011年5月、イスラマバード郊外でビン・ラーディンが米軍特殊部隊に殺害された。以降、米国との関係は悪化した。",
+      "sources": [
+        {
+          "title": "Wikipedia「パキスタン」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "label": "首相不信任で失職",
+      "text": "2022年4月、下院がカーン首相の不信任決議を可決した。不信任での首相失職は同国で初めてである。",
+      "sources": [
+        {
+          "title": "Wikipedia「パキスタン」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3"
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "label": "アフガンと衝突",
+      "text": "2026年2月、アフガニスタンとの衝突を受けて国防相が「全面戦争」を宣言し、空爆を実施した。",
+      "sources": [
+        {
+          "title": "Wikipedia「パキスタン」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3"
+        }
+      ]
+    }
+  ]
+}

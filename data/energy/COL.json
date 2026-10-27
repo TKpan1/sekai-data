@@ -1,0 +1,15 @@
+{
+ "iso3": "COL",
+ "input_hash": "41dbece25410ae92",
+ "text": "コロンビアは水力が69.2%（2025年）で、世界平均の14.0%の5倍近い。2000年は74.2%で、水力中心は変わらないが、ガスは19.3%から13.8%に下がり、太陽光が5.1%に伸びた。\n石炭は産出量の多い国なのに、米国エネルギー情報局（EIA）によれば国内ではほとんど使わず、大半を輸出する。2025年の石炭は6.1%にとどまる。\n水力は雨に左右される。EIA は、干ばつの年は火力が水力の不足を埋めると述べ、2020年の干ばつではLNGの輸入が増えた。Ember によれば、2024年は水力が58%に下がり、エルニーニョの2015年と2024年にはガスの発電向け消費が国内消費の最大3分の1に達した。電力系統は水不足の時のために、ガス火力に頼って信頼性を保っている。\nそのガスは自給できなくなり、2030年以降は国内生産と輸入能力では需要に足りない見込みである（Ember）。EIA によれば、政府は2030年に電力の74%を再エネにする約束をしたが、風力と太陽光の適地ラ・グアヒラは主要な送電網から離れている（2022年）。",
+ "sources": [
+  {
+   "title": "Ember「Unlocking the energy transition in Colombia」",
+   "url": "https://ember-energy.org/app/uploads/2025/12/EN-Report-Unlocking-the-energy-transition-in-Colombia_Strategies-to-reduce-gas-dependency.pdf"
+  },
+  {
+   "title": "米国エネルギー情報局（EIA）「Colombia Country Analysis Executive Summary」",
+   "url": "https://www.eia.gov/international/content/analysis/countries_long/colombia/pdf/colombia_exe.pdf"
+  }
+ ]
+}

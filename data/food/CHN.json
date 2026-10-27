@@ -1,0 +1,15 @@
+{
+ "iso3": "CHN",
+ "input_hash": "c61a78ac132b687d",
+ "text": "中国の食事は、穀物が供給熱量の45.7%（2023年）と世界（42.4%）より多いうえ、肉（13.7%）と果物・野菜（13.1%、世界7.6%）も厚い。一方で乳製品・卵は4.3%（世界6.9%）と少ない。数字はFAOの供給量で、実際に食べた量より多い。1人1日の供給は1961年の1427kcalから2023年の3527kcalへ増え、その間に肉の割合は2.3%から13.7%に上がった。\n肉の中心は豚肉で、2023年に1人42.2kgと、肉全体の73.5kgの半分を超える。USDAは、中国が世界の豚肉の生産・消費のおよそ半分を占め、鶏肉は豚肉より安いため割合を伸ばしていると述べる（2014年）。魚介も41.7kg（2023年）と多い。\n食事が変わった理由として、USDAは生活水準の向上と都市化を挙げる。都市の人口は半分を超え、スーパーや飲食店が増えて肉の種類が広がり、火鍋や串焼きで牛肉や羊肉も人気を集めている。FAOの研究も、所得の増加と都市化で、アジアの食事が主食から畜産物・乳製品・野菜・果物・油脂へ移っていると整理している。\n一方、中国は草地が少なく、しかも傷んでいるため、牛・羊・乳製品の供給には限りがあるとUSDAはみる。昔は土地が足りない農家が、作物の残りかすで豚を小さく飼っていた。豚の飼育が大規模になるほど、輸入の大豆やトウモロコシなど飼料への依存が高まる。",
+ "sources": [
+  {
+   "title": "USDA ERS「China in the Next Decade: Rising Meat Demand and Growing Imports of Feed」（2014）",
+   "url": "https://www.ers.usda.gov/amber-waves/2014/april/china-in-the-next-decade-rising-meat-demand-and-growing-imports-of-feed"
+  },
+  {
+   "title": "FAO ESA Working Paper 04-17「Westernization of Asian Diets and the transformation of food systems」（2004）",
+   "url": "https://www.fao.org/4/ae127e/ae127e00.pdf"
+  }
+ ]
+}

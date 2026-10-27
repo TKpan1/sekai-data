@@ -1,0 +1,23 @@
+{
+ "iso3": "VNM",
+ "input_hash": "d66103d504dd2add",
+ "text": "ベトナムは石炭が48.1%（2025年）で最大、世界平均（33.0%）を上回る。水力は33.0%で、1985年の29.1%と同程度である。1985年に24.0%あった石油は0.2%まで落ちた。\n世界銀行（2022年）によれば、初期の成長は国内の水力が支えたが、この10年で石炭が主力になった。最初の大型石炭火力は1996年で、石炭火力の設備は2010年の5GWから2020年の20GWへ増えた。2020年の石炭は設備の30%だが、発電の約60%を担う。需要は年約10%で伸び、配給が起きた（WNA）。\n太陽光は7.4%（2025年）になった。EIAによれば2020年に約16.6GWへ急増したが、ITAは、買取制度の時期に送電線の整備が追いつかず、出力抑制が起きたと述べる。水力は干ばつに弱く、気温上昇と降雨の変化で出力の見込みも下がっている（世界銀行）。\n2025年4月承認の改定第8次電力開発計画は、再エネ（水力除く）を2030年に36%とし、LNG火力と原子力も加える。原子力は2016年に延期されたが、2024年11月の決議で再開した（WNA）。",
+ "sources": [
+  {
+   "title": "世界銀行「Energy Sector Decarbonization in Vietnam」（2022年）",
+   "url": "https://openknowledge.worldbank.org/server/api/core/bitstreams/142e04eb-569e-53f3-91d0-547999d8e363/content"
+  },
+  {
+   "title": "米国商務省 ITA「Vietnam - Power Generation, Transmission, and Distribution」",
+   "url": "https://www.trade.gov/country-commercial-guides/vietnam-power-generation-transmission-and-distribution"
+  },
+  {
+   "title": "米国エネルギー情報局（EIA）「Vietnam's latest power development plan focuses on expanding renewable sources」",
+   "url": "https://www.eia.gov/todayinenergy/detail.php?id=48176"
+  },
+  {
+   "title": "World Nuclear Association「Nuclear Power in Vietnam」",
+   "url": "https://world-nuclear.org/information-library/country-profiles/countries-t-z/vietnam"
+  }
+ ]
+}

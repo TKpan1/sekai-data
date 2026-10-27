@@ -1,0 +1,215 @@
+{
+  "iso3": "DEU",
+  "input_hash": "496b2d51e6a2a766",
+  "events": [
+    {
+      "year": 1871,
+      "label": "ドイツ帝国の成立",
+      "text": "普墺戦争と普仏戦争に勝ったプロイセン王ヴィルヘルム1世が、ベルリンを首都とするドイツ帝国を創建した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ドイツ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84"
+        }
+      ]
+    },
+    {
+      "year": 1914,
+      "label": "第一次世界大戦",
+      "text": "サラエボ事件を契機に、英仏露などとの戦争に突入した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ドイツ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84"
+        }
+      ]
+    },
+    {
+      "year": 1918,
+      "label": "敗戦と帝政の終焉",
+      "text": "戦力の限界を迎えて敗れ、ドイツ革命でヴィルヘルム2世がオランダへ亡命して帝政が終わった。",
+      "sources": [
+        {
+          "title": "Wikipedia「ドイツ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84"
+        }
+      ]
+    },
+    {
+      "year": 1923,
+      "label": "ハイパーインフレ",
+      "text": "賠償の負担が経済に響き、1923年夏には1ドル＝110万マルクまで下落した。レンテンマルクで通貨改革が行われた。",
+      "sources": [
+        {
+          "title": "Wikipedia「ドイツ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84"
+        }
+      ]
+    },
+    {
+      "year": 1926,
+      "label": "国際連盟に加盟",
+      "text": "ロカルノ条約に続き、国際連盟に常任理事国として加盟し、国際社会に復帰しつつあった。",
+      "sources": [
+        {
+          "title": "Wikipedia「ドイツ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84"
+        }
+      ]
+    },
+    {
+      "year": 1933,
+      "label": "ヒトラー首相就任",
+      "text": "世界恐慌下で台頭したナチ党の党首ヒトラーが首相に任命され、一党独裁体制を築いた。",
+      "sources": [
+        {
+          "title": "Wikipedia「ドイツ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84"
+        }
+      ]
+    },
+    {
+      "year": 1935,
+      "label": "再軍備宣言",
+      "text": "ヒトラーがヴェルサイユ条約の軍備制限を破棄する再軍備宣言を発した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ドイツ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84"
+        }
+      ]
+    },
+    {
+      "year": 1938,
+      "label": "オーストリア併合",
+      "text": "オーストリアを併合し、チェコスロバキア解体も進めた。",
+      "sources": [
+        {
+          "title": "Wikipedia「ドイツ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84"
+        }
+      ]
+    },
+    {
+      "year": 1939,
+      "label": "ポーランド侵攻",
+      "text": "9月にポーランドへ侵攻し、英仏の宣戦布告を招いて第二次世界大戦が始まった。",
+      "sources": [
+        {
+          "title": "Wikipedia「ドイツ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84"
+        }
+      ]
+    },
+    {
+      "year": 1945,
+      "label": "無条件降伏",
+      "text": "4月30日にヒトラーが自殺し、5月7日にランスで降伏文書に調印した。米英仏ソによる分割占領が始まった。",
+      "sources": [
+        {
+          "title": "Wikipedia「ドイツ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84"
+        }
+      ]
+    },
+    {
+      "year": 1949,
+      "label": "東西ドイツの成立",
+      "text": "西側占領地域はボンを暫定首都とする西ドイツ、ソ連占領地域は東ドイツとして独立し、分断国家となった。",
+      "sources": [
+        {
+          "title": "Wikipedia「ドイツ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84"
+        }
+      ]
+    },
+    {
+      "year": 1951,
+      "label": "欧州石炭鉄鋼共同体",
+      "text": "西ドイツとフランスの首脳が交流を深めた結果、欧州石炭鉄鋼共同体が誕生した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ドイツ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84"
+        }
+      ]
+    },
+    {
+      "year": 1961,
+      "label": "ベルリンの壁建設",
+      "text": "労働力をめぐる東西の対立が、ベルリンの壁となって現れた。",
+      "sources": [
+        {
+          "title": "Wikipedia「ドイツ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84"
+        }
+      ]
+    },
+    {
+      "year": 1972,
+      "label": "東西ドイツ基本条約",
+      "text": "東西ドイツ基本条約が成立した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ドイツ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84"
+        }
+      ]
+    },
+    {
+      "year": 1989,
+      "label": "ベルリンの壁崩壊",
+      "text": "ペレストロイカに端を発した東欧の民主化運動をきっかけに、ベルリンの壁が崩壊した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ドイツ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84"
+        }
+      ]
+    },
+    {
+      "year": 1990,
+      "label": "ドイツ再統一",
+      "text": "10月3日に再統一を達成し、首都もボンからベルリンに戻された。",
+      "sources": [
+        {
+          "title": "Wikipedia「ドイツ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84"
+        }
+      ]
+    },
+    {
+      "year": 1999,
+      "label": "ユーロ圏に参加",
+      "text": "1999年以降、ユーロ圏の一員となった。",
+      "sources": [
+        {
+          "title": "Wikipedia「ドイツ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "label": "欧州難民危機",
+      "text": "中東から多くの難民を受け入れたことでメルケル政権の支持率が下がり、ポピュリズムが広がった。",
+      "sources": [
+        {
+          "title": "Wikipedia「ドイツ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "label": "ウクライナ支援",
+      "text": "ロシアのウクライナ侵攻を受けて対戦車ミサイルの供与を決め、防衛予算や武器輸出への姿勢を転換した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ドイツ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84"
+        }
+      ]
+    }
+  ]
+}

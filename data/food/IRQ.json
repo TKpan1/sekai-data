@@ -1,0 +1,19 @@
+{
+  "iso3": "IRQ",
+  "input_hash": "685616a0bfe05fc8",
+  "text": "イラクは穀物に偏った食事である。2023年の供給量で穀物は熱量の58.1％と世界（42.4％）を大きく上回り、砂糖11.1％、油脂12.7％と合わせると約82％になる。動物性食品は6.0％、肉は3.7％にとどまる。肉は年21.1kgで、うち鶏肉が15.4kgと大半を占め、豚は0.4kgである。総熱量は2371kcalで、世界の3006kcalより少ない。\n雨水に頼る農業は難しく、ティグリス川とユーフラテス川の水と灌漑で農地を保っている。栽培は乾燥に強い小麦と大麦が中心で、ナツメヤシは5000年以上栽培されている（Wikipedia）。FAOのGIEWSによれば、2026年は雨に恵まれて穀物生産が約650万トン、うち小麦が560万トンと、平年より3割前後多い。一方、南部の一部では水を節約するため、政府が地表水による灌漑面積を50％減らした。それでも2026/27年度の穀物輸入必要量は550万トンで、米が約200万トン、飼料用トウモロコシが100万トンと見込まれる。\n食事を形づくってきたのは配給でもある。世界銀行によれば、公的な食料配給制度（PDS）は国連の制裁による食料不足を受けて1990年に始まり、小麦粉・米・砂糖・植物油の4品目が毎月配られる。2007年には配給が実際に摂取した熱量の68％を占め、2012年には最貧困層40％の熱量の約70％、最も豊かな層でも45％を配給が占めた。穀物・砂糖・油脂に偏る供給量の構成は、配給の中身と重なる。\n熱量に占める乳製品・卵の割合は、1961年の6.6％から2023年の2.4％に下がった。数字は供給量で、実際に食べた量より多い。",
+  "sources": [
+    {
+      "title": "FAO GIEWS「Country Brief: Iraq」（2026年9月1日）",
+      "url": "https://cb.apps.fao.org/country/IRQ/pdf/IRQ.pdf"
+    },
+    {
+      "title": "世界銀行「Iraq's Universal Public Distribution System: Utilization and Impacts During Displacement」（Policy Research Working Paper 9155）",
+      "url": "https://documents1.worldbank.org/curated/en/239031582135436157/pdf/Iraqs-Universal-Public-Distribution-System-Utilization-and-Impacts-During-Displacement.pdf"
+    },
+    {
+      "title": "Wikipedia「イラク」",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%A9%E3%82%AF"
+    }
+  ]
+}

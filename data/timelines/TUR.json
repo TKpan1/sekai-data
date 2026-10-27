@@ -1,0 +1,182 @@
+{
+  "iso3": "TUR",
+  "input_hash": "09b6183e6b74b9b8",
+  "events": [
+    {
+      "year": 1914,
+      "label": "第一次世界大戦参戦",
+      "text": "三人のパシャ支配下のオスマン帝国が参戦し、政府はアルメニア人などの臣民に大量虐殺を行った。",
+      "sources": [
+        {
+          "title": "Wikipedia「トルコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AB%E3%82%B3"
+        }
+      ]
+    },
+    {
+      "year": 1919,
+      "label": "トルコ独立戦争",
+      "text": "敗戦で列強の占領下に置かれた中、5月に国土と独立を訴える武装抵抗運動が起こった。",
+      "sources": [
+        {
+          "title": "Wikipedia「トルコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AB%E3%82%B3"
+        }
+      ]
+    },
+    {
+      "year": 1920,
+      "label": "アンカラ政権",
+      "text": "4月、ムスタファ・ケマルがアンカラに抵抗政権を樹立し、1922年9月に現在の領土を勝ち取った。",
+      "sources": [
+        {
+          "title": "Wikipedia「トルコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AB%E3%82%B3"
+        }
+      ]
+    },
+    {
+      "year": 1923,
+      "label": "共和国の成立",
+      "text": "ローザンヌ条約を締結し、10月29日に共和制の樹立が宣言された。初代大統領はアタテュルクである。",
+      "sources": [
+        {
+          "title": "Wikipedia「トルコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AB%E3%82%B3"
+        }
+      ]
+    },
+    {
+      "year": 1924,
+      "label": "カリフ制廃止",
+      "text": "カリフをイスタンブールから追放し、西洋化による近代化を目指した。イスラム法は国法の地位を失った。",
+      "sources": [
+        {
+          "title": "Wikipedia「トルコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AB%E3%82%B3"
+        }
+      ]
+    },
+    {
+      "year": 1945,
+      "label": "枢軸国に宣戦",
+      "text": "大戦中は中立を保ったが、2月23日、連合国の圧力によりドイツと日本に宣戦布告した。",
+      "sources": [
+        {
+          "title": "Wikipedia「トルコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AB%E3%82%B3"
+        }
+      ]
+    },
+    {
+      "year": 1952,
+      "label": "NATO加盟",
+      "text": "ソ連に南接する反共の防波堤として西側に迎えられ、北大西洋条約機構（NATO）に加盟した。",
+      "sources": [
+        {
+          "title": "Wikipedia「トルコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AB%E3%82%B3"
+        }
+      ]
+    },
+    {
+      "year": 1960,
+      "label": "最初のクーデター",
+      "text": "軍が最初のクーデターを起こし、のちに軍が内閣に圧力をかける国家安全保障会議が設置された。",
+      "sources": [
+        {
+          "title": "Wikipedia「トルコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AB%E3%82%B3"
+        }
+      ]
+    },
+    {
+      "year": 1963,
+      "label": "EU加盟候補国に",
+      "text": "ヨーロッパへの帰属意識から、この年以来欧州連合（EU）の候補国となっている。",
+      "sources": [
+        {
+          "title": "Wikipedia「トルコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AB%E3%82%B3"
+        }
+      ]
+    },
+    {
+      "year": 1980,
+      "label": "二度目のクーデター",
+      "text": "軍が二度目のクーデターを起こし、1982年に軍や司法に大幅な権限を与える現憲法が制定された。",
+      "sources": [
+        {
+          "title": "Wikipedia「トルコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AB%E3%82%B3"
+        }
+      ]
+    },
+    {
+      "year": 1999,
+      "label": "イズミット地震",
+      "text": "イズミット地震でマルマラ海沿岸の人口密集地が大規模な被害を受けた。",
+      "sources": [
+        {
+          "title": "Wikipedia「トルコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AB%E3%82%B3"
+        }
+      ]
+    },
+    {
+      "year": 2002,
+      "label": "公正発展党の勝利",
+      "text": "総選挙で、イスラム系を中心に結党された公正発展党（AKP）が地すべり的な勝利を収めた。",
+      "sources": [
+        {
+          "title": "Wikipedia「トルコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AB%E3%82%B3"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "label": "エルドアン大統領",
+      "text": "8月28日、エルドアン首相が大統領に就任した。",
+      "sources": [
+        {
+          "title": "Wikipedia「トルコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AB%E3%82%B3"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "label": "首相職廃止の改憲",
+      "text": "大統領権限の強化と首相職の廃止を盛り込んだ憲法改正案が可決され、2018年7月9日に首相職が廃止された。",
+      "sources": [
+        {
+          "title": "Wikipedia「トルコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AB%E3%82%B3"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "label": "トルコ・シリア地震",
+      "text": "トルコ・シリア地震で、トルコ南部が大規模な被害を受けた。",
+      "sources": [
+        {
+          "title": "Wikipedia「トルコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AB%E3%82%B3"
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "label": "マッカ共同防衛協定",
+      "text": "8月、パキスタン、サウジアラビアと、1国への武力攻撃を3国すべてへの攻撃とみなす共同防衛協定を結んだ。",
+      "sources": [
+        {
+          "title": "Wikipedia「トルコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AB%E3%82%B3"
+        }
+      ]
+    }
+  ]
+}

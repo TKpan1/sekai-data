@@ -1,0 +1,246 @@
+{
+  "iso3": "VNM",
+  "input_hash": "d30e936274b607c0",
+  "events": [
+    {
+      "year": 1802,
+      "label": "阮朝の成立",
+      "text": "阮福映が西山朝を滅ぼして阮朝を興し、現在とほぼ変わらない領土を統一した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ベトナム」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0"
+        }
+      ]
+    },
+    {
+      "year": 1847,
+      "label": "フランスの侵略",
+      "text": "フランス軍艦がダナンを艦砲射撃し、フランスの侵略が始まった。",
+      "sources": [
+        {
+          "title": "Wikipedia「ベトナム」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0"
+        }
+      ]
+    },
+    {
+      "year": 1862,
+      "label": "南部3省の割譲",
+      "text": "第1次サイゴン条約でフランスに南部3省を割譲した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ベトナム」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0"
+        }
+      ]
+    },
+    {
+      "year": 1887,
+      "label": "仏領インドシナ",
+      "text": "フランス領インドシナ連邦が成立し、フランスに植民地化された。",
+      "sources": [
+        {
+          "title": "Wikipedia「ベトナム」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0"
+        }
+      ]
+    },
+    {
+      "year": 1930,
+      "label": "共産党の設立",
+      "text": "ホー・チ・ミンが香港でベトナム共産党（インドシナ共産党）を設立した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ベトナム」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0"
+        }
+      ]
+    },
+    {
+      "year": 1940,
+      "label": "日本軍の仏印進駐",
+      "text": "フランスがドイツに敗れたことに伴い、日本軍が北部仏印に進駐した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ベトナム」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0"
+        }
+      ]
+    },
+    {
+      "year": 1945,
+      "label": "民主共和国の樹立",
+      "text": "ベトミンがハノイを占拠し、9月2日にホー・チ・ミンがベトナム民主共和国の樹立を宣言した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ベトナム」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0"
+        }
+      ]
+    },
+    {
+      "year": 1946,
+      "label": "第一次インドシナ戦争",
+      "text": "ハイフォンでのフランス軍との衝突から、独立戦争が始まった。",
+      "sources": [
+        {
+          "title": "Wikipedia「ベトナム」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0"
+        }
+      ]
+    },
+    {
+      "year": 1954,
+      "label": "ジュネーヴ協定",
+      "text": "ディエンビエンフーで敗れたフランスが撤退し、国土は北緯17度線で南北に分断された。",
+      "sources": [
+        {
+          "title": "Wikipedia「ベトナム」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0"
+        }
+      ]
+    },
+    {
+      "year": 1965,
+      "label": "北爆の開始",
+      "text": "アメリカが北ベトナムの爆撃を始め、本格的な戦争に突入した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ベトナム」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0"
+        }
+      ]
+    },
+    {
+      "year": 1973,
+      "label": "パリ和平協定",
+      "text": "南北ベトナム、臨時革命政府、アメリカの4者がパリ和平協定に調印した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ベトナム」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0"
+        }
+      ]
+    },
+    {
+      "year": 1975,
+      "label": "サイゴン陥落",
+      "text": "4月30日、南ベトナムが全面降伏してサイゴンが陥落し、ベトナム戦争が終結した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ベトナム」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0"
+        }
+      ]
+    },
+    {
+      "year": 1976,
+      "label": "南北統一",
+      "text": "南北統一選挙が行われ、7月2日に国名をベトナム社会主義共和国とした。",
+      "sources": [
+        {
+          "title": "Wikipedia「ベトナム」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0"
+        }
+      ]
+    },
+    {
+      "year": 1978,
+      "label": "カンボジア侵攻",
+      "text": "12月、カンボジアへの侵攻を始め、国際的に孤立した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ベトナム」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0"
+        }
+      ]
+    },
+    {
+      "year": 1979,
+      "label": "中越戦争",
+      "text": "カンボジア侵攻を非難する中国がベトナムを攻撃し、中越戦争が始まった。",
+      "sources": [
+        {
+          "title": "Wikipedia「ベトナム」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0"
+        }
+      ]
+    },
+    {
+      "year": 1986,
+      "label": "ドイモイ",
+      "text": "経済危機を受け、市場経済の導入を目指すドイモイ（刷新）政策を打ち出した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ベトナム」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0"
+        },
+        {
+          "title": "Wikipedia「ベトナムの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1989,
+      "label": "カンボジア撤兵",
+      "text": "9月、カンボジアから完全撤兵し、カンボジア・ベトナム戦争が終わった。",
+      "sources": [
+        {
+          "title": "Wikipedia「ベトナム」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0"
+        },
+        {
+          "title": "Wikipedia「ベトナムの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1995,
+      "label": "米国交とASEAN加盟",
+      "text": "アメリカとの国交正常化とASEAN加盟を果たした。",
+      "sources": [
+        {
+          "title": "Wikipedia「ベトナム」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0"
+        },
+        {
+          "title": "Wikipedia「ベトナムの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 2007,
+      "label": "WTO加盟",
+      "text": "1月11日、世界貿易機関に150番目の加盟国として正式加盟した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ベトナム」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0"
+        },
+        {
+          "title": "Wikipedia「ベトナムの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "label": "トー・ラム書記長",
+      "text": "トー・ラムが共産党書記長に選出された。",
+      "sources": [
+        {
+          "title": "Wikipedia「ベトナム」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0"
+        },
+        {
+          "title": "Wikipedia「ベトナムの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    }
+  ]
+}

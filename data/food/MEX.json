@@ -1,0 +1,23 @@
+{
+  "iso3": "MEX",
+  "input_hash": "4080db1bd83a8970",
+  "text": "世界と比べて目立つのは、穀類の多さに砂糖が重なる点である。FAOの供給量（2023年）では1人1日3,305kcalのうち、穀類が39.9%（世界42.4%）、砂糖が12.3%（同7.9%）を占め、油脂は13.9%（同15.9%）と少ない。\n主食はトルティーヤである。USDAによれば、トウモロコシ消費の半分近くは飼料とでんぷん工業向けで、残りの大半が人の消費、つまり主にトルティーヤになる。トルティーヤの店頭価格は2018年12月から2024年8月に、1kg14.7ペソから24.2ペソへ62%上がった。生地は中部・南部ではトウモロコシ、北部では小麦粉が主流で、豆の料理はほぼ毎食食べられるという。\n肉は鶏が年38.6kgと最多で、豚22.4kg、牛15.8kgが続く。OECDとFAOは、鶏肉の消費が今後メキシコなどで速く伸びるとみる。\n1961年は2,424kcalで穀類が57.0%、豆類が7.3%を占めたが、2023年は穀類39.9%、豆類2.3%に下がり、肉は6.5%から11.6%に増えた。\n2025年に示された新しい食生活指針は、トウモロコシ、豆、カボチャ、唐辛子の「ミルパの食事」を土台に、超加工食品と砂糖入り飲料を減らすよう呼びかける。農業大臣は、栄養のある食事を得にくい人が1,880万人いると述べた。供給量は、実際に食べた量とは違う。",
+  "sources": [
+    {
+      "title": "USDA海外農業局「Grain and Feed Update: Mexico」（MX2024-0044）",
+      "url": "https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Grain+and+Feed+Update_Mexico+City_Mexico_MX2024-0044.pdf"
+    },
+    {
+      "title": "PAHO/WHO「Nuevas Guías Alimentarias: OPS celebra un hito en salud pública para México」",
+      "url": "https://www.paho.org/es/noticias/16-10-2025-nuevas-guias-alimentarias-ops-celebra-hito-salud-publica-para-mexico"
+    },
+    {
+      "title": "OECD・FAO「Agricultural Outlook 2025-2034」",
+      "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/07/oecd-fao-agricultural-outlook-2025-2034_3eb15914/601276cd-en.pdf"
+    },
+    {
+      "title": "Wikipedia「メキシコ料理」",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%AD%E3%82%B7%E3%82%B3%E6%96%99%E7%90%86"
+    }
+  ]
+}

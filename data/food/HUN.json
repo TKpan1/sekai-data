@@ -1,0 +1,23 @@
+{
+  "iso3": "HUN",
+  "input_hash": "d09730fbe3dcb907",
+  "text": "ハンガリーは熱量が多く、油脂・砂糖・酒の割合が高い。2023年の供給量は3549kcalで世界（3006kcal）を上回る。油脂は熱量の24.8％（世界15.9％）、砂糖は13.9％（7.9％）、アルコールは5.7％（2.1％）である。穀物は27.6％で世界（42.4％）より低く、1961年の45.4％から下がった。\n肉は年76.3kgで、豚が47.2kgと6割余りを占める。鶏は24.1kg、牛は4.4kgで、羊・ヤギはほとんどない。国内の飼育数は豚280万頭、家禽3380万羽、牛90万頭とされる（米国商務省ITA、年の記載なし）。固有種の豚マンガリッツァは国宝に指定され、高品質の食肉として利用しながら頭数を増やす方針がとられている（Wikipedia）。\n国土の大部分はなだらかな丘陵で、ドナウ川などに潤される平野に肥沃な農地が広がる内陸国である（Wikipedia）。作物は小麦（90万ha）、トウモロコシ（80万ha）、ヒマワリ（70万ha）が主である（ITA）。トカイワインなどのワイン、蒸留酒パーリンカ、パプリカ、フォアグラが名産で、粉にしたパプリカの多用と多様なダンプリングが料理の特色とされる（Wikipedia）。\nITAによれば、小売店の食品の3分の2以上がハンガリー産で、農産物輸入の9割以上は欧州連合（EU）加盟国からである（2024年）。公的な食事指針（2021年改訂）は、赤身肉を週500〜700gまでに抑え、砂糖と塩を控えるよう勧めている（FAO掲載）。",
+  "sources": [
+    {
+      "title": "米国商務省 ITA「Hungary Country Commercial Guide - Agricultural Sectors」",
+      "url": "https://www.trade.gov/country-commercial-guides/hungary-agricultural-sectors"
+    },
+    {
+      "title": "FAO「Food-based dietary guidelines - Hungary」",
+      "url": "https://www.fao.org/nutrition/education/food-dietary-guidelines/regions/countries/hungary/en/"
+    },
+    {
+      "title": "Wikipedia「ハンガリー」",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%AC%E3%83%AA%E3%83%BC"
+    },
+    {
+      "title": "Wikipedia「ハンガリー料理」",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%AC%E3%83%AA%E3%83%BC%E6%96%99%E7%90%86"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "iso3": "BRA",
+  "input_hash": "ccc94f2afc9fd9dd",
+  "text": "世界と比べて目立つのは肉と油脂である。FAOの供給量（2023年）では1人1日3,423kcalのうち、肉が13.9%（世界8.3%）、油脂が21.6%（同15.9%）を占め、穀類は26.6%（同42.4%）にとどまる。肉は年104.6kgで、鶏47.6kg、牛39.1kg、豚16.8kgの順である。OECDとFAOによれば、ブラジルは2024年に主な食肉のすべてで生産を大きく伸ばし、大豆では世界最大の生産国である。\n食卓の軸は今も米と豆である。ブラジル地理統計院（IBGE）の2017〜18年の調査では、前日に米を食べた人が76.1%、豆を食べた人が60.0%で、米は総カロリーの11.1%、豆は6.6%を占めた。植物油も7.7%を占める。ただし2008〜09年と比べると、豆を食べる人は72.8%から60.0%に、米は84.0%から76.1%に減った。\n1961年と比べると食事は大きく変わった。穀類は37.8%から26.6%、豆類は9.1%から3.2%、いも類は9.6%から3.8%に減り、肉は5.4%から13.9%、油脂は8.3%から21.6%に増えた。総量も2,220kcalから3,423kcalへ増えている。\nIBGEの調査では、超加工食品が摂取カロリーの19.7%を占め、生鮮・最小限の加工の食品は53.4%だった。OECDとFAOは、砂糖入り飲料への課税など、中南米で砂糖の摂りすぎを抑える政策が広がっているとする。",
+  "sources": [
+    {
+      "title": "IBGE「Pesquisa de Orçamentos Familiares 2017-2018: Análise do Consumo Alimentar Pessoal no Brasil」",
+      "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv101742.pdf"
+    },
+    {
+      "title": "OECD・FAO「Agricultural Outlook 2025-2034」",
+      "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/07/oecd-fao-agricultural-outlook-2025-2034_3eb15914/601276cd-en.pdf"
+    }
+  ]
+}

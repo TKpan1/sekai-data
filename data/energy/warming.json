@@ -1,0 +1,22 @@
+{
+ "input_hash": "864d8db98c2e980d",
+ "text": "世界の平均気温は19世紀から大きく上がった。1850〜1900年の平均との差（HadCRUT5）は、1850年の−0.06度、1900年の0.13度から、2000年の0.69度、2025年の1.41度へ広がった。世界気象機関は、2024年が観測史上最も暖かく、1850〜1900年の平均より1.55度（±0.13度）高かったと確認した。\n二酸化炭素濃度も同じ向きに動いた。1900年の294.2ppmが2025年には425.6ppmになり、約80万年の幅（177.7〜425.6ppm）の上端にある。NOAAによれば、過去100万年ほど濃度は約300ppmを超えなかった。海面も1900年の−152.4ミリから2020年の66.0ミリへ、約218ミリ上がった。\n原因が人間の活動だと言える根拠は、観測の一致にある。NASAによれば、二酸化炭素は1750年から5割近く増え、石炭や石油の燃焼が主因である。大気中には人間の排出を示す「同位体の指紋」が見える。NOAAは、化石燃料の排出が1960年代の年110億トン前後から2024年の374億トンへ増え、自然の吸収源が約半分を取り除いても残りが大気にたまると説明する。\n太陽の説も退けられている。NASAによれば、地球が受ける太陽エネルギーは1880年以降増えておらず、上空は冷え、地表と下層の大気は暖まった。これは温室効果で説明できる形で、太陽の変化だけを入れたモデルは昇温を再現できない。2021年にIPCCは原因が人間の活動だと断定した。",
+ "sources": [
+  {
+   "title": "NASA「Causes of Climate Change」",
+   "url": "https://science.nasa.gov/climate-change/causes/"
+  },
+  {
+   "title": "NOAA Climate.gov「Climate Change: Atmospheric Carbon Dioxide」",
+   "url": "https://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide"
+  },
+  {
+   "title": "WMO「WMO confirms 2024 as warmest year on record at about 1.55°C above pre-industrial level」",
+   "url": "https://wmo.int/news/media-centre/wmo-confirms-2024-warmest-year-record-about-155degc-above-pre-industrial-level"
+  },
+  {
+   "title": "Wikipedia「地球温暖化」",
+   "url": "https://ja.wikipedia.org/wiki/%E5%9C%B0%E7%90%83%E6%B8%A9%E6%9A%96%E5%8C%96"
+  }
+ ]
+}

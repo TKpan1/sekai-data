@@ -1,0 +1,15 @@
+{
+ "iso3": "IRN",
+ "input_hash": "1f939b1bf0da75d5",
+ "text": "平均寿命は2024年に77.9年で、世界の中央値74.7年を上回る。5歳までの子どもの死亡は1000人あたり11.3人（2024年）で中央値15.0人より少ない。しかも1人当たりの医療費は2023年に267ドルで中央値470ドルより低く、医師の数は人口1000人あたり1.81人（2023年）で中央値と同じ程度である。少ない費用で成果を出している点がこの国の特徴だ。\nWHOの2020年の報告は、イランの一次医療の成功を1980年代からの取り組みとして評価している。WHOの2010年の国別協力戦略によれば、村に「保健の家」を置く仕組みが1981年に作られ、地元で選ばれて2年間訓練を受けた保健ワーカー（ベフヴァルズ）が働き、1か所が約1500人を受け持つ。当時の保健の家は全国に1万7151か所あった。\n一方、費用の面では患者の自己負担が2023年に43.1%（中央値27.6%）と高い。同じ戦略は、2000年代の終わりごろに自己負担が50%を超えていたと記し、2020年のWHO報告は、保険の拡大や患者負担の軽減、給付の拡大が改革に含まれると述べる。\n死因は2021年に生活習慣病など56.6%、けがなど6.84%（中央値6.75%）である。同じ戦略は、けがが死亡の18%を占め毎年約5万人が亡くなると書いており、交通事故の多さが課題とされてきた。",
+ "sources": [
+  {
+   "title": "WHO「Health systems transformation in the Islamic Republic of Iran: an assessment of key health financing and governance issues」（2020）",
+   "url": "https://www.who.int/publications/i/item/978-92-4-000377-4"
+  },
+  {
+   "title": "WHO東地中海地域事務局「Country Cooperation Strategy for WHO and the Islamic Republic of Iran 2010–2014」",
+   "url": "https://applications.emro.who.int/docs/CCS_Islamic_Republic_Iran_2010_EN_14482.pdf"
+  }
+ ]
+}

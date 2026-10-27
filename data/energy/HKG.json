@@ -1,0 +1,19 @@
+{
+ "iso3": "HKG",
+ "input_hash": "e17365ad3a4560c3",
+ "text": "香港はガスが64.1%、石炭が33.7%（2024年）で、域内の発電は火力に偏る。2000年は石炭60.4%、ガス39.2%だったので、石炭からガスへ移ってきた。\n背景には資源の乏しさがある。香港政府の環境及生態局は「香港には域内のエネルギー資源がない」と述べる。ガスは6本の海底パイプラインで届き、本土から電力会社とタウンガス会社へ向かう管と、洋上のLNG基地から電力会社へ向かう管がある。LNGが途切れた場合、電力会社はガス・原子力・石炭の配分を変えて対応できる。\n上の内訳に原子力は現れないが、本土の大亜湾原発から電気を輸入しており、燃料構成の約4分の1を占める（2023年の立法会答弁）。同じ答弁で、石炭は2015年の約半分から約4分の1に下がり、ガスは約4分の1から半分近くへ上がった。政府は日常の発電に石炭を使わない目標を2035年に置く。\n同局の2025年の内訳は、天然ガス55%、原子力と再エネ28%、石炭17%である。",
+ "sources": [
+  {
+   "title": "香港政府 環境及生態局「Energy Supplies」",
+   "url": "https://eeb.gov.hk/en/energy/energy.html"
+  },
+  {
+   "title": "香港政府「LCQ5: Energy supply in Hong Kong」（2026年3月25日）",
+   "url": "https://www.info.gov.hk/gia/general/202603/25/P2026032500478p.htm"
+  },
+  {
+   "title": "香港政府 気候中和・持続可能発展局「LCQ4: Use of clean energy for electricity generation」",
+   "url": "https://cnsd.gov.hk/en/press-release/lcq4-use-of-clean-energy-for-electricity-generation/"
+  }
+ ]
+}

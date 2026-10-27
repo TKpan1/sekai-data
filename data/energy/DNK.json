@@ -1,0 +1,19 @@
+{
+ "iso3": "DNK",
+ "input_hash": "558d36be5b1e85c1",
+ "text": "デンマークは風力が電源の57.7%（2025年）を占め、世界平均8.5%の約7倍に達する。1990年は石炭が90.8%で風力は2.4%だったから、35年で主役が入れ替わった。\n転機は1970年代の石油危機である。IRENA によれば、1973年のデンマークは輸入石油がエネルギー供給の90%超を占めた。1976年の最初のエネルギー計画は石炭と原子力への転換を掲げたが、原発への反対運動が広がり、1985年に議会は原子力を将来の計画から外した。風力は原子力に代わる選択肢として計画に入り、1980年代には建設や運転への補助、共同所有への税の優遇が続いた。地域の組合が風車を持つ方式が広がり、2001年には組合が国内の風車の86%を建てていた。\n陸上風力は1970年代から設置され、1991年には世界初の洋上風力発電所ヴィンデビーが造られた（デンマーク・エネルギー庁）。\n石炭は2025年に2.7%まで減り、バイオ燃料が20.1%、太陽光が13.4%を占める。同庁によると、2025年（暫定）の電力の79.7%が再エネで、西デンマークは85%、東デンマークは71%だった。火力発電の88%は熱電併給である。",
+ "sources": [
+  {
+   "title": "デンマーク・エネルギー庁「Key figures」",
+   "url": "https://ens.dk/en/analyses-and-statistics/key-figures"
+  },
+  {
+   "title": "デンマーク・エネルギー庁「Facts about onshore wind power」",
+   "url": "https://ens.dk/en/energy-sources/facts-about-onshore-wind-power"
+  },
+  {
+   "title": "IRENA・GWEC「30 Years of Policies for Wind Energy: Lessons from Denmark」",
+   "url": "https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2013/GWEC/GWEC_Denmark.pdf"
+  }
+ ]
+}

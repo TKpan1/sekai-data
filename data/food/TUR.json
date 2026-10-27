@@ -1,0 +1,19 @@
+{
+  "iso3": "TUR",
+  "input_hash": "285124dc51f632a4",
+  "text": "世界と比べて目立つのは、供給量の多さと果物・野菜の多さである。FAOの供給量（2023年）は1人1日3,892kcalで、世界の3,006kcalを大きく上回る。果物・野菜は9.9%（世界7.6%）を占め、肉は6.3%（同8.3%）と少ない。肉は鶏21.6kg、牛19.7kg、羊・山羊8.0kgで、豚はゼロである。イスラム教国のため、豚肉はほとんど使われない。\n中心にあるのは小麦とパンである。USDAによれば、小麦の消費の約9割は食用で、トルコは1人当たりのパン消費が世界最大級とされる。政府は歴史的にパンの生産と価格に介入してきた。一方、中・高所得層は他の食品が選べるためパンを減らし、小麦の消費はここ数年横ばいである。\nFAOがまとめたトルコの食の読み書き戦略（2023年）によると、果物を毎日食べる人は51.6%でOECD平均の57.1%を下回るが、野菜を毎日食べる成人は60.9%（2017年）でOECD平均の59.6%を上回る。トルコは果物や野菜を含む多くの作物で自給できる。料理ではオリーブ油とヨーグルトが調味料のように使われる。\n1961年は2,867kcalで、穀類が55.8%を占めた。2023年は穀類36.6%に下がり、油脂は11.3%から20.2%、砂糖は2.3%から7.4%、肉は3.3%から6.3%に増えた。",
+  "sources": [
+    {
+      "title": "USDA海外農業局「Grain and Feed Annual: Turkiye」（TU2025-0015）",
+      "url": "https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Grain+and+Feed+Annual_Ankara_Turkiye_TU2025-0015.pdf"
+    },
+    {
+      "title": "FAO「Türkiye food literacy strategy and action plan 2022–2028」",
+      "url": "https://openknowledge.fao.org/server/api/core/bitstreams/657af525-0969-474b-a468-d2eb6b05cc9b/content"
+    },
+    {
+      "title": "Wikipedia「トルコ料理」",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AB%E3%82%B3%E6%96%99%E7%90%86"
+    }
+  ]
+}

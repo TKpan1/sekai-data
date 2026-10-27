@@ -1,0 +1,15 @@
+{
+ "iso3": "IRL",
+ "input_hash": "df37cfaee3b1a658",
+ "text": "風力が発電の38.0％（2025年）を占め、世界平均の8.5％の4倍を超える。風力は1990年にはゼロだったが、アイルランドの再エネ全体の約半分（2025年は46.3％）を担うまでになった（SEAI）。\n最大の電源はガスで48.4％（2025年）、1990年の27.7％から増えた。国内のガス生産は2016年にコリブ・ガス田が稼働して一次エネルギー生産の58.6％に跳ね上がったが、2024年には29.6％まで下がり、燃料の多くは輸入に頼る（CSO）。エネルギー全体の輸入依存度は2025年に78.2％で、2024年の最終消費では石油が51.2％を占め、EU平均の37.4％を上回る。\n石炭は1990年の41.7％から2025年の0.5％へ下がった。泥炭と石炭は国内の一次エネルギー生産の35.4％（1990〜94年平均）から4.3％（2024年）に減り、CSOは商業的な泥炭採取の制限と結びつけている。2025年の発電に泥炭は使われなかった（SEAI）。\n島国のため、電気は連系線で補う。2025年の純輸入は6.1TWhで供給の16.3％を占め、過去最高だった。東西連系線、北アイルランドとの連系線に加え、ウェックスフォードとウェールズを結ぶグリーンリンクが2025年に商業運転に入った（SEAI）。",
+ "sources": [
+  {
+   "title": "SEAI「First Look: Energy Supply and Security of Supply 2025」",
+   "url": "https://www.seai.ie/sites/default/files/2026-07/First_Look_Energy_Supply_and_Security_of_Supply_2025.pdf"
+  },
+  {
+   "title": "CSO「Environmental Indicators Ireland 2025: Energy」",
+   "url": "https://www.cso.ie/en/releasesandpublications/ep/p-eiieee/environmentalindicatorsireland2025economyemissionsandenergy/energy"
+  }
+ ]
+}

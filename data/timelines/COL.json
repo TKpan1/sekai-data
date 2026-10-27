@@ -1,0 +1,193 @@
+{
+  "iso3": "COL",
+  "input_hash": "82d5949a8d290716",
+  "events": [
+    {
+      "year": 1810,
+      "label": "独立宣言",
+      "text": "ナリーニョが副王を追放してクンディナマルカ共和国の独立を宣言し、スペインからの独立戦争が始まった。",
+      "sources": [
+        {
+          "title": "Wikipedia「コロンビア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1819,
+      "label": "グラン・コロンビア",
+      "text": "ボヤカの戦いでボゴタが解放され、ボリバルがグラン・コロンビアの建国を宣言した。",
+      "sources": [
+        {
+          "title": "Wikipedia「コロンビア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1831,
+      "label": "ヌエバ・グラナダ独立",
+      "text": "コロンビア共和国が崩壊し、残った地域がヌエバ・グラナダ共和国として独立した。",
+      "sources": [
+        {
+          "title": "Wikipedia「コロンビア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1849,
+      "label": "二大政党制の成立",
+      "text": "連邦派が自由党を、対抗して貴族や教会などが保守党を結成し、現在まで続く二大政党制が確立した。",
+      "sources": [
+        {
+          "title": "Wikipedia「コロンビア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1851,
+      "label": "奴隷の全員解放",
+      "text": "全土の奴隷2万人が全員解放され、翌年1月に奴隷制そのものが廃止された。",
+      "sources": [
+        {
+          "title": "Wikipedia「コロンビア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1863,
+      "label": "コロンビア合衆国",
+      "text": "自由主義的なリオ・ネグロ憲法が採択され、8州からなる連邦制のコロンビア合衆国が成立した。",
+      "sources": [
+        {
+          "title": "Wikipedia「コロンビア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1886,
+      "label": "コロンビア共和国",
+      "text": "教権の強い中央集権的な憲法改正がなされ、現在のコロンビア共和国が成立した。",
+      "sources": [
+        {
+          "title": "Wikipedia「コロンビア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1899,
+      "label": "千日戦争",
+      "text": "自由党急進派が蜂起した内戦が1902年まで続き、およそ10万人の犠牲者が出た。",
+      "sources": [
+        {
+          "title": "Wikipedia「コロンビア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1903,
+      "label": "パナマの分離",
+      "text": "アメリカの援助を受け、パナマ地峡がパナマ共和国として独立した。",
+      "sources": [
+        {
+          "title": "Wikipedia「コロンビア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1948,
+      "label": "ボゴタ暴動",
+      "text": "自由党党首ガイタンが暗殺されてボゴタ暴動が起き、「暴力」の時代を迎えた。",
+      "sources": [
+        {
+          "title": "Wikipedia「コロンビア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1953,
+      "label": "ロハス軍事政権",
+      "text": "軍事クーデターでロハス・ピニージャ将軍が政権を握り、史上三度目の軍事政権が発足した。",
+      "sources": [
+        {
+          "title": "Wikipedia「コロンビア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1958,
+      "label": "国民戦線体制",
+      "text": "自由党と保守党が4年ごとに政権を交替する「国民戦線」体制が成立した（1974年まで）。",
+      "sources": [
+        {
+          "title": "Wikipedia「コロンビア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1966,
+      "label": "FARC発足",
+      "text": "1964年からゲリラ活動が活発化し、コロンビア革命軍（FARC）が発足した。",
+      "sources": [
+        {
+          "title": "Wikipedia「コロンビア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1989,
+      "label": "麻薬カルテル戦争",
+      "text": "メデジン・カルテルとの大規模な戦闘が始まり、大統領候補ガランが暗殺された。",
+      "sources": [
+        {
+          "title": "Wikipedia「コロンビア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1991,
+      "label": "新憲法",
+      "text": "1886年憲法が全面改正され、現行の1991年憲法が施行された。",
+      "sources": [
+        {
+          "title": "Wikipedia「コロンビア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1993,
+      "label": "エスコバル射殺",
+      "text": "メデジン・カルテル最大のボス、パブロ・エスコバルが追跡の末に射殺された。",
+      "sources": [
+        {
+          "title": "Wikipedia「コロンビア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "label": "FARCと和平合意",
+      "text": "政府とFARCが50年以上続いた内戦の終結に合意し、サントス大統領にノーベル平和賞が贈られた。",
+      "sources": [
+        {
+          "title": "Wikipedia「コロンビア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2"
+        }
+      ]
+    }
+  ]
+}

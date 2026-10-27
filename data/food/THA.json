@@ -1,0 +1,19 @@
+{
+  "iso3": "THA",
+  "input_hash": "0e0f725e2f1c8949",
+  "text": "タイの食事は米を中心とする穀物が支える。2023年の供給量では穀物が熱量の49.4%（世界は42.4%）を占める。ただし1961年の73.5%からは大きく下がった。この間に1人1日の熱量は1979kcalから2855kcalに増え、砂糖は2.7%から17.1%（世界7.9%）、肉は4.9%から6.8%に増えた。魚介は年間28.6kgで、動物性食品の割合は10.0%と低い。肉は豚肉12.7kg、鶏肉10.2kg、牛肉1.5kgである。数字は出回った量で、実際に食べた量より多い。\n米はタイ最重要の農産物で、世界の米市場の主要な輸出国でもある。砂糖やタピオカ、ゴムも多く作られ、沿岸ではエビの養殖が行われる。農業の発展は1960年代から続き、食品価格は半減し、子どもの栄養失調は1987年の17%から2006年に7%へ減った。\nただ、米の食べ方は変わりつつある。米国農務省によると、1人当たりの年間の米消費は2018年の100kgから75kgへ減り、食べ物や生活様式の変化が理由とされる。地域差は大きく、東北部142kg、北部109kg、南部83kg、中部とバンコク43kgである。外国人観光客は2023年に約2800万人で、2024年の国内消費の見通しを支えるとされる。\n保健省の食事指針（1998年改訂）は、米や雑穀などでんぷん質を十分に、野菜と果物をたっぷりとり、肉・豆・卵・牛乳は適量、油・砂糖・塩は控えるよう勧める。米が中心で、ほかの炭水化物で代えてもよいとしている。",
+  "sources": [
+    {
+      "title": "米国農務省海外農業局（バンコク）「Grain and Feed Annual」（2024年3月）",
+      "url": "https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Grain+and+Feed+Annual_Bangkok_Thailand_TH2024-0018.pdf"
+    },
+    {
+      "title": "FAO「Food-based dietary guidelines: Thailand」",
+      "url": "https://www.fao.org/nutrition/education/food-dietary-guidelines/regions/countries/thailand/en/"
+    },
+    {
+      "title": "Wikipedia「タイ王国」",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E7%8E%8B%E5%9B%BD"
+    }
+  ]
+}

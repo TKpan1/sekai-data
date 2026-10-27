@@ -1,0 +1,278 @@
+{
+  "iso3": "MAR",
+  "input_hash": "e551f0394d7d01c6",
+  "events": [
+    {
+      "year": 1844,
+      "label": "イスーリーの戦い",
+      "text": "1844年、フランスのアルジェリア侵攻の中でアブデルカーデルを支援して軍を送ったが、イスーリーの戦いで敗れた。",
+      "sources": [
+        {
+          "title": "Wikipedia「モロッコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AD%E3%83%83%E3%82%B3"
+        }
+      ]
+    },
+    {
+      "year": 1856,
+      "label": "英国と不平等条約",
+      "text": "1856年にイギリスと不平等条約を結び、それまでの鎖国政策が崩れた。",
+      "sources": [
+        {
+          "title": "Wikipedia「モロッコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AD%E3%83%83%E3%82%B3"
+        }
+      ]
+    },
+    {
+      "year": 1904,
+      "label": "英仏協商",
+      "text": "1904年の英仏協商で、フランスがモロッコにおける優越権を獲得した。",
+      "sources": [
+        {
+          "title": "Wikipedia「モロッコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AD%E3%83%83%E3%82%B3"
+        }
+      ]
+    },
+    {
+      "year": 1912,
+      "label": "保護領化",
+      "text": "1912年のフェス条約で国土の大部分がフランスの保護領となり、北部はスペイン領、タンジェとの3区域に分割された。",
+      "sources": [
+        {
+          "title": "Wikipedia「モロッコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AD%E3%83%83%E3%82%B3"
+        },
+        {
+          "title": "Wikipedia「モロッコの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AD%E3%83%83%E3%82%B3%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1920,
+      "label": "第三次リーフ戦争",
+      "text": "1920年、アブド・アルカリームがスペイン領リーフ地方で反乱を起こしてリーフ共和国を建てたが、1925年に崩壊した。",
+      "sources": [
+        {
+          "title": "Wikipedia「モロッコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AD%E3%83%83%E3%82%B3"
+        },
+        {
+          "title": "Wikipedia「モロッコの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AD%E3%83%83%E3%82%B3%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1936,
+      "label": "スペイン内戦",
+      "text": "1936年、駐モロッコ・スペイン軍が反乱を起こしてスペイン内戦が始まり、7万人近いモロッコ人兵士が反乱軍側で戦った。",
+      "sources": [
+        {
+          "title": "Wikipedia「モロッコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AD%E3%83%83%E3%82%B3"
+        },
+        {
+          "title": "Wikipedia「モロッコの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AD%E3%83%83%E3%82%B3%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1943,
+      "label": "カサブランカ会談",
+      "text": "1943年1月にカサブランカ会談が開かれた。スルターンが米大統領に独立への理解を求め、同年末にイスティクラール党が結成された。",
+      "sources": [
+        {
+          "title": "Wikipedia「モロッコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AD%E3%83%83%E3%82%B3"
+        },
+        {
+          "title": "Wikipedia「モロッコの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AD%E3%83%83%E3%82%B3%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1956,
+      "label": "独立",
+      "text": "1956年3月2日にモロッコはフランスから独立し、スペインも飛び地などを除いて領有権を放棄した。",
+      "sources": [
+        {
+          "title": "Wikipedia「モロッコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AD%E3%83%83%E3%82%B3"
+        },
+        {
+          "title": "Wikipedia「モロッコの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AD%E3%83%83%E3%82%B3%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1957,
+      "label": "国王制へ",
+      "text": "1957年にスルターン・ムハンマド5世が正式に国王となり、スルターン号が廃止された。同年スペインとイフニ戦争が起きた。",
+      "sources": [
+        {
+          "title": "Wikipedia「モロッコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AD%E3%83%83%E3%82%B3"
+        },
+        {
+          "title": "Wikipedia「モロッコの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AD%E3%83%83%E3%82%B3%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1962,
+      "label": "憲法制定",
+      "text": "1961年に即位したハサン2世のもと、1962年に憲法が制定され、君主の権限が極めて強い立憲君主制国家に移行した。",
+      "sources": [
+        {
+          "title": "Wikipedia「モロッコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AD%E3%83%83%E3%82%B3"
+        },
+        {
+          "title": "Wikipedia「モロッコの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AD%E3%83%83%E3%82%B3%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1963,
+      "label": "砂戦争",
+      "text": "1963年10月、アルジェリアと未確定領土を巡って砂戦争が勃発した。",
+      "sources": [
+        {
+          "title": "Wikipedia「モロッコの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AD%E3%83%83%E3%82%B3%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1971,
+      "label": "クーデター未遂",
+      "text": "1971年7月にクーデター未遂が起き、翌1972年には空軍が国王の暗殺を謀った。",
+      "sources": [
+        {
+          "title": "Wikipedia「モロッコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AD%E3%83%83%E3%82%B3"
+        },
+        {
+          "title": "Wikipedia「モロッコの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AD%E3%83%83%E3%82%B3%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1975,
+      "label": "緑の行進",
+      "text": "1975年11月、35万人の非武装のモロッコ人が西サハラへ越境大行進を行い（緑の行進）、西サハラを実効支配した。",
+      "sources": [
+        {
+          "title": "Wikipedia「モロッコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AD%E3%83%83%E3%82%B3"
+        },
+        {
+          "title": "Wikipedia「モロッコの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AD%E3%83%83%E3%82%B3%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1984,
+      "label": "OAU脱退",
+      "text": "1982年にOAUが西サハラの加盟を認めたことに抗議し、1984年6月にOAUを脱退した。",
+      "sources": [
+        {
+          "title": "Wikipedia「モロッコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AD%E3%83%83%E3%82%B3"
+        },
+        {
+          "title": "Wikipedia「モロッコの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AD%E3%83%83%E3%82%B3%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1991,
+      "label": "西サハラ停戦",
+      "text": "1991年に国連安保理決議の下で西サハラ停戦が成立したが、住民投票は実施されていない。",
+      "sources": [
+        {
+          "title": "Wikipedia「モロッコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AD%E3%83%83%E3%82%B3"
+        },
+        {
+          "title": "Wikipedia「モロッコの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AD%E3%83%83%E3%82%B3%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1999,
+      "label": "ムハンマド6世即位",
+      "text": "1999年にハサン2世が死去し、ムハンマド6世が即位した。同年から直接投資受入額が急伸した。",
+      "sources": [
+        {
+          "title": "Wikipedia「モロッコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AD%E3%83%83%E3%82%B3"
+        },
+        {
+          "title": "Wikipedia「モロッコの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AD%E3%83%83%E3%82%B3%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 2003,
+      "label": "カサブランカのテロ",
+      "text": "2003年5月16日、イスラーム主義組織によってカサブランカで自爆テロ事件が発生した。",
+      "sources": [
+        {
+          "title": "Wikipedia「モロッコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AD%E3%83%83%E3%82%B3"
+        },
+        {
+          "title": "Wikipedia「モロッコの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AD%E3%83%83%E3%82%B3%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "label": "憲法改正",
+      "text": "2011年のアラブの春の影響を受けた騒乱により、7月に憲法を改正し、国王の権限を縮小して首相の権限を強化した。",
+      "sources": [
+        {
+          "title": "Wikipedia「モロッコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AD%E3%83%83%E3%82%B3"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "label": "AU再加入",
+      "text": "2017年1月31日、アフリカ連合への再加入が承認された。",
+      "sources": [
+        {
+          "title": "Wikipedia「モロッコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AD%E3%83%83%E3%82%B3"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "label": "イスラエルと国交",
+      "text": "2020年12月10日、アメリカの仲介でイスラエルと国交を正常化した。",
+      "sources": [
+        {
+          "title": "Wikipedia「モロッコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AD%E3%83%83%E3%82%B3"
+        }
+      ]
+    }
+  ]
+}

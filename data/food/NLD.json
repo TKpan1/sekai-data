@@ -1,0 +1,19 @@
+{
+  "iso3": "NLD",
+  "input_hash": "31c1ef8036928794",
+  "text": "世界と比べて目立つのは乳・卵である。FAOの供給量（2023年）では1人1日3,467kcalのうち19.0%を占め、世界の6.9%の3倍近い。動物性食品は30.4%と高く、穀類は20.7%（世界42.4%）にとどまる。肉は年71.6kgで、豚36.7kg、牛16.9kg、鶏14.8kgである。\n乳の多くはチーズになる。オランダ統計局（CBS）によれば、2020年に乳業が受け取った牛乳は約140億kgで、その59%の83億kgがチーズに使われた。2021年の牛乳チーズの生産は9億4,680万kgで、国内に残ったのは3億8,570万kg、輸出は9億4,280万kgだった。1人当たりの消費は年22.1kgだが、生産は1人当たり約54kgあり、国内で食べる量を大きく超えて作られている。\n国立公衆衛生環境研究所（RIVM）の全国食品消費調査では、食事は変わりつつある。1人1日の野菜は2007〜10年の128gから2019〜21年の163gに、果物は103gから129gに増え、赤肉と加工肉は20%以上減った。砂糖入り飲料も2012〜16年の382gから240gに減った。それでも大半の人はオランダの食事指針を満たしていない。\nOECDとFAOは、豚肉の消費はEUなどすでに高い地域で、健康や環境への懸念が食を左右するため、今後は増えにくいとみる。",
+  "sources": [
+    {
+      "title": "オランダ統計局（CBS）「How much cheese do we produce? - The Netherlands in numbers 2022」",
+      "url": "https://longreads.cbs.nl/the-netherlands-in-numbers-2022/how-much-cheese-do-we-produce/"
+    },
+    {
+      "title": "RIVM「Dutch people eat more healthy foods: more plant products, less red and processed meat」",
+      "url": "https://www.rivm.nl/en/news/dutch-people-eat-more-healthy-foods-more-plant-products-less-red-and-processed-meat-0"
+    },
+    {
+      "title": "OECD・FAO「Agricultural Outlook 2025-2034」",
+      "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/07/oecd-fao-agricultural-outlook-2025-2034_3eb15914/601276cd-en.pdf"
+    }
+  ]
+}

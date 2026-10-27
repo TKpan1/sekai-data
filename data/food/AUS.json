@@ -1,0 +1,23 @@
+{
+  "iso3": "AUS",
+  "input_hash": "80523438699470d4",
+  "text": "世界と比べて目立つのは、穀類の少なさと、肉・乳・油脂の多さである。FAOの供給量（2023年）では1人1日3,562kcalのうち、穀類は20.7%（世界42.4%）と世界の約半分で、肉が14.1%（同8.3%）、乳・卵が11.2%（同6.9%）、油脂が22.7%（同15.9%）を占める。肉は年116.8kgで、鶏53.1kg、牛26.9kg、豚25.1kgに加え、羊・山羊も10.6kgある。\n食の骨格は1788年の入植後にできた英国式である。入植後はヒツジとウシが食肉の中心になり、1880年に冷凍船が初めてロンドンへ肉を運んでから生産が急増して価格が下がったとされる。OECDとFAOも、オーストラリアは羊肉の世界の主要な輸出国だとする。\nオーストラリア統計局（ABS）の小売ベースの推計では、1人1日の消費は2023〜24年度に鶏肉50.6g、牛・羊・豚肉48.0gで、2018〜19年度から鶏肉は約9%増え、牛・羊・豚肉は約1%の増加にとどまる。\nABSの全国栄養調査では、2023年に摂取エネルギーの31.3%が栄養価の低い嗜好品（discretionary foods）で、2011〜12年の35.4%から下がった。1人1日の摂取量は野菜153g、果物103g、乳製品172gである。",
+  "sources": [
+    {
+      "title": "オーストラリア統計局（ABS）「Apparent Consumption of Selected Foodstuffs, Australia, 2023-24」",
+      "url": "https://www.abs.gov.au/statistics/health/food-and-nutrition/apparent-consumption-selected-foodstuffs-australia/latest-release"
+    },
+    {
+      "title": "オーストラリア統計局（ABS）「Food and nutrients, 2023」",
+      "url": "https://www.abs.gov.au/statistics/health/food-and-nutrition/food-and-nutrients/latest-release"
+    },
+    {
+      "title": "OECD・FAO「Agricultural Outlook 2025-2034」",
+      "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/07/oecd-fao-agricultural-outlook-2025-2034_3eb15914/601276cd-en.pdf"
+    },
+    {
+      "title": "Wikipedia「オーストラリア料理」",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2%E6%96%99%E7%90%86"
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "iso3": "NGA",
+  "input_hash": "604258f9e438b95c",
+  "events": [
+    {
+      "year": 1804,
+      "label": "ソコト帝国",
+      "text": "ウスマン・ダン・フォディオがフラニ戦争（1804年〜1808年）を起こし、北部一帯にソコト帝国を建国した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ナイジェリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%A4%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1884,
+      "label": "英国の保護領に",
+      "text": "1884年にオイルリバーズ保護領が成立し、1886年には王立ニジェール会社がナイジェリア一帯の支配を始めた。",
+      "sources": [
+        {
+          "title": "Wikipedia「ナイジェリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%A4%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1903,
+      "label": "ソコト帝国滅亡",
+      "text": "1903年にソコト帝国も滅亡し、イギリスとフランスに分割された。",
+      "sources": [
+        {
+          "title": "Wikipedia「ナイジェリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%A4%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1914,
+      "label": "英領ナイジェリア",
+      "text": "南北2つの保護領が1914年に統合され、英領ナイジェリア植民地となった。",
+      "sources": [
+        {
+          "title": "Wikipedia「ナイジェリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%A4%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1954,
+      "label": "自治領に",
+      "text": "第二次大戦後にナショナリズムが高まり、1954年に自治領となった。",
+      "sources": [
+        {
+          "title": "Wikipedia「ナイジェリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%A4%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1956,
+      "label": "原油採掘の開始",
+      "text": "1956年、シェルがニジェール・デルタのオゴニで原油採掘を開始した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ナイジェリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%A4%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1960,
+      "label": "独立",
+      "text": "1960年、北部・西部・東部の3地域からなる連邦制国家として完全独立を果たした。",
+      "sources": [
+        {
+          "title": "Wikipedia「ナイジェリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%A4%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1963,
+      "label": "連邦共和国憲法",
+      "text": "1963年に連邦共和国憲法を制定し、英連邦王国から大統領制に移行した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ナイジェリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%A4%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1966,
+      "label": "クーデター",
+      "text": "1966年1月にイロンシ将軍のクーデターが起き、7月には彼が暗殺されてゴウォン軍事政権が樹立された。",
+      "sources": [
+        {
+          "title": "Wikipedia「ナイジェリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%A4%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1967,
+      "label": "ビアフラ戦争",
+      "text": "1967年、東部州がイボ族を中心にビアフラ共和国の独立を宣言して内戦となり、1970年にイボ族の敗北で終結した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ナイジェリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%A4%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1975,
+      "label": "軍内クーデター",
+      "text": "1975年に軍の民政移行派のクーデターが成功し、ムハンマドが大統領に就任した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ナイジェリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%A4%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1979,
+      "label": "文民大統領誕生",
+      "text": "1979年の大統領選挙でシャガリが当選し、文民大統領が誕生した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ナイジェリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%A4%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1983,
+      "label": "再び軍政に",
+      "text": "1983年にブハリ将軍ら軍政派のクーデターで再び軍政に戻った。1985年にはババンギダが実権を握った。",
+      "sources": [
+        {
+          "title": "Wikipedia「ナイジェリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%A4%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1993,
+      "label": "アバチャ政権",
+      "text": "1993年6月の再選挙でアビオラが勝利したが、11月にアバチャ将軍が実権を掌握し、圧政を敷いた。",
+      "sources": [
+        {
+          "title": "Wikipedia「ナイジェリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%A4%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 1999,
+      "label": "民政移管",
+      "text": "1998年にアバチャが死去し、1999年に新憲法が制定されて民政へ移行した。オバサンジョが大統領に当選した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ナイジェリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%A4%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 2009,
+      "label": "ボコ・ハラム蜂起",
+      "text": "2009年7月26日、イスラム過激派組織ボコ・ハラムの蜂起が勃発した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ナイジェリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%A4%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "label": "アフリカ最大の経済",
+      "text": "2014年に南アフリカを抜いてアフリカ最大の経済大国となった。同年、ボコ・ハラムによる女子生徒276人の拉致事件が起きた。",
+      "sources": [
+        {
+          "title": "Wikipedia「ナイジェリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%A4%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "label": "ブハリが大統領に",
+      "text": "2015年3月の大統領選挙でブハリがジョナサンを破り、大統領に当選した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ナイジェリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%A4%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2"
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "label": "国家緊急事態宣言",
+      "text": "2025年11月、相次ぐ襲撃事件を受けてティヌブ大統領が国家緊急事態を宣言した。12月には米軍がソコト州を爆撃した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ナイジェリア」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%A4%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2"
+        }
+      ]
+    }
+  ]
+}

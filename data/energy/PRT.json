@@ -1,0 +1,15 @@
+{
+ "iso3": "PRT",
+ "input_hash": "f06b16bdd0b7c44f",
+ "text": "ポルトガルは風力が26.7%（2025年）で、世界平均（8.5%）の3倍にのぼる。水力29.7%、太陽光17.3%と合わせた3電源で73.7%を占める。1990年は石炭32.0%、石油33.3%、水力32.3%でほぼ三等分だった。\n背景には、国内の化石燃料資源が乏しいことがある。米国商務省 ITA は、ポルトガルを国内資源が限られ輸入依存度の高い国と説明する。ガスは主にシネス港のLNG基地から入る。\n石炭火力は2021年にシネスとペゴの最後の発電所が閉じて全廃された。Emberは、その撤退を可能にしたのが風力と隣国との連系線だとみる。近年は太陽光が増え、2022年に0.9GWが加わって設備容量は2.5GWになり、ガスを押し出し始めた。\n水力は雨に左右され、2022年と2023年春の干ばつで出力が落ちた。それでもITAによると、2024年の再エネは発電の87.5%（Eurostat）で、EU第2位である。設備は水力約8GW、陸上風力5GW超、太陽光4GW弱で、政府は2030年に再エネ電力80%以上を目標とする。",
+ "sources": [
+  {
+   "title": "米国商務省 ITA「Portugal - Energy」",
+   "url": "https://www.trade.gov/country-commercial-guides/portugal-energy"
+  },
+  {
+   "title": "Ember「Wind and solar produce more than half of Portugal's electricity for the first time」",
+   "url": "https://ember-energy.org/latest-updates/wind-and-solar-produce-more-than-half-of-portugals-electricity-for-the-first-time/"
+  }
+ ]
+}

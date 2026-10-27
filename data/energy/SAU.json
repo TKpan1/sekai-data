@@ -1,0 +1,19 @@
+{
+ "iso3": "SAU",
+ "input_hash": "37b8323bbc0a571f",
+ "text": "サウジアラビアの電力は、石油とガスにほぼ限られる（2024年はガス63.3%、石油34.5%）。風力と太陽光は合わせて2.1%にとどまる。1985年もガス57.6%、石油42.4%で、化石燃料だけだった。\n石油を直接燃やす理由について、米国EIAは夏の冷房による需要の急増を挙げる。国内に石炭はなく、ガスの大半は油田の随伴ガスである。非随伴ガスの増産は、硫黄分の高さと国内のガス価格の低さで難航してきた。2024年6月の原油・重油の燃焼は日量141.9万バレルに達した。\n政府はこれを減らそうとしている。EIAによれば、ガス火力の設備比率を2022年の46%から2030年に50%へ上げる。再エネは2030年に設備の50%を目標とし、2023年末は3%（2.8GW）だった。2024年半ばには21GW超の計画があり、うち9.7GWが2026年までに完成予定である。米国商務省 ITA によれば、石油・ディーゼル火力は段階的に廃止する方針である。",
+ "sources": [
+  {
+   "title": "米国エネルギー情報局（EIA）「Saudi Arabia」国別分析",
+   "url": "https://www.eia.gov/international/content/analysis/countries_long/saudi_arabia/"
+  },
+  {
+   "title": "米国エネルギー情報局（EIA）「Today in Energy: Saudi Arabia uses largest amount of crude oil for power generation since 2010」",
+   "url": "https://www.eia.gov/todayinenergy/detail.php?id=18111"
+  },
+  {
+   "title": "米国商務省 ITA「Saudi Arabia - Power」",
+   "url": "https://www.trade.gov/country-commercial-guides/saudi-arabia-power"
+  }
+ ]
+}

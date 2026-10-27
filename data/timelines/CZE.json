@@ -1,0 +1,248 @@
+{
+  "iso3": "CZE",
+  "input_hash": "12767adb77baad34",
+  "events": [
+    {
+      "year": 1848,
+      "label": "1848年革命",
+      "text": "1848年の革命がチェコ革命を誘発し、パラツキーがプラハでスラヴ人会議を開いて汎スラヴ主義が提唱された。",
+      "sources": [
+        {
+          "title": "Wikipedia「チェコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%82%B3"
+        }
+      ]
+    },
+    {
+      "year": 1867,
+      "label": "アウスグライヒ",
+      "text": "1867年のアウスグライヒでオーストリア・ハンガリー帝国が成立したが、チェコ人を満足させるものではなかった。",
+      "sources": [
+        {
+          "title": "Wikipedia「チェコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%82%B3"
+        }
+      ]
+    },
+    {
+      "year": 1918,
+      "label": "チェコスロバキア独立",
+      "text": "1918年、チェコとスロバキアが合同してチェコスロバキア共和国として独立し、マサリクが初代大統領に就任した。",
+      "sources": [
+        {
+          "title": "Wikipedia「チェコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%82%B3"
+        },
+        {
+          "title": "Wikipedia「チェコの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%82%B3%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1938,
+      "label": "ミュンヘン会談",
+      "text": "1938年9月のミュンヘン会談で、ズデーテン地方をドイツに割譲した。",
+      "sources": [
+        {
+          "title": "Wikipedia「チェコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%82%B3"
+        },
+        {
+          "title": "Wikipedia「チェコの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%82%B3%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1939,
+      "label": "ドイツの保護領に",
+      "text": "1939年にナチス・ドイツが進駐してチェコスロバキアは解体され、ボヘミア・モラヴィアはドイツの保護領となった。",
+      "sources": [
+        {
+          "title": "Wikipedia「チェコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%82%B3"
+        },
+        {
+          "title": "Wikipedia「チェコの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%82%B3%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1945,
+      "label": "ソ連軍の「解放」",
+      "text": "1945年、ソ連軍によって国土の大半が「解放」され、250万人を超えるドイツ系住民が追放された。",
+      "sources": [
+        {
+          "title": "Wikipedia「チェコの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%82%B3%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1948,
+      "label": "二月事件",
+      "text": "1948年2月、共産党が圧力をかけて政権を握り、共産化が完了した（二月事件）。",
+      "sources": [
+        {
+          "title": "Wikipedia「チェコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%82%B3"
+        },
+        {
+          "title": "Wikipedia「チェコの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%82%B3%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1960,
+      "label": "社会主義共和国",
+      "text": "1960年に発布された憲法により、国名はチェコスロヴァキア社会主義共和国となった。",
+      "sources": [
+        {
+          "title": "Wikipedia「チェコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%82%B3"
+        },
+        {
+          "title": "Wikipedia「チェコの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%82%B3%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1968,
+      "label": "プラハの春",
+      "text": "1968年、ドゥプチェクが自由化改革「プラハの春」を進めたが、8月にワルシャワ条約機構軍の介入で鎮圧された。",
+      "sources": [
+        {
+          "title": "Wikipedia「チェコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%82%B3"
+        },
+        {
+          "title": "Wikipedia「チェコの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%82%B3%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1977,
+      "label": "憲章77",
+      "text": "1977年、パトチカやハヴェルらが憲章77を発表し、政府の人権抑圧に抗議する運動を起こした。",
+      "sources": [
+        {
+          "title": "Wikipedia「チェコの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%82%B3%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1989,
+      "label": "ビロード革命",
+      "text": "1989年11月17日、ビロード革命により共産党体制が崩壊し、ハヴェルが大統領に就任した。",
+      "sources": [
+        {
+          "title": "Wikipedia「チェコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%82%B3"
+        },
+        {
+          "title": "Wikipedia「チェコの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%82%B3%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1993,
+      "label": "チェコとスロバキア分離",
+      "text": "1993年1月、チェコスロバキアはチェコとスロバキアに平和的に分離した（ビロード離婚）。",
+      "sources": [
+        {
+          "title": "Wikipedia「チェコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%82%B3"
+        },
+        {
+          "title": "Wikipedia「チェコの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%82%B3%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1995,
+      "label": "OECD加盟",
+      "text": "1995年11月28日、経済協力開発機構（OECD）に加盟した。",
+      "sources": [
+        {
+          "title": "Wikipedia「チェコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%82%B3"
+        },
+        {
+          "title": "Wikipedia「チェコの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%82%B3%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1999,
+      "label": "NATO加盟",
+      "text": "1999年3月12日、北大西洋条約機構（NATO）に加盟した。",
+      "sources": [
+        {
+          "title": "Wikipedia「チェコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%82%B3"
+        },
+        {
+          "title": "Wikipedia「チェコの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%82%B3%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 2002,
+      "label": "ヴルタヴァ川の氾濫",
+      "text": "2002年8月の記録的な豪雨でヴルタヴァ川が氾濫し、プラハをはじめ多くの都市が被害を受けた。",
+      "sources": [
+        {
+          "title": "Wikipedia「チェコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%82%B3"
+        }
+      ]
+    },
+    {
+      "year": 2004,
+      "label": "EU加盟",
+      "text": "2004年5月1日、欧州連合（EU）に加盟した。",
+      "sources": [
+        {
+          "title": "Wikipedia「チェコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%82%B3"
+        },
+        {
+          "title": "Wikipedia「チェコの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%82%B3%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 2008,
+      "label": "リーマン・ショック",
+      "text": "2008年のリーマン・ショックをきっかけに経済は一時停滞したが、2014年以降再び成長軌道へ戻った。",
+      "sources": [
+        {
+          "title": "Wikipedia「チェコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%82%B3"
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "label": "バビシュ首相復帰",
+      "text": "2025年の下院選挙で勝利したANO 2011のバビシュが、12月に連立政権を形成して首相に返り咲いた。",
+      "sources": [
+        {
+          "title": "Wikipedia「チェコ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%82%B3"
+        }
+      ]
+    }
+  ]
+}

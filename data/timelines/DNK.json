@@ -1,0 +1,182 @@
+{
+  "iso3": "DNK",
+  "input_hash": "291d6178d834369d",
+  "events": [
+    {
+      "year": 1814,
+      "label": "ノルウェーを失う",
+      "text": "ナポレオン戦争でフランス側につき敗れ、キール条約で長年支配したノルウェーをスウェーデンに奪われた。",
+      "sources": [
+        {
+          "title": "Wikipedia「デンマーク」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%AF"
+        }
+      ]
+    },
+    {
+      "year": 1848,
+      "label": "シュレースヴィヒ戦争",
+      "text": "民族主義運動が高まったが、第一次シュレースヴィヒ戦争での敗北で終わった。",
+      "sources": [
+        {
+          "title": "Wikipedia「デンマーク」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%AF"
+        }
+      ]
+    },
+    {
+      "year": 1849,
+      "label": "憲法制定",
+      "text": "6月5日に憲法が制定され、絶対君主制が廃止されて現在の議会制度が導入された。",
+      "sources": [
+        {
+          "title": "Wikipedia「デンマーク」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%AF"
+        }
+      ]
+    },
+    {
+      "year": 1940,
+      "label": "ドイツの侵攻",
+      "text": "ナチス・ドイツの侵攻を受け、国王クリスチャン10世は4時間で降伏を選び、ドイツの保護国となった。",
+      "sources": [
+        {
+          "title": "Wikipedia「デンマーク」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%AF"
+        }
+      ]
+    },
+    {
+      "year": 1943,
+      "label": "抵抗運動の台頭",
+      "text": "ナチス・ドイツの占領下で抵抗運動が台頭した。",
+      "sources": [
+        {
+          "title": "Wikipedia「デンマーク」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%AF"
+        }
+      ]
+    },
+    {
+      "year": 1944,
+      "label": "アイスランド独立",
+      "text": "アイスランドが独立を宣言し、デンマークとの連合を解消した。",
+      "sources": [
+        {
+          "title": "Wikipedia「デンマーク」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%AF"
+        }
+      ]
+    },
+    {
+      "year": 1945,
+      "label": "解放",
+      "text": "5月、ナチス・ドイツの支配から解放された。",
+      "sources": [
+        {
+          "title": "Wikipedia「デンマーク」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%AF"
+        }
+      ]
+    },
+    {
+      "year": 1953,
+      "label": "憲法改正",
+      "text": "上院が廃止され、女性も王位を継承できるようになった。",
+      "sources": [
+        {
+          "title": "Wikipedia「デンマーク」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%AF"
+        }
+      ]
+    },
+    {
+      "year": 1972,
+      "label": "マルグレーテ2世即位",
+      "text": "1953年の憲法改正で王位継承者となったマルグレーテ2世が即位した。",
+      "sources": [
+        {
+          "title": "Wikipedia「デンマーク」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%AF"
+        }
+      ]
+    },
+    {
+      "year": 1973,
+      "label": "EC加盟",
+      "text": "グリーンランドとともにヨーロッパ共同体に加盟した。",
+      "sources": [
+        {
+          "title": "Wikipedia「デンマーク」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%AF"
+        }
+      ]
+    },
+    {
+      "year": 1981,
+      "label": "油田の国有化",
+      "text": "北海油田の探査が非効率な制度に阻まれていたため、ほぼすべての油田を国有化した。",
+      "sources": [
+        {
+          "title": "Wikipedia「デンマーク」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%AF"
+        }
+      ]
+    },
+    {
+      "year": 2000,
+      "label": "ユーロ導入を否決",
+      "text": "国民投票でユーロ参加が否決され、クローネの使用を続けている。",
+      "sources": [
+        {
+          "title": "Wikipedia「デンマーク」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%AF"
+        }
+      ]
+    },
+    {
+      "year": 2009,
+      "label": "グリーンランド自治拡大",
+      "text": "グリーンランドがさらなる自治権を獲得した。国民投票で女子の無条件の王位継承も認められた。",
+      "sources": [
+        {
+          "title": "Wikipedia「デンマーク」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%AF"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "label": "中道左派政権",
+      "text": "総選挙で中道左派連合が僅差で勝ち、ヘレ・トーニング＝シュミット内閣が発足した。",
+      "sources": [
+        {
+          "title": "Wikipedia「デンマーク」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%AF"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "label": "同性婚の合法化",
+      "text": "同性婚が可能になった。",
+      "sources": [
+        {
+          "title": "Wikipedia「デンマーク」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%AF"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "label": "徴兵制の拡大",
+      "text": "徴兵期間を4か月から11か月に延長し、女性も徴兵対象とすることを発表した。",
+      "sources": [
+        {
+          "title": "Wikipedia「デンマーク」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%AF"
+        }
+      ]
+    }
+  ]
+}

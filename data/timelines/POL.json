@@ -1,0 +1,208 @@
+{
+  "iso3": "POL",
+  "input_hash": "987d5442efb64e03",
+  "events": [
+    {
+      "year": 1807,
+      "label": "ワルシャワ公国建国",
+      "text": "ナポレオン戦争中にナポレオンによってワルシャワ公国が建国されたが、実態はフランス帝国の衛星国に過ぎなかった。",
+      "sources": [
+        {
+          "title": "Wikipedia「ポーランド」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89"
+        }
+      ]
+    },
+    {
+      "year": 1815,
+      "label": "ポーランド立憲王国",
+      "text": "ウィーン議定書に基づきワルシャワ公国は解体され、ロシア皇帝が国王を兼ねるポーランド立憲王国が成立した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ポーランド」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89"
+        }
+      ]
+    },
+    {
+      "year": 1830,
+      "label": "十一月蜂起",
+      "text": "ロシア帝国からの独立を目指して「十一月蜂起」が起こったが、翌年に鎮圧された。",
+      "sources": [
+        {
+          "title": "Wikipedia「ポーランド」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89"
+        }
+      ]
+    },
+    {
+      "year": 1863,
+      "label": "一月蜂起",
+      "text": "旧ポーランド王国領と旧リトアニア大公国領で同時に「一月蜂起」が起きたが、ロシア帝国に鎮圧された。",
+      "sources": [
+        {
+          "title": "Wikipedia「ポーランド」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89"
+        }
+      ]
+    },
+    {
+      "year": 1918,
+      "label": "独立回復",
+      "text": "第一次世界大戦の終結により、ピウスツキを国家元首とする共和制のポーランド国家が再生した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ポーランド」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89"
+        },
+        {
+          "title": "Wikipedia「ポーランドの歴史」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E3%81%AE%E6%AD%B4%E5%8F%B2"
+        }
+      ]
+    },
+    {
+      "year": 1920,
+      "label": "ポーランド・ソビエト戦争",
+      "text": "ソビエトへ侵攻してポーランド・ソビエト戦争が起き、赤軍を押し返した戦いは「ヴィスワ川の奇跡」と呼ばれた。",
+      "sources": [
+        {
+          "title": "Wikipedia「ポーランド」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89"
+        }
+      ]
+    },
+    {
+      "year": 1926,
+      "label": "ピウスツキのクーデター",
+      "text": "ピウスツキがクーデターで政権を奪取して開発独裁を主導し、経済は急速に発展した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ポーランド」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89"
+        }
+      ]
+    },
+    {
+      "year": 1939,
+      "label": "独ソのポーランド侵攻",
+      "text": "ドイツ軍とソ連軍が侵攻し、ポーランドの国土は分割占領された。亡命政府はパリ、次いでロンドンに拠点を移した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ポーランド」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89"
+        }
+      ]
+    },
+    {
+      "year": 1944,
+      "label": "ワルシャワ蜂起",
+      "text": "国内軍とワルシャワ市民が蜂起したが、赤軍は救援を行わず、約20万人が死亡して失敗に終わった。",
+      "sources": [
+        {
+          "title": "Wikipedia「ポーランド」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89"
+        }
+      ]
+    },
+    {
+      "year": 1945,
+      "label": "人民共和国の成立",
+      "text": "ポーランドはソ連の占領下に置かれ、統一労働者党が支配する人民共和国の時代が始まった。領土は大きく西へ移った。",
+      "sources": [
+        {
+          "title": "Wikipedia「ポーランド」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89"
+        }
+      ]
+    },
+    {
+      "year": 1980,
+      "label": "「連帯」結成",
+      "text": "独立自主管理労働組合「連帯」が結成された。政府は同年までに230億ドルの負債を抱えていた。",
+      "sources": [
+        {
+          "title": "Wikipedia「ポーランド」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89"
+        }
+      ]
+    },
+    {
+      "year": 1981,
+      "label": "戒厳令",
+      "text": "政府は反政府勢力を潰すため戒厳令を敷き、市民生活は大きく制限された（1983年まで）。",
+      "sources": [
+        {
+          "title": "Wikipedia「ポーランド」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89"
+        }
+      ]
+    },
+    {
+      "year": 1989,
+      "label": "民主化",
+      "text": "円卓会議を経た総選挙で統一労働者党はほぼ潰滅し、非共産党政府が成立して民主化が実現した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ポーランド」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89"
+        }
+      ]
+    },
+    {
+      "year": 1997,
+      "label": "憲法改正",
+      "text": "憲法の大幅な改正で行政権が大統領から首相へ大きく移され、首相が政治の実権を握ることになった。",
+      "sources": [
+        {
+          "title": "Wikipedia「ポーランド」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89"
+        }
+      ]
+    },
+    {
+      "year": 1999,
+      "label": "NATO加盟",
+      "text": "北大西洋条約機構（NATO）に加盟した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ポーランド」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89"
+        }
+      ]
+    },
+    {
+      "year": 2004,
+      "label": "EU加盟",
+      "text": "5月1日、欧州連合（EU）に加盟した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ポーランド」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "label": "「法と正義」政権",
+      "text": "選挙で「法と正義」が勝利し、憲法法廷の掌握を進めたことでEUとの対立が深まった。",
+      "sources": [
+        {
+          "title": "Wikipedia「ポーランド」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "label": "ウクライナ支援",
+      "text": "ロシアのウクライナ侵攻に対し、100万人以上のウクライナ難民を受け入れ、軍事支援の後方拠点となった。",
+      "sources": [
+        {
+          "title": "Wikipedia「ポーランド」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89"
+        }
+      ]
+    }
+  ]
+}

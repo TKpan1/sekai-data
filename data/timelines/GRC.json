@@ -1,0 +1,204 @@
+{
+  "iso3": "GRC",
+  "input_hash": "7379b5105e204499",
+  "events": [
+    {
+      "year": 1821,
+      "label": "独立戦争",
+      "text": "1821年3月、秘密組織フィリキ・エテリアを中心にオスマン帝国への蜂起が起こり、ギリシャ独立戦争が始まった。",
+      "sources": [
+        {
+          "title": "Wikipedia「ギリシャ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%AA%E3%82%B7%E3%83%A3"
+        }
+      ]
+    },
+    {
+      "year": 1832,
+      "label": "ギリシャ王国",
+      "text": "1829年のアドリアノープル条約で独立が承認され、1832年にバイエルン王子オットーを国王としてギリシャ王国が独立した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ギリシャ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%AA%E3%82%B7%E3%83%A3"
+        }
+      ]
+    },
+    {
+      "year": 1897,
+      "label": "希土戦争で敗北",
+      "text": "汎ギリシャ主義を掲げ、1897年にオスマン帝国に侵攻したが敗北した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ギリシャ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%AA%E3%82%B7%E3%83%A3"
+        }
+      ]
+    },
+    {
+      "year": 1912,
+      "label": "バルカン戦争",
+      "text": "1912年にバルカン同盟に加わってオスマン帝国と戦い、続くブルガリアとの戦争にも勝ってマケドニアやクレタ島を得た。",
+      "sources": [
+        {
+          "title": "Wikipedia「ギリシャ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%AA%E3%82%B7%E3%83%A3"
+        }
+      ]
+    },
+    {
+      "year": 1919,
+      "label": "アナトリア侵攻",
+      "text": "1919年から1922年にかけてアナトリアに侵攻したが、ムスタファ・ケマル率いるトルコ軍に敗れた。",
+      "sources": [
+        {
+          "title": "Wikipedia「ギリシャ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%AA%E3%82%B7%E3%83%A3"
+        }
+      ]
+    },
+    {
+      "year": 1924,
+      "label": "第二共和政",
+      "text": "1924年のクーデターにより共和制のギリシャ第二共和政となったが、1935年に王政が復活した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ギリシャ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%AA%E3%82%B7%E3%83%A3"
+        }
+      ]
+    },
+    {
+      "year": 1936,
+      "label": "メタクサス独裁",
+      "text": "1936年8月4日にメタクサスがクーデターを起こし、八月四日体制と呼ばれる独裁体制となった。",
+      "sources": [
+        {
+          "title": "Wikipedia「ギリシャ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%AA%E3%82%B7%E3%83%A3"
+        }
+      ]
+    },
+    {
+      "year": 1941,
+      "label": "枢軸国の占領",
+      "text": "1941年4月のギリシャの戦いに敗れ、本土はドイツ・イタリア・ブルガリアの3国に分割占領された。",
+      "sources": [
+        {
+          "title": "Wikipedia「ギリシャ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%AA%E3%82%B7%E3%83%A3"
+        }
+      ]
+    },
+    {
+      "year": 1946,
+      "label": "ギリシャ内戦",
+      "text": "解放後に左派と王党派の対立が深まり、1946年にギリシャ内戦が勃発した。1949年に共産主義勢力の敗北で終結した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ギリシャ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%AA%E3%82%B7%E3%83%A3"
+        }
+      ]
+    },
+    {
+      "year": 1952,
+      "label": "NATO加盟",
+      "text": "1952年に北大西洋条約機構（NATO）へ加盟した。1951年から1964年の間に国民平均所得はほぼ4倍になった。",
+      "sources": [
+        {
+          "title": "Wikipedia「ギリシャ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%AA%E3%82%B7%E3%83%A3"
+        }
+      ]
+    },
+    {
+      "year": 1967,
+      "label": "軍事クーデター",
+      "text": "1967年、総選挙を前に軍部がクーデターを起こし、翌年の憲法改正で軍事独裁政権が確立した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ギリシャ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%AA%E3%82%B7%E3%83%A3"
+        }
+      ]
+    },
+    {
+      "year": 1974,
+      "label": "民主化・共和制",
+      "text": "1974年、キプロスでのクーデターの失敗を機に軍事政権が崩壊し、国民投票で君主制が廃止されて共和制に移行した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ギリシャ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%AA%E3%82%B7%E3%83%A3"
+        }
+      ]
+    },
+    {
+      "year": 1981,
+      "label": "EC加盟",
+      "text": "1981年に欧州共同体（EC）の10番目の加盟国となった。",
+      "sources": [
+        {
+          "title": "Wikipedia「ギリシャ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%AA%E3%82%B7%E3%83%A3"
+        }
+      ]
+    },
+    {
+      "year": 2001,
+      "label": "ユーロ導入",
+      "text": "2001年にユーロを導入した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ギリシャ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%AA%E3%82%B7%E3%83%A3"
+        }
+      ]
+    },
+    {
+      "year": 2004,
+      "label": "アテネ五輪",
+      "text": "2004年、首都アテネで108年ぶりに2回目の夏季オリンピックが開催された。",
+      "sources": [
+        {
+          "title": "Wikipedia「ギリシャ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%AA%E3%82%B7%E3%83%A3"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "label": "財政危機",
+      "text": "2010年に統計操作による巨額の財政赤字隠蔽が発覚し、ユーロ圏全体を巻き込む金融危機へと発展した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ギリシャ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%AA%E3%82%B7%E3%83%A3"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "label": "SYRIZA政権",
+      "text": "2015年の選挙で緊縮受け入れに反対した急進左派連合（SYRIZA）が第一党となり、ツィプラス政権が誕生した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ギリシャ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%AA%E3%82%B7%E3%83%A3"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "label": "ミツォタキス政権",
+      "text": "2019年7月の選挙で新民主主義党が単独過半数を獲得し、ミツォタキスが首相に就任した。",
+      "sources": [
+        {
+          "title": "Wikipedia「ギリシャ」",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%AA%E3%82%B7%E3%83%A3"
+        }
+      ]
+    }
+  ]
+}
